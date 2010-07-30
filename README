@@ -39,6 +39,10 @@ All required gems are installed automagically through RubyGems.
 
 * Hpricot 0.8.1
 
+== INSTALL:
+
+  $ sudo gem install kinopoisk
+
 == TESTING:
 
 You'll need rspec and fakeweb installed to run the specs. Y

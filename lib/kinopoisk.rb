@@ -10,7 +10,5 @@ require "kinopoisk/movie"
 require "kinopoisk/search"
 
 module Kinopoisk
-  VERSION = File.open(File.expand_path(File.dirname(__FILE__) + '/../VERSION'), 'r') do |f|
-    f.read.strip
-  end
+  VERSION = File.open(File.expand_path(File.dirname(__FILE__) + '/../VERSION'), 'r') {|f| f.read.strip }
 end
