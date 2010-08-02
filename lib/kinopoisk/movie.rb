@@ -28,7 +28,8 @@ module Kinopoisk
     
     def description
       text = document.search("//td[@class='news']/span[@class='_reachbanner_']").inner_html
-      text.strip.gsub '&nbsp;', ' '
+      text = text.gsub /<br[\s\/]*>/, "\n"
+      Hpricot(text).inner_text#.strip.gsub '&nbsp;', ' '
     end
     alias :plot :description
     

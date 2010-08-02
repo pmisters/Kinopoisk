@@ -1,23 +1,23 @@
 HTTP/1.1 200 OK
 Server: nginx/0.7.62
-Date: Fri, 30 Jul 2010 11:45:39 GMT
+Date: Mon, 02 Aug 2010 07:03:27 GMT
 Content-Type: text/html; charset=windows-1251
 Connection: close
 X-Powered-By: PHP/5.2.4-2ubuntu5.6
-Set-Cookie: PHPSESSID=69b9d8912d9a8f64f6eccc42ab1d0f7b; path=/; domain=kinopoisk.ru
+Set-Cookie: PHPSESSID=2d5cf377ef9059552b56fe7a886fdf74; path=/; domain=kinopoisk.ru
 Expires: 0
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Last-Modified: Fri, 30 Jul 2010 11:45:21 GMT
-Set-Cookie: last_visit=2010-07-30+15%3A45%3A21; expires=Mon, 13-Sep-2010 11:45:21 GMT; path=/
-Set-Cookie: my_perpages=a%3A0%3A%7B%7D; expires=Sat, 30-Jul-2011 11:45:21 GMT; path=/
-Set-Cookie: users_info[check_sh_bool]=none; expires=Mon, 13-Sep-2010 11:45:21 GMT; path=/
+Last-Modified: Mon, 02 Aug 2010 07:02:52 GMT
+Set-Cookie: last_visit=2010-08-02+11%3A02%3A52; expires=Thu, 16-Sep-2010 07:02:52 GMT; path=/
+Set-Cookie: my_perpages=a%3A0%3A%7B%7D; expires=Tue, 02-Aug-2011 07:02:52 GMT; path=/
+Set-Cookie: users_info[check_sh_bool]=none; expires=Thu, 16-Sep-2010 07:02:52 GMT; path=/
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Результаты поиска (87)</title>
+<title>Результаты поиска (88)</title>
 <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
 
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
@@ -28,17 +28,6 @@ Set-Cookie: users_info[check_sh_bool]=none; expires=Mon, 13-Sep-2010 11:45:21 GM
 
 <link href="/js/search.css?v=20100727-1411" type="text/css" rel="stylesheet" media="all" />
 
-<link href="/js/brand.css?v=20100727-1411" type="text/css" rel="stylesheet" media="all" />
-<style type="text/css">
-html {background-color: #000000 !important}
-body {background: url(/images/re/522.jpg?20100724133158) 50% 0 no-repeat}
-
-#ul_menu_top span {border-color: #d4903a}
-#ul_menu_top span.act, #ul_menu_top .act span {color: #d4903a !important}
-#ul_menu_top s {background: #d4903a !important}
-
-</style>
-<style type="text/css">.png_block {background: url(/images/re/522.png?20100724133158)}</style>
 
 <!--[if IE 8]><style type="text/css">body {overflow-y: scroll}</style><![endif]-->
 <!--[if lte IE 7]><link href="/js/ie7.css?v=20100729-1409" type="text/css" rel="stylesheet" media="all" /><![endif]-->
@@ -111,123 +100,129 @@ var ar_bn1= Math.floor(Math.random()*5+1);
 
 <body onload="" onblur="" onfocus="" onclick="" onmouseover="" onmouseout="">
 
-
-
-<div id="top">
-<a class="brand snap_noshots" href="" title="Солт" target="_blank"></a>
-	<object id="branding_flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0">	   <param name="allowScriptAccess" value="sameDomain" />	   <param name="movie" value="/images/bnnr/re_522.swf?20100724133158" />	   <param name="quality" value="high" />	   <param name="wmode" value="transparent" />	   <embed src="/images/bnnr/re_522.swf?20100724133158" wmode="transparent" type="application/x-shockwave-flash" quality="high" allowScriptAccess="sameDomain" pluginspage="http://www.macromedia.com/go/getflashplayer" />	</object>
-
-   
-      <script type="text/javascript">
-         document.getElementById('branding_flash').style.visibility='hidden';
-         document.write('<img style="width: 1px; height: 1px; position: absolute; top: -300px" src="/images/re/522.jpg?20100724133158" onload="document.getElementById(\'branding_flash\').style.visibility=\'visible\';">');
-      </script>
-   
+<div class="shadow_nobrand">
 
 
 
-<script type="text/javascript">
+<!-- stop_banner start -->
 
-function ShowBrandVideo()
-{
-	document.getElementById('spec_trailer').style.display='block';
-	document.getElementById('fc_player_1').innerHTML="<a class='close' href='#' onclick='HideBrandVideo(); return false;' ></a><div id='fc_player' >Вам необходимо обновить Flash Player.</div>";
-	getPlayer("http://trailers.kinopoisk.ru/trailers/flv/447284/kinopoisk.ru-Salt-52664.flv","", 640, 272, true,"movie_522");
-	document.getElementById('superb').style.display='none';
-}
-function HideBrandVideo()
-{
-	document.getElementById('spec_trailer').style.display='none';
-	document.getElementById('fc_player_1').innerHTML='';
-	document.getElementById('superb').style.display='block';
-}
-</script>
-
-<style type="text/css">
-#spec_trailer {background: #000000 url(/images/re/522.jpg?20100724133158) center -210px no-repeat; width: 850px; height: 292px; position: absolute; top: 210px; z-index: 1000000; padding-bottom: 25px; display:none; }
-#spec_trailer_bg {background: #000000; position:absolute; width:850px; opacity: 0.5; filter:alpha(opacity=50); height:317px}
-#spec_trailer * {margin: 0; padding: 0}
-#spec_trailer img {border: none; display: block}
-.play_movie_button, .play_movie_button embed {width: 130px !important; height: 131px !important; position: absolute; cursor: pointer !important}
-div.play_movie_button {left: 600px !important; top: 40px !important; z-index: 4000000}
-#spec_trailer .block {position: relative; margin: 20px auto}
-#spec_trailer .close {background: url(/images/spec/close_trailer.png); width: 34px; height: 34px; cursor: pointer; display: block; position: absolute; top: 0; right: -44px}
-#movie_522 {width: 640px !important; height: 272px !important}
-</style>
-<!--[if lte IE 7]>
-<style type="text/css">
-#spec_trailer_bg {left:0;}
-#spec_trailer .block {top:20px;}
-</style>
-<![endif]-->
-
-<script src="/js/swfobject.2.0.js" type="text/javascript"></script>
-<script src="/js/kinopoiskPlayer7.js?20100402" type="text/javascript" ></script>
-
-<div id="spec_trailer">
-	<div id="spec_trailer_bg"></div>
-	<div class="block"  style="width: 640px" id='fc_player_1'></div>
-</div>
-
-
+<!-- stop_banner end -->
+<div id="top" style="background-color: #fff">
 <div class="hidden">
-   
-   
    <noindex>
    <!--begin of Top100-->
    <a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?519852" alt="Rambler\'s Top100" width=1 height=1 border=0></a>
    <!--end of Top100-->
-<!--LiveInternet counter--><script type="text/javascript"><!--
-document.write("<img src='http://counter.yadro.ru/hit?r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";"+Math.random()+
-"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
+	<!--LiveInternet counter--><script type="text/javascript"><!--
+	document.write("<img src='http://counter.yadro.ru/hit?r"+
+	escape(document.referrer)+((typeof(screen)=="undefined")?"":
+	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+	";"+Math.random()+
+	"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
 
-<!-- tns-counter.ru -->
-<script language="javascript">
-	var img = new Image();
-	var TopContentPoint=330;
-	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/';
-</script>
-<noscript>
-	<img src="http://www.tns-counter.ru/V13a****kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/" width="1" height="1" alt="" />
-</noscript>
-<!--/ tns-counter.ru -->
+	<!-- tns-counter.ru -->
+	<script language="JavaScript">
+	
+	var TopContentPoint=120;
+		var img = new Image();
+		img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/';
+	</script>
+	<noscript>
+		<img src="http://www.tns-counter.ru/V13a****kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/" width="1" height="1" alt="" />
+	</noscript>
+	<!--/ tns-counter.ru -->
 
    </noindex>
 </div>
-<div class="master">
-<div class="png_block png">
-
    <script src="/js/menu_top.js?v=201000624-1717" type="text/javascript"></script>
+   <noscript>
+   <ul class="menu_noscript">
+      <li>
+         <span>афиша &amp; тв</span>
+         <p><s></s><a href="/level/8/view/main/">сегодня в кино</a></p>
+         <p><s></s><a href="/level/8/view/prem/">скоро в кино</a></p>
+         <p><s></s><a href="/level/88/">фильмы на ТВ</a></p>
+         <p><s></s><a href="/level/97/">бронирование билетов</a></p>
+         <p><s></s><a href="/level/9/">все кинотеатры</a></p>
+         <p><s></s><a href="/level/22/">карта города</a></p>
+      </li>
+      <li>
+         <span>тексты</span>
+         <p><s></s><a href="/level/2/">новости кино</a></p>
+         <p><s></s><a href="/level/51/">редакционные блоги</a></p>
+         <p><s></s><a href="/level/18/">рецензии пользователей</a></p>
+         <p><s></s><a href="/level/14/">фоторепортажи</a></p>
+         <p><s></s><a href="/level/73/">интервью</a></p>
+         <p><s></s><a href="/level/69/">3500 кинорецензий</a></p>
+      </li>
+      <li>
+         <span>медиа</span>
+         <p><s></s><a href="/level/13/">фотографии</a></p>
+         <p><s></s><a href="/level/12/view/main/">обои для рабочего стола</a></p>
+         <p><s></s><a href="/level/17/view/main/">постеры</a></p>
+         <p><s></s><a href="/level/16/">трейлеры</a></p>
+         <p><s></s><a href="/level/58/">подкасты</a></p>
+         <p><s></s><a href="/level/93/">саундтреки</a></p>
+      </li>
+      <li>
+         <span>общение</span>
+         <p><s></s><a href="/level/18/">рецензии пользователей</a></p>
+         <p><s></s><a href="/board/">форум на КиноПоиске</a></p>
+         <p><s></s><a href="/level/45/">опросы</a></p>
+         <p><s></s><a href="/level/23/">обратная связь</a></p>
+      </li>
+      <li>
+         <span>рейтинги</span>
+         <p><s></s><a href="/level/70/">оценки пользователей</a></p>
+         <p><s></s><a href="/level/20/">Top250</a>, <a href="/level/53/">самые ожидаемые</a></p>
+         <p><s></s><a href="/level/48/">поиск лучших фильмов</a></p>
+         <p><s></s><a href="/level/47/">рекомендации</a></p>
+         <p><s></s><a href="/level/94">награды и кинопремии</a></p>
+         <p><s></s><a href="/level/42/">сборы в России</a>, <a href="/level/42/type/usa/">в США</a>, <a href="/level/42/type/world/">в мире</a></p>
+         <p><s></s><a href="/level/6/view_best_box/1/">кассовые рекорды</a></p>
+      </li>
+      <li>
+         <span>DVD &amp; Blu-Ray</span>
+         <p><s></s><a href="/level/25/">DVD-диски</a>, <a href="/level/25/type_id/14/">Blu-Ray</a></p>
+         <p><s></s><a href="/level/50/">скоро на DVD</a>, <a href="/level/50/m_act%5Bdisc_format%5D/blu/">на Blu-Ray</a></p>
+         <p><s></s><a href="/level/41/">рейтинги DVD</a></p>
+         <p><s></s><a href="/level/54/">продажи DVD в США</a></p>
+         <p><s></s><a href="/level/25/type_id/7,9,10,12,13/">книги</a>, <a href="/level/25/type_id/8/">игры</a>, <a href="/level/25/type_id/16/">саундтреки</a></p>
+      </li>
+      <li class="last">
+         <span>играть!</span>
+         <p><s></s><a href="/level/46/">розыгрыши призов</a></p>
+         <p><s></s><a href="/level/74/">угадай фильм по кадру</a></p>
+         <p><s></s><a href="/level/75/">угадай знаменитость</a></p>
+         <p><s></s><a href="/level/95/">угадай сборы в США</a>, <a href="/level/96/">в России</a></p>
+         <p class="unact"><s></s><a href="/level/29/">угадай победителей Оскара!</a></p>
+         <p class="unact"><s></s><a href="/level/29/award_name/golden_globes/">... и Золотого глобуса!</a></p>
+      </li>
+   </ul>
+   </noscript>
 
-<form name="searchForm" action="/index.php" method="get">
+<form id="top_form" name="searchForm" action="/index.php" method="get">
    <input name="first" type="hidden" value="no">
-   <script type="text/javascript">
-    if (top.location.href.toString()=='http://www.kinopoisk.ru/') {
-       document.write('<span class="logo png" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span>');
-    } else {
-       document.write('<a class="logo png" href="/" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></a>');
-    }
-   </script>
-
-   
-      <!--s class="line_brand"></s><a class="line_brand" href="/level/94/award/mmkf/show/2010/" title="ММКФ-2010"></a-->
-      <span class="about">всё о любом фильме:</span>
-   
+   <i></i>
+   <i class="large"></i>
+   <u></u>
+   <u class="user"></u>
+   <a href='/'><img src="/images/logonew2.gif" alt="КиноПоиск.Ru &ndash; Все фильмы планеты" /></a>
+   <a href='/'><span class="logo" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span></a>
+   <span class="about">всё о любом фильме:</span>
+   <span class="example">например: <a href="/level/1/film/429827/">Запрещенный прием</a></span>
 
    <!-- profile_top start -->
    
       <span class="login"><a href="/level/30/">Войти на сайт</a><b>&bull;</b><a href="/level/30/#new">Регистрация</a></span>
-      <a class="reg" href="/level/76/doc/join/">зачем?</a>
+      <a class="reg" href="/level/76/doc/join/">зачем нужна регистрация?</a>
    
    <!-- profile_top end -->
 
-   <span class="search"><a href="/level/7/">расширенный поиск</a><b>&bull;</b><a href="/level/81/">что ищут?</a></span>
+   <span class="search"><a href="/level/7/">расширенный поиск</a><b></b><a href="/level/81/">что ищут?</a></span>
    <input id="search_input" class="text" type="text" name="kp_query" maxlength="256" value="Туман (2010)" tabindex="1" />
-   <b class="search_btn_1" tabindex="2" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'no'; document.searchForm.submit();}"></b>
+   <b class="search_btn_1" tabindex="2" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'no';  document.searchForm.submit();}"></b>
    <b class="search_btn_2" tabindex="3" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'yes'; document.searchForm.submit();}" title="перейти к первому результату поиска (Ctrl+Enter)"></b>
    <div class="mez_rez">
       <!-- top_notices -->
@@ -235,11 +230,10 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
       
       <!-- /top_notices -->
    </div>
-</form>
+</form><div class="filmfans"><img src="/images/title_search.gif" width="101" height="23" alt="Искать" title="Искать" /></div>
+<div class="corner_nobrand"></div>
 </div>
-</div></div>
 
-<div class="shadow png">
 
 <div id="content_block"  style="min-height: 600px">
 <div class="shadow_top png"></div>
@@ -254,7 +248,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 	<tr><td valign=top>
 		<table cellspacing=0 cellpadding=2 width=100% border=0 bgcolor="#f2f2f2">
 			<tr><td height=20 style="padding:5px;padding-left:30px;color:#333;font-size:11px">
-<b style="color:#007">&laquo;Туман (2010)&raquo;</b> &#149; найдено&nbsp;результатов:&nbsp;87</b>
+<b style="color:#007">&laquo;Туман (2010)&raquo;</b> &#149; найдено&nbsp;результатов:&nbsp;88</b>
 </td></tr>
 		</table>
 		<br />
@@ -290,7 +284,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </tr>
 <tr>
 	<td></td>
-	<td><i class="search_rating">6.553</i><font color="#999999"></font><product></td>
+	<td><i class="search_rating">6.556</i><font color="#999999"></font><product></td>
 </tr>
 <tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
 	<td width=5%>3.</td>
@@ -298,7 +292,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </tr>
 <tr>
 	<td></td>
-	<td><i class="search_rating">6.565</i><font color="#999999">82nd Annual Academy Awards, The</font><product></td>
+	<td><i class="search_rating">6.557</i><font color="#999999">82nd Annual Academy Awards, The</font><product></td>
 </tr>
 <tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
 	<td width=5%>4.</td>
@@ -306,7 +300,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </tr>
 <tr>
 	<td></td>
-	<td><i class="search_rating">7.136</i><font color="#999999">2010</font><product></td>
+	<td><i class="search_rating">7.128</i><font color="#999999">2010</font><product></td>
 </tr>
 <tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
 	<td width=5%>5.</td>
@@ -314,12 +308,12 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 </tr>
 <tr>
 	<td></td>
-	<td><i class="search_rating">7.864</i><font color="#999999">Transformers</font><product></td>
+	<td><i class="search_rating">7.855</i><font color="#999999">Transformers</font><product></td>
 </tr>
 <tr><td colspan=2 height=5><spacer type=block height=5></td></tr>
 				
 				
-				<tr><td colspan=2 align="right"><a href='/index.php?level=7&ser=a%3A3%3A%7Bs%3A4%3A%22find%22%3Bs%3A12%3A%22%D2%F3%EC%E0%ED+%282010%29%22%3Bs%3A4%3A%22what%22%3Bs%3A7%3A%22content%22%3Bs%3A5%3A%22count%22%3Ba%3A1%3A%7Bs%3A7%3A%22content%22%3Bs%3A2%3A%2276%22%3B%7D%7D&show=all' class="continue">показать всё >></a></td></tr>
+				<tr><td colspan=2 align="right"><a href='/index.php?level=7&ser=a%3A3%3A%7Bs%3A4%3A%22find%22%3Bs%3A12%3A%22%D2%F3%EC%E0%ED+%282010%29%22%3Bs%3A4%3A%22what%22%3Bs%3A7%3A%22content%22%3Bs%3A5%3A%22count%22%3Ba%3A1%3A%7Bs%3A7%3A%22content%22%3Bs%3A2%3A%2277%22%3B%7D%7D&show=all' class="continue">показать всё >></a></td></tr>
 				
 						
 		<tr><td colspan=2 style="border-bottom:1px dotted #ccc"><img src="/images/spacer.gif" height=1></td></tr>
@@ -405,7 +399,7 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
 </tr>
 <tr><td colspan=2 height=5><spacer type=block height=5></td></tr>
-				<tr><td colspan=2 align="right"><a href='/index.php?level=7&ser=a%3A3%3A%7Bs%3A4%3A%22find%22%3Bs%3A12%3A%22%D2%F3%EC%E0%ED+%282010%29%22%3Bs%3A4%3A%22what%22%3Bs%3A5%3A%22actor%22%3Bs%3A5%3A%22count%22%3Ba%3A2%3A%7Bs%3A7%3A%22content%22%3Bs%3A2%3A%2276%22%3Bs%3A5%3A%22actor%22%3Bs%3A2%3A%2211%22%3B%7D%7D&show=all' class="continue">показать всё >></a></td></tr>
+				<tr><td colspan=2 align="right"><a href='/index.php?level=7&ser=a%3A3%3A%7Bs%3A4%3A%22find%22%3Bs%3A12%3A%22%D2%F3%EC%E0%ED+%282010%29%22%3Bs%3A4%3A%22what%22%3Bs%3A5%3A%22actor%22%3Bs%3A5%3A%22count%22%3Ba%3A2%3A%7Bs%3A7%3A%22content%22%3Bs%3A2%3A%2277%22%3Bs%3A5%3A%22actor%22%3Bs%3A2%3A%2211%22%3B%7D%7D&show=all' class="continue">показать всё >></a></td></tr>
 				</table>
 				<table style="width: 100%" cellspacing=0 cellpadding=2 border=0>
 				
@@ -492,20 +486,20 @@ ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link);
 <!-- right_banner end -->
 <dl class="block block_query">
    <dt>Запросы &mdash; фильмы<i>всего</i></dt>
-   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>4751</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>4323</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/403783/"><b></b><i><s>Убежище</s>Shelter</i><u>1244</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/432423/"><b></b><i><s>Сумерки. Сага. Затмение</s>Twilight Saga: Eclipse, The</i><u>1000</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/437833/"><b></b><i><s>Центурион</s>Centurion</i><u>752</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>2014</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>1014</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/437833/"><b></b><i><s>Центурион</s>Centurion</i><u>467</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/432423/"><b></b><i><s>Сумерки. Сага. Затмение</s>Twilight Saga: Eclipse, The</i><u>458</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/3908/"><b></b><i><s>Плохие парни</s>Bad Boys</i><u>438</u></a></dd>
    <dd class="more"><a href="/level/81/">что еще ищут?</a></dd>
 </dl>
 <dl class="block block_query">
    <dt>Запросы &mdash; люди<i>всего</i></dt>
-   <dd class="dl"><a href="/level/4/people/20866/"><b></b><i><s>Анджелина Джоли</s>Angelina Jolie</i><u>714</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/37859/"><b></b><i><s>Леонардо ДиКаприо</s>Leonardo DiCaprio</i><u>376</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/25584/"><b></b><i><s>Брэд Питт</s>Brad Pitt</i><u>287</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/6245/"><b></b><i><s>Джонни Депп</s>Johnny Depp</i><u>280</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/3425/"><b></b><i><s>Кристен Стюарт</s>Kristen Stewart</i><u>251</u></a></dd>
+   <dd class="dl"><a href="/level/4/people/20866/"><b></b><i><s>Анджелина Джоли</s>Angelina Jolie</i><u>219</u></a></dd>
+   <dd class="dl"><a href="/level/4/people/37859/"><b></b><i><s>Леонардо ДиКаприо</s>Leonardo DiCaprio</i><u>199</u></a></dd>
+   <dd class="dl"><a href="/level/4/people/6245/"><b></b><i><s>Джонни Депп</s>Johnny Depp</i><u>151</u></a></dd>
+   <dd class="dl"><a href="/level/4/people/460188/"><b></b><i><s>Меган Фокс</s>Megan Fox</i><u>145</u></a></dd>
+   <dd class="dl"><a href="/level/4/people/25584/"><b></b><i><s>Брэд Питт</s>Brad Pitt</i><u>144</u></a></dd>
    <dd class="more"><a href="/level/81/">что еще ищут?</a></dd>
 </dl>
 <dl class="block block_cash" id="rigth_box_weekend_usa">
@@ -530,39 +524,39 @@ ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link);
 
 <dl class="block block_top250">
    <dt>Лучшие фильмы &mdash; Top 250</dt>
-   <dd class="dl"><a href="/level/1/film/46068/"><b>90.</b><i><s>Белый Бим - Черное ухо</s></i><u>8.278</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/469/"><b>60.</b><i><s>Однажды в Америке</s>Once Upon a Time in America</i><u>8.373</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/309397/"><b>91.</b><i><s>Дом</s>Home</i><u>8.277</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/408410/"><b>61.</b><i><s>Гран Торино</s>Gran Torino</i><u>8.372</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/350/"><b>92.</b><i><s>Славные парни</s>Goodfellas</i><u>8.271</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/627/"><b>62.</b><i><s>Изгой</s>Cast Away</i><u>8.366</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/394/"><b>93.</b><i><s>Бешеные псы</s>Reservoir Dogs</i><u>8.270</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/5502/"><b>63.</b><i><s>Назад в будущее&nbsp;2</s>Back to the Future Part II</i><u>8.363</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/126196/"><b>94.</b><i><s>Жизнь других</s>Das Leben der Anderen</i><u>8.268</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/84014/"><b>64.</b><i><s>Внутри себя я танцую</s>Inside I'm Dancing</i><u>8.363</u></a></dd>
 
    <dd class="more"><a href="/level/20/">лучшие фильмы</a></dd>
 </dl>
 <dl class="block block_top250">
    <dt>Ожидаемые фильмы</dt>
-   <dd class="dl"><a href="/level/1/film/399959/"><b>16.</b><i><s>Трон: Наследие</s>TRON: Legacy</i><u>79.73%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/474953/"><b>1.</b><i><s>Шерлок Холмс&nbsp;2</s>Untitled Sherlock Holmes Sequel</i><u>91.54%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/455214/"><b>17.</b><i><s>На расстоянии любви</s>Going the Distance</i><u>79.50%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/437410/"><b>2.</b><i><s>Бэтмен&nbsp;3</s>Untitled Batman Project</i><u>87.70%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/462732/"><b>18.</b><i><s>Город воров</s>Town, The</i><u>79.22%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/429827/"><b>3.</b><i><s>Запрещенный прием</s>Sucker Punch</i><u>85.35%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/463738/"><b>19.</b><i><s>Восстание обезьян</s>Rise of the Apes</i><u>79.18%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/427076/"><b>4.</b><i><s>Пираты Карибского моря: На странных берегах</s>Pirates of the Caribbean 4: On Stranger Tides</i><u>84.76%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/455338/"><b>20.</b><i><s>Мальчишник в Вегасе&nbsp;2</s>Hangover 2, The</i><u>79.10%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/455773/"><b>5.</b><i><s>Люди в черном&nbsp;3</s>Men in Black III</i><u>84.63%</u></a></dd>
 
    <dd class="more"><a href="/level/53/">ожидаемые фильмы</a></dd>
 </dl>
 <dl class="block block_show">
    <dt>Сегодня в кино<i>рейтинг</i></dt>
-   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>6.239</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>9.263</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/424560/"><b></b><i><s>Кошки против собак: Месть Китти Галор</s>Cats &#38; Dogs: The Revenge of Kitty Galore</i><u>5.594</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/429739/"><b></b><i><s>Ученик чародея</s>Sorcerer's Apprentice, The</i><u>7.400</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/462666/"><b></b><i><s>Необычайные приключения Адель</s>Les aventures extraordinaires d'Ad&#232;le Blanc-Sec</i><u>6.628</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>6.108</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>9.224</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/424560/"><b></b><i><s>Кошки против собак: Месть Китти Галор</s>Cats &#38; Dogs: The Revenge of Kitty Galore</i><u>5.177</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/429739/"><b></b><i><s>Ученик чародея</s>Sorcerer's Apprentice, The</i><u>7.364</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462666/"><b></b><i><s>Необычайные приключения Адель</s>Les aventures extraordinaires d'Ad&#232;le Blanc-Sec</i><u>6.533</u></a></dd>
    <dd class="more"><a href="/level/8/view/main/">афиша</a></dd>
 </dl>
 <div class="block_podcast">
@@ -579,10 +573,10 @@ ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link);
 </div><dl class="block block_soon">
    <dt>Скоро в кино<i>премьера</i></dt>
    <dd class="dl"><a href="/level/1/film/450345/"><b></b><i><s>Одноклассники</s>Grown Ups</i><u>05.08</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/418790/"><b></b><i><s>Призрак</s>Ghost Writer, The</i><u>05.08</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/432550/"><b></b><i><s>Неудержимые</s>Expendables, The</i><u>12.08</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/432550/"><b></b><i><s>Неудержимые</s>Expendables, The</i><u>11.08</u></a></dd>
    <dd class="dl"><a href="/level/1/film/409185/"><b></b><i><s>Шаг вперед 3-D</s>Step Up 3-D</i><u>12.08</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/412162/"><b></b><i><s>Каратэ-пацан</s>Karate Kid, The</i><u>19.08</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/522094/"><b></b><i><s>Вампирский засос</s>Vampires Suck</i><u>02.09</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/467553/"><b></b><i><s>Мачете</s>Machete</i><u>02.09</u></a></dd>
    <dd class="more"><a href="/level/8/view/prem/">премьеры</a></dd>
 </dl>
 
@@ -716,25 +710,12 @@ if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
    
 
 
-<div class="hidden_2">
-<!-- AdRiver code START Type: ZeroPixel Site: kinopoisk PZ: 0 BN: 0-->
-<script language="javascript" type="text/javascript"><!--
-var RndNum4NoCash = Math.round(Math.random() * 1000000000);
-var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
-document.write(
-'<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?'
-+ 'sid=80703&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
-//--></script>
-<noscript>
-<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=80703&bt=21&pz=0&rnd=195829045" border=0 width=1 height=1>
-</noscript>
-<!-- AdRiver code END -->
-</div>
 
 </div>
 
 </div>
 
+</div>
 
 
 <!--

@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx/0.7.62
-Date: Fri, 30 Jul 2010 11:45:39 GMT
+Date: Mon, 02 Aug 2010 07:03:29 GMT
 Content-Type: text/html; charset=windows-1251
 Connection: close
 X-Powered-By: PHP/5.2.10-2ubuntu6.4
-Set-Cookie: PHPSESSID=f07407313ad4211d64637e5d3f6fe3ad; path=/; domain=kinopoisk.ru
+Set-Cookie: PHPSESSID=d15decda0f10ee5f6a861f059761362c; path=/; domain=kinopoisk.ru
 Expires: 0
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Last-Modified: Fri, 30 Jul 2010 11:45:21 GMT
-Set-Cookie: last_visit=2010-07-30+15%3A45%3A21; expires=Mon, 13-Sep-2010 11:45:21 GMT; path=/
+Last-Modified: Mon, 02 Aug 2010 07:02:54 GMT
+Set-Cookie: last_visit=2010-08-02+11%3A02%3A54; expires=Thu, 16-Sep-2010 07:02:54 GMT; path=/
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -29,17 +29,6 @@ Set-Cookie: last_visit=2010-07-30+15%3A45%3A21; expires=Mon, 13-Sep-2010 11:45:2
 
 <link href="/js/movie.css?v=20100729-1842" type="text/css" rel="stylesheet" media="all" />
 <link href="/js/style_response.css?v=20100727-1350" type="text/css" rel="stylesheet" media="all" />
-<link href="/js/brand.css?v=20100727-1411" type="text/css" rel="stylesheet" media="all" />
-<style type="text/css">
-html {background-color: #000000 !important}
-body {background: url(/images/re/522.jpg?20100724133158) 50% 0 no-repeat}
-
-#ul_menu_top span {border-color: #d4903a}
-#ul_menu_top span.act, #ul_menu_top .act span {color: #d4903a !important}
-#ul_menu_top s {background: #d4903a !important}
-
-</style>
-<style type="text/css">.png_block {background: url(/images/re/522.png?20100724133158)}</style>
 
 <!--[if IE 8]><style type="text/css">body {overflow-y: scroll}</style><![endif]-->
 <!--[if lte IE 7]><link href="/js/ie7.css?v=20100729-1409" type="text/css" rel="stylesheet" media="all" /><![endif]-->
@@ -135,123 +124,129 @@ var ar_bn1= Math.floor(Math.random()*5+1);
 
 <body onload="" onblur="" onfocus="" onclick="" onmouseover="" onmouseout="">
 
-
-
-<div id="top">
-<a class="brand snap_noshots" href="" title="Солт" target="_blank"></a>
-	<object id="branding_flash" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0">	   <param name="allowScriptAccess" value="sameDomain" />	   <param name="movie" value="/images/bnnr/re_522.swf?20100724133158" />	   <param name="quality" value="high" />	   <param name="wmode" value="transparent" />	   <embed src="/images/bnnr/re_522.swf?20100724133158" wmode="transparent" type="application/x-shockwave-flash" quality="high" allowScriptAccess="sameDomain" pluginspage="http://www.macromedia.com/go/getflashplayer" />	</object>
-
-   
-      <script type="text/javascript">
-         document.getElementById('branding_flash').style.visibility='hidden';
-         document.write('<img style="width: 1px; height: 1px; position: absolute; top: -300px" src="/images/re/522.jpg?20100724133158" onload="document.getElementById(\'branding_flash\').style.visibility=\'visible\';">');
-      </script>
-   
+<div class="shadow_nobrand">
 
 
 
-<script type="text/javascript">
+<!-- stop_banner start -->
 
-function ShowBrandVideo()
-{
-	document.getElementById('spec_trailer').style.display='block';
-	document.getElementById('fc_player_1').innerHTML="<a class='close' href='#' onclick='HideBrandVideo(); return false;' ></a><div id='fc_player' >Вам необходимо обновить Flash Player.</div>";
-	getPlayer("http://trailers.kinopoisk.ru/trailers/flv/447284/kinopoisk.ru-Salt-52664.flv","", 640, 272, true,"movie_522");
-	document.getElementById('superb').style.display='none';
-}
-function HideBrandVideo()
-{
-	document.getElementById('spec_trailer').style.display='none';
-	document.getElementById('fc_player_1').innerHTML='';
-	document.getElementById('superb').style.display='block';
-}
-</script>
-
-<style type="text/css">
-#spec_trailer {background: #000000 url(/images/re/522.jpg?20100724133158) center -210px no-repeat; width: 850px; height: 292px; position: absolute; top: 210px; z-index: 1000000; padding-bottom: 25px; display:none; }
-#spec_trailer_bg {background: #000000; position:absolute; width:850px; opacity: 0.5; filter:alpha(opacity=50); height:317px}
-#spec_trailer * {margin: 0; padding: 0}
-#spec_trailer img {border: none; display: block}
-.play_movie_button, .play_movie_button embed {width: 130px !important; height: 131px !important; position: absolute; cursor: pointer !important}
-div.play_movie_button {left: 600px !important; top: 40px !important; z-index: 4000000}
-#spec_trailer .block {position: relative; margin: 20px auto}
-#spec_trailer .close {background: url(/images/spec/close_trailer.png); width: 34px; height: 34px; cursor: pointer; display: block; position: absolute; top: 0; right: -44px}
-#movie_522 {width: 640px !important; height: 272px !important}
-</style>
-<!--[if lte IE 7]>
-<style type="text/css">
-#spec_trailer_bg {left:0;}
-#spec_trailer .block {top:20px;}
-</style>
-<![endif]-->
-
-<script src="/js/swfobject.2.0.js" type="text/javascript"></script>
-<script src="/js/kinopoiskPlayer7.js?20100402" type="text/javascript" ></script>
-
-<div id="spec_trailer">
-	<div id="spec_trailer_bg"></div>
-	<div class="block"  style="width: 640px" id='fc_player_1'></div>
-</div>
-
-
+<!-- stop_banner end -->
+<div id="top" style="background-color: #fff">
 <div class="hidden">
-   
-   
    <noindex>
    <!--begin of Top100-->
    <a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?519852" alt="Rambler\'s Top100" width=1 height=1 border=0></a>
    <!--end of Top100-->
-<!--LiveInternet counter--><script type="text/javascript"><!--
-document.write("<img src='http://counter.yadro.ru/hit?r"+
-escape(document.referrer)+((typeof(screen)=="undefined")?"":
-";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
-screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
-";"+Math.random()+
-"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
+	<!--LiveInternet counter--><script type="text/javascript"><!--
+	document.write("<img src='http://counter.yadro.ru/hit?r"+
+	escape(document.referrer)+((typeof(screen)=="undefined")?"":
+	";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+	screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+	";"+Math.random()+
+	"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
 
-<!-- tns-counter.ru -->
-<script language="javascript">
-	var img = new Image();
-	var TopContentPoint=330;
-	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/';
-</script>
-<noscript>
-	<img src="http://www.tns-counter.ru/V13a****kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/" width="1" height="1" alt="" />
-</noscript>
-<!--/ tns-counter.ru -->
+	<!-- tns-counter.ru -->
+	<script language="JavaScript">
+	
+	var TopContentPoint=120;
+		var img = new Image();
+		img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/';
+	</script>
+	<noscript>
+		<img src="http://www.tns-counter.ru/V13a****kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/" width="1" height="1" alt="" />
+	</noscript>
+	<!--/ tns-counter.ru -->
 
    </noindex>
 </div>
-<div class="master">
-<div class="png_block png">
-
    <script src="/js/menu_top.js?v=201000624-1717" type="text/javascript"></script>
+   <noscript>
+   <ul class="menu_noscript">
+      <li>
+         <span>афиша &amp; тв</span>
+         <p><s></s><a href="/level/8/view/main/">сегодня в кино</a></p>
+         <p><s></s><a href="/level/8/view/prem/">скоро в кино</a></p>
+         <p><s></s><a href="/level/88/">фильмы на ТВ</a></p>
+         <p><s></s><a href="/level/97/">бронирование билетов</a></p>
+         <p><s></s><a href="/level/9/">все кинотеатры</a></p>
+         <p><s></s><a href="/level/22/">карта города</a></p>
+      </li>
+      <li>
+         <span>тексты</span>
+         <p><s></s><a href="/level/2/">новости кино</a></p>
+         <p><s></s><a href="/level/51/">редакционные блоги</a></p>
+         <p><s></s><a href="/level/18/">рецензии пользователей</a></p>
+         <p><s></s><a href="/level/14/">фоторепортажи</a></p>
+         <p><s></s><a href="/level/73/">интервью</a></p>
+         <p><s></s><a href="/level/69/">3500 кинорецензий</a></p>
+      </li>
+      <li>
+         <span>медиа</span>
+         <p><s></s><a href="/level/13/">фотографии</a></p>
+         <p><s></s><a href="/level/12/view/main/">обои для рабочего стола</a></p>
+         <p><s></s><a href="/level/17/view/main/">постеры</a></p>
+         <p><s></s><a href="/level/16/">трейлеры</a></p>
+         <p><s></s><a href="/level/58/">подкасты</a></p>
+         <p><s></s><a href="/level/93/">саундтреки</a></p>
+      </li>
+      <li>
+         <span>общение</span>
+         <p><s></s><a href="/level/18/">рецензии пользователей</a></p>
+         <p><s></s><a href="/board/">форум на КиноПоиске</a></p>
+         <p><s></s><a href="/level/45/">опросы</a></p>
+         <p><s></s><a href="/level/23/">обратная связь</a></p>
+      </li>
+      <li>
+         <span>рейтинги</span>
+         <p><s></s><a href="/level/70/">оценки пользователей</a></p>
+         <p><s></s><a href="/level/20/">Top250</a>, <a href="/level/53/">самые ожидаемые</a></p>
+         <p><s></s><a href="/level/48/">поиск лучших фильмов</a></p>
+         <p><s></s><a href="/level/47/">рекомендации</a></p>
+         <p><s></s><a href="/level/94">награды и кинопремии</a></p>
+         <p><s></s><a href="/level/42/">сборы в России</a>, <a href="/level/42/type/usa/">в США</a>, <a href="/level/42/type/world/">в мире</a></p>
+         <p><s></s><a href="/level/6/view_best_box/1/">кассовые рекорды</a></p>
+      </li>
+      <li>
+         <span>DVD &amp; Blu-Ray</span>
+         <p><s></s><a href="/level/25/">DVD-диски</a>, <a href="/level/25/type_id/14/">Blu-Ray</a></p>
+         <p><s></s><a href="/level/50/">скоро на DVD</a>, <a href="/level/50/m_act%5Bdisc_format%5D/blu/">на Blu-Ray</a></p>
+         <p><s></s><a href="/level/41/">рейтинги DVD</a></p>
+         <p><s></s><a href="/level/54/">продажи DVD в США</a></p>
+         <p><s></s><a href="/level/25/type_id/7,9,10,12,13/">книги</a>, <a href="/level/25/type_id/8/">игры</a>, <a href="/level/25/type_id/16/">саундтреки</a></p>
+      </li>
+      <li class="last">
+         <span>играть!</span>
+         <p><s></s><a href="/level/46/">розыгрыши призов</a></p>
+         <p><s></s><a href="/level/74/">угадай фильм по кадру</a></p>
+         <p><s></s><a href="/level/75/">угадай знаменитость</a></p>
+         <p><s></s><a href="/level/95/">угадай сборы в США</a>, <a href="/level/96/">в России</a></p>
+         <p class="unact"><s></s><a href="/level/29/">угадай победителей Оскара!</a></p>
+         <p class="unact"><s></s><a href="/level/29/award_name/golden_globes/">... и Золотого глобуса!</a></p>
+      </li>
+   </ul>
+   </noscript>
 
-<form name="searchForm" action="/index.php" method="get">
+<form id="top_form" name="searchForm" action="/index.php" method="get">
    <input name="first" type="hidden" value="no">
-   <script type="text/javascript">
-    if (top.location.href.toString()=='http://www.kinopoisk.ru/') {
-       document.write('<span class="logo png" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span>');
-    } else {
-       document.write('<a class="logo png" href="/" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></a>');
-    }
-   </script>
-
-   
-      <!--s class="line_brand"></s><a class="line_brand" href="/level/94/award/mmkf/show/2010/" title="ММКФ-2010"></a-->
-      <span class="about">всё о любом фильме:</span>
-   
+   <i></i>
+   <i class="large"></i>
+   <u></u>
+   <u class="user"></u>
+   <a href='/'><img src="/images/logonew2.gif" alt="КиноПоиск.Ru &ndash; Все фильмы планеты" /></a>
+   <a href='/'><span class="logo" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span></a>
+   <span class="about">всё о любом актёре:</span>
+   <span class="example">например: <a href="/level/4/people/39984/">Том Харди</a></span>
 
    <!-- profile_top start -->
    
       <span class="login"><a href="/level/30/">Войти на сайт</a><b>&bull;</b><a href="/level/30/#new">Регистрация</a></span>
-      <a class="reg" href="/level/76/doc/join/">зачем?</a>
+      <a class="reg" href="/level/76/doc/join/">зачем нужна регистрация?</a>
    
    <!-- profile_top end -->
 
-   <span class="search"><a href="/level/7/">расширенный поиск</a><b>&bull;</b><a href="/level/81/">что ищут?</a></span>
+   <span class="search"><a href="/level/7/">расширенный поиск</a><b></b><a href="/level/81/">что ищут?</a></span>
    <input id="search_input" class="text" type="text" name="kp_query" maxlength="256" value="" tabindex="1" />
-   <b class="search_btn_1" tabindex="2" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'no'; document.searchForm.submit();}"></b>
+   <b class="search_btn_1" tabindex="2" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'no';  document.searchForm.submit();}"></b>
    <b class="search_btn_2" tabindex="3" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'yes'; document.searchForm.submit();}" title="перейти к первому результату поиска (Ctrl+Enter)"></b>
    <div class="mez_rez">
       <!-- top_notices -->
@@ -259,11 +254,10 @@ screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
       
       <!-- /top_notices -->
    </div>
-</form>
+</form><div class="filmfans"><img src="/images/title002.gif" width="194" height="23" alt="" title="" /></div>
+<div class="corner_nobrand"></div>
 </div>
-</div></div>
 
-<div class="shadow png">
 
 <div id="content_block"  style="min-height: 600px">
 <div class="shadow_top png shadow_top_gray"></div>
@@ -434,7 +428,7 @@ box_timer=setTimeout(function(){
 
 <link href="/js/news.css?v=20100716-1900" type="text/css" rel="stylesheet" media="all" />
 
-<input type="hidden" value='July 30, 2010' id="current_time" />
+<input type="hidden" value='August 2, 2010' id="current_time" />
 
 <table cellspacing="0" cellpadding="0" height="100%" width="100%" border="0">
 <tr>
@@ -509,7 +503,7 @@ function showErrors() { return false; }
         </div>
 
         <div class="block_2">
-            <div style="color: #f60; font-family: tahoma; font-size: 25px"><a href="/level/83/film/84991/" class="continue" style="background: url(/images/dot_or.gif) 0 93% repeat-x; font-weight: normal !important; text-decoration: none">5.047<span style="font:100 14px tahoma, verdana">&nbsp;&nbsp;1&nbsp;430</span></a>
+            <div style="color: #f60; font-family: tahoma; font-size: 25px"><a href="/level/83/film/84991/" class="continue" style="background: url(/images/dot_or.gif) 0 93% repeat-x; font-weight: normal !important; text-decoration: none">5.047<span style="font:100 14px tahoma, verdana">&nbsp;&nbsp;1&nbsp;436</span></a>
 </div>
             <div style="color:#999;font:100 11px tahoma, verdana">IMDB: 3.30 (15 514)</div>
         </div>
@@ -882,78 +876,11 @@ ids5[2] = 5901;
 
             
                 
-                    <p class="more_random"><a href="/level/1/film/84991/ord/rnd/rnd/1280490321/#list">ещё случайные</a></p>
+                    <p class="more_random"><a href="/level/1/film/84991/ord/rnd/rnd/1280732575/#list">ещё случайные</a></p>
                 
             
 
             <div style="position: relative; padding: 1px 0 40px 0">
-
-<div  class="response bad" id="div_review_256258">
-    <img src="/images/users/bsm_16940-37.jpg" width="46" alt="" title="" />
-    <div>
-        
-            <p class="profile_name"><s></s><a href="/level/79/user/16940/">REMEDY</a></p>
-            <ul class="actions">
-                <li class="first"><a href="/level/79/user/16940/comments/">рецензии (3)</a></li>
-<li><a href="/level/79/user/16940/votes/">оценки</a></li>
-<li><a href="/level/79/user/16940/movies/">фильмы</a></li>
-
-            </ul>
-        
-        <p class="sub_title" id="ext_title_256258"></p>
-    </div>
-
-    
-
-    
-
-    <span class="date">24 августа 2008 | 05:56</span>
-
-
-   <table><tr><td>
-      <p id="ext_text_256258"><span class="_reachbanner_" onmouseup='getSelect(256258)'>Я не&nbsp;такой уже&nbsp;любитель ужасов&nbsp;&#151;&nbsp;по этому скажу просто от&nbsp;себя. Фильм не&nbsp;самый худший который мне&nbsp;доводилось видеть, но&nbsp;и на&nbsp;средний он&nbsp;не тянет. Ни&nbsp;одного оригинального приема&nbsp;&#151;&nbsp;все стандартно и&nbsp;все я&nbsp;где-то видел. Причем эта&nbsp;уповающая банальность распространяется на&nbsp;все. От&nbsp;сюжета до&nbsp;психологических портретов гг&nbsp;и стиля съемки. Все&nbsp;ужасно и&nbsp;в том&nbsp;числе актерская игра&nbsp;&#151;&nbsp;примитив, разве что&nbsp;мальчик более или&nbsp;менее. Долго писать не&nbsp;буду, этот фильм этого не&nbsp;заслужил.<br />
-<br />
-Остается сказать одно&nbsp;&#151;&nbsp;Голливуду пора на&nbsp;пенсию.</span></p>
-   </td></tr></table>
-
-    
-
-    <p class="links">
-        <a href="/level/79/user/16940/comment/256258/">прямая ссылка</a>
-        
-    </p>
-    <ul class="useful">
-        <li>Полезная рецензия?
-            
-                <a class="mod" href="#" onclick="OpenSpoiler(256258); return false;"><s>пожаловаться на </s>спойлер?</a>
-            
-        </li>
-        
-            <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_256258" onclick="setCommentVote('256258', 'ok', '16940', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_256258" onclick="setCommentVote('256258', 'no', '16940', '84991'); return false;">Нет</a>
-            </li>
-        
-        <li id="comment_num_vote_256258">9 / 10</li>
-    </ul>
-    <strike></strike>
-    <i id="comment_num_vote_256258_note" class="ajax_bottom"></i>
-
-</div>
-<div class="signer signer_edit" id="spoiler_txt_256258">
-   <textarea id="spoiler_textarea_256258"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(256258)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(256258)" />
-   <a href="#" onclick="CloseSpoiler(256258); return false;"></a>
-</div>
-
-
-
-
-
-
-
-</div><div style="position: relative; padding: 1px 0 40px 0">
 
 <div  class="response bad" id="div_review_25055">
     
@@ -972,9 +899,6 @@ ids5[2] = 5901;
     
 
     
-
-    <span class="date">26 февраля 2006 | 11:40</span>
-
 
    <table><tr><td>
       <p id="ext_text_25055"><span class="_reachbanner_" onmouseup='getSelect(25055)'>Несмотря на&nbsp;тотальную обструкцию, которой подвергается в&nbsp;Голливуде за&nbsp;коммерческую несостоятельность Великий всё&nbsp;&#151;&nbsp;таки режиссёр&nbsp;&#151;&nbsp;Карпентер, напоминают нам&nbsp;о нём&nbsp;с завидным постоянством. В&nbsp;прошлом году состоялся симулякр классического &laquo;Нападения на&nbsp;13-ый участок&raquo;, в&nbsp;этом восстал из&nbsp;мёртвых, казалось бы, изначально мертворождённый &laquo;Туман&raquo;. А&nbsp;Стивен Кинг пусть опять грызёт локти.<br />
@@ -1017,6 +941,8 @@ ids5[2] = 5901;
     <strike></strike>
     <i id="comment_num_vote_25055_note" class="ajax_bottom"></i>
 
+    <span class="date">26 февраля 2006 | 11:40</span>
+
 </div>
 <div class="signer signer_edit" id="spoiler_txt_25055">
    <textarea id="spoiler_textarea_25055"></textarea>
@@ -1033,64 +959,62 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response" id="div_review_25811">
-    
+<div  class="response bad" id="div_review_25138">
+    <img src="/images/users/bsm_1585-38.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/7545/">AVTOL</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/1585/">Marvel</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/7545/comments/">рецензии (10)</a></li>
-<li><a href="/level/79/user/7545/votes/">оценки</a></li>
+                <li class="first"><a href="/level/79/user/1585/comments/">рецензии (354)</a></li>
+<li><a href="/level/79/user/1585/votes/">оценки</a></li>
+<li><a href="/level/79/user/1585/friends/">друзья</a></li>
+<li><a href="/level/79/user/1585/movies/">фильмы</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_25811"></p>
+        <p class="sub_title" id="ext_title_25138"></p>
     </div>
 
     
 
     
 
-    <span class="date">8 марта 2006 | 09:20</span>
-
-
    <table><tr><td>
-      <p id="ext_text_25811"><span class="_reachbanner_" onmouseup='getSelect(25811)'>Уважаемые, хватит привязывать данный продукт к&nbsp;оригиналу. Все&nbsp;достаточно взрослые люди, должны понимать, что&nbsp;римейк не&nbsp;возможно снять лучше источника, если в&nbsp;корне не&nbsp;переделать сценарий.<br />
-<br />
-Поэтому, вопрос должен стоять в&nbsp;другом&nbsp;&#151;&nbsp;а нужен ли&nbsp;этот фильм? Я&nbsp;думаю да! Новый &laquo;Туман&raquo;, если и&nbsp;не смотрится на&nbsp;одном дыхании, но&nbsp;всё равно вполне напряжённый фильм и&nbsp;людям не&nbsp;видевшим оригинала будет вполне интересно.<br />
-<br />
-Сегодняшнее молодое поколение и&nbsp;медом не&nbsp;заманешь на&nbsp;старые фильмы, а&nbsp;посмотрев этот достаточно спорный римейк, может быть, некоторые представители поколения пепси, обратятся к&nbsp;творчесту ВЕЛИКОГО Карпентера, к&nbsp;его &laquo;Туману&raquo;, а&nbsp;это уже&nbsp;совсем другая история&#133;</span></p>
+      <p id="ext_text_25138"><span class="_reachbanner_" onmouseup='getSelect(25138)'>Отвратительное кино. Совершенно не&nbsp;вызывающее, у&nbsp;меня, ни&nbsp;каких либо положительных эмоций. Всё&nbsp;настолько глупо, предсказуемо и&nbsp;не профессионально, что&nbsp;хочется смеяться и&nbsp;качать головой, над&nbsp;грубым и&nbsp;спешным производством данного продукта. Думаю, достаточно слов. <br />
+3 / 10.</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/7545/comment/25811/">прямая ссылка</a>
+        <a href="/level/79/user/1585/comment/25138/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(25811); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(25138); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_25811" onclick="setCommentVote('25811', 'ok', '7545', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_25811" onclick="setCommentVote('25811', 'no', '7545', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_25138" onclick="setCommentVote('25138', 'ok', '1585', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_25138" onclick="setCommentVote('25138', 'no', '1585', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_25811">6 / 6</li>
+        <li id="comment_num_vote_25138">9 / 11</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_25811_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_25138_note" class="ajax_bottom"></i>
+
+    <span class="date">27 февраля 2006 | 12:04</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_25811">
-   <textarea id="spoiler_textarea_25811"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(25811)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(25811)" />
-   <a href="#" onclick="CloseSpoiler(25811); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_25138">
+   <textarea id="spoiler_textarea_25138"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(25138)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(25138)" />
+   <a href="#" onclick="CloseSpoiler(25138); return false;"></a>
 </div>
 
 
@@ -1101,137 +1025,68 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response" id="div_review_145701">
-    <img src="/images/users/bsm_65503-24.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_35663">
+    <img src="/images/users/bsm_9428-57.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/65503/">Shenzi</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/9428/">belaya_belka</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/65503/comments/">рецензии (141)</a></li>
-<li><a href="/level/79/user/65503/votes/">оценки</a></li>
-<li><a href="/level/79/user/65503/friends/">друзья</a></li>
-<li><a href="/level/79/user/65503/movies/">фильмы</a></li>
+                <li class="first"><a href="/level/79/user/9428/comments/">рецензии (44)</a></li>
+<li><a href="/level/79/user/9428/votes/">оценки</a></li>
+<li><a href="/level/79/user/9428/friends/">друзья</a></li>
+<li><a href="/level/79/user/9428/movies/">фильмы</a></li>
+<li><a href="/level/79/user/9428/stars/">звёзды</a></li>
+<li><a href="/level/79/user/9428/subscribe/"></a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_145701"></p>
+        <p class="sub_title" id="ext_title_35663"></p>
     </div>
 
     
 
     
 
-    <span class="date">8 января 2008 | 16:37</span>
-
-
    <table><tr><td>
-      <p id="ext_text_145701"><span class="_reachbanner_" onmouseup='getSelect(145701)'>Я не&nbsp;понимаю желания некоторых личностей делать римейки на&nbsp;не сильно удачные фильмы. &laquo;Туман&raquo; 1980 года был, конечно, не&nbsp;совсем кошмарно бездарным, но&nbsp;и качественным фильмом ужасов его&nbsp;назвать тоже было сложно. Такие фильмы следует возвращать к&nbsp;жизни только в&nbsp;том случае, если они&nbsp;содержать в&nbsp;себе некую сверхоригинальную идею. Но, во-первых, этого мы&nbsp;не наблюдаем в&nbsp;оригинале (уж сколько раз&nbsp;мы сталкивались с&nbsp;кровожадными туманами, извергающими из&nbsp;своих недр неких чудищ), а&nbsp;во-вторых, римейк угробил и&nbsp;то, что&nbsp;осталось от&nbsp;саспенса в&nbsp;&laquo;Тумане&raquo; 1980.<br />
+      <p id="ext_text_35663"><span class="_reachbanner_" onmouseup='getSelect(35663)'>Средний ужастик, предсказуемый сюжет. Оригинал не&nbsp;смотрела, поэтому сравнивать не&nbsp;буду. За&nbsp;полтора часа можно слегка вздрогнуть максимум пару раз. Более того, были моменты, когда хотелось просто хохотать. Ничего себе&nbsp;&#151;&nbsp;фильм ужасов&#133;<br />
 <br />
-В результате всех творческих переработок &laquo;Туман&raquo; 2005 года представляет собой типичный картонный ужастик, как&nbsp;и положено таким фильмам&nbsp;&#151;&nbsp;не страшный ни&nbsp;разу. Персонажи очень картинно пугаются, раскрывают древние тайны и&nbsp;умирают. Кто&nbsp;из них&nbsp;жилец на&nbsp;этом свете, а&nbsp;кто&nbsp;&#151;&nbsp;нет, можно понять при&nbsp;первом же&nbsp;наступлении опасности. Обычные приемы запугивания, как&nbsp;то: шорохи, скрипы, постукивания&nbsp;&#151;&nbsp;использованы так&nbsp;неумело, что&nbsp;к концу фильма просто раздражают.<br />
+Почему-то, &laquo;Туман&raquo; у&nbsp;меня сразу проассоциировался с&nbsp;&laquo;Кораблем-призраком&raquo;, и&nbsp;я никак не&nbsp;могла отделаться от&nbsp;этой ассоциации. <br />
+Наверно, единственное, что&nbsp;удивило&nbsp;&#151;&nbsp;это конец. Да, и&nbsp;тот получился каким-то быстрым и&nbsp;скомканным.<br />
 <br />
-Сюжет тоже особой логичностью не&nbsp;отличается. Досмотрев до&nbsp;конца, я&nbsp;так и&nbsp;не поняла, что&nbsp;нужно-то было призракам из&nbsp;тумана. Выходит, что&nbsp;цели своей они&nbsp;так и&nbsp;не достигли, и&nbsp;зачем вообще вылезали из&nbsp;тумана&#133; Непонятно.<br />
-<br />
-И, наконец, его&nbsp;величество Туман. Мне&nbsp;в жизни довелось наблюдать туман, в&nbsp;том числе и&nbsp;плотный настолько, что&nbsp;вытянутую руку с&nbsp;трудом можно разглядеть. Но&nbsp;он ни&nbsp;разу не&nbsp;похож на&nbsp;тот густой молочно-кисельный дым, который играл роль тумана в&nbsp;этом фильме. Возможно, прежде чем&nbsp;приступать к&nbsp;съемкам, создателям фильма нужно было хотя бы&nbsp;выяснить, что&nbsp;это вообще за&nbsp;штука такая&#133; туман.</span></p>
+3 из&nbsp;10.</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/65503/comment/145701/">прямая ссылка</a>
+        <a href="/level/79/user/9428/comment/35663/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(145701); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(35663); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_145701" onclick="setCommentVote('145701', 'ok', '65503', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_145701" onclick="setCommentVote('145701', 'no', '65503', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_35663" onclick="setCommentVote('35663', 'ok', '9428', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_35663" onclick="setCommentVote('35663', 'no', '9428', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_145701">6 / 7</li>
+        <li id="comment_num_vote_35663">14 / 15</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_145701_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_35663_note" class="ajax_bottom"></i>
+
+    <span class="date">31 июля 2006 | 16:48</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_145701">
-   <textarea id="spoiler_textarea_145701"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(145701)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(145701)" />
-   <a href="#" onclick="CloseSpoiler(145701); return false;"></a>
-</div>
-
-
-
-
-
-
-
-</div><div style="position: relative; padding: 1px 0 40px 0">
-
-<div  class="response bad" id="div_review_909556">
-    
-    <div>
-        
-            <p class="profile_name"><s></s><a href="/level/79/user/1044393/">frechenboch</a></p>
-            <ul class="actions">
-                <li class="first"><a href="/level/79/user/1044393/comments/">рецензии (48)</a></li>
-<li><a href="/level/79/user/1044393/friends/">друзья</a></li>
-<li><a href="/level/79/user/1044393/movies/">фильмы</a></li>
-
-            </ul>
-        
-        <p class="sub_title" id="ext_title_909556"></p>
-    </div>
-
-    
-
-    
-
-    <span class="date">3 июля 2010 | 00:23</span>
-
-
-   <table><tr><td>
-      <p id="ext_text_909556"><span class="_reachbanner_" onmouseup='getSelect(909556)'>&laquo;Туман&raquo;&nbsp;&#151;&nbsp;яркий пример неудачного по&nbsp;всем фронтам ремейка. Следует заметить, что&nbsp;и оригинал, созданный гением Джона Карпентера, считается не&nbsp;самым лучшим его&nbsp;фильмом, но&nbsp;там, по&nbsp;крайней мере, было напряжение, атмосферность, неплохие актерские работы и&nbsp;неизменный саундтрек авторства самого Карпентера. Что&nbsp;мы получили в&nbsp;ремейке? Руперт Уэйнрайт поставил ранее отличный мистический триллер &laquo;Стигматы&raquo;, видимо, этот фильм и&nbsp;останется его&nbsp;единственным достижением за&nbsp;всю карьеру, во&nbsp;многих интервью главным достоинством своего прочтения классического ужастика называл именно тщательную прорисовку тумана&nbsp;&#151;&nbsp;что ж, как&nbsp;в воду глядел. Других достоинств просто не&nbsp;найдешь&nbsp;&#151;&nbsp;актеры все&nbsp;тусклые, реализация сюжета тянет на&nbsp;сценарий к&nbsp;детскому утреннику с&nbsp;голливудским бюджетом. Том&nbsp;Уэллинг привычно показывает свою маскулинность, видимо, все&nbsp;думает, что&nbsp;в &laquo;Тайнах Смолвилля&raquo; снимается, ну&nbsp;а все&nbsp;остальные просто не&nbsp;заслуживают даже средних оценок. <br />
-<br />
-Поэтому, <br />
-<br />
-3 из&nbsp;10</span></p>
-   </td></tr></table>
-
-    
-
-    <p class="links">
-        <a href="/level/79/user/1044393/comment/909556/">прямая ссылка</a>
-        
-    </p>
-    <ul class="useful">
-        <li>Полезная рецензия?
-            
-                <a class="mod" href="#" onclick="OpenSpoiler(909556); return false;"><s>пожаловаться на </s>спойлер?</a>
-            
-        </li>
-        
-            <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_909556" onclick="setCommentVote('909556', 'ok', '1044393', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_909556" onclick="setCommentVote('909556', 'no', '1044393', '84991'); return false;">Нет</a>
-            </li>
-        
-        <li id="comment_num_vote_909556">1 / 0</li>
-    </ul>
-    <strike></strike>
-    <i id="comment_num_vote_909556_note" class="ajax_bottom"></i>
-
-</div>
-<div class="signer signer_edit" id="spoiler_txt_909556">
-   <textarea id="spoiler_textarea_909556"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(909556)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(909556)" />
-   <a href="#" onclick="CloseSpoiler(909556); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_35663">
+   <textarea id="spoiler_textarea_35663"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(35663)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(35663)" />
+   <a href="#" onclick="CloseSpoiler(35663); return false;"></a>
 </div>
 
 
@@ -1261,9 +1116,6 @@ ids5[2] = 5901;
     
 
     
-
-    <span class="date">16 марта 2009 | 17:57</span>
-
 
    <table><tr><td>
       <p id="ext_text_417298"><span class="_reachbanner_" onmouseup='getSelect(417298)'>Я не&nbsp;понимаю, почему те, кто&nbsp;смотрел Туман, часто ругают его&nbsp;и сравнивают с&nbsp;оригиналом. У&nbsp;ремейка, конечно, мотив тот&nbsp;же: на&nbsp;город Антонио Бэй&nbsp;опустился туман, который на&nbsp;самом деле не&nbsp;туман, а&nbsp;призраки, желающие мести за&nbsp;свою ужасную смерть и&nbsp;стремящиеся вернуть свое богатство. Но&nbsp;если вы&nbsp;посмотрите старый, а&nbsp;затем новый, то&nbsp;вы поймете, что&nbsp;это два&nbsp;разных фильма. Возможно, фильм не&nbsp;страшный, но&nbsp;его вполне интересно смотреть.<br />
@@ -1302,6 +1154,8 @@ ids5[2] = 5901;
     <strike></strike>
     <i id="comment_num_vote_417298_note" class="ajax_bottom"></i>
 
+    <span class="date">16 марта 2009 | 17:57</span>
+
 </div>
 <div class="signer signer_edit" id="spoiler_txt_417298">
    <textarea id="spoiler_textarea_417298"></textarea>
@@ -1318,64 +1172,62 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response" id="div_review_23321">
-    
+<div  class="response" id="div_review_23311">
+    <img src="/images/users/bsm_6118-23.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/3549/">Vince</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/6118/">Dets</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/3549/comments/">рецензии (185)</a></li>
-<li><a href="/level/79/user/3549/subscribe/"></a></li>
+                <li class="first"><a href="/level/79/user/6118/comments/">рецензии (47)</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_23321"></p>
+        <p class="sub_title" id="ext_title_23311"></p>
     </div>
 
     
 
     
 
-    <span class="date">1 февраля 2006 | 20:20</span>
-
-
    <table><tr><td>
-      <p id="ext_text_23321"><span class="_reachbanner_" onmouseup='getSelect(23321)'>Честно говоря Карпентеровский фильм мне&nbsp;понравился больше&nbsp;&#151;&nbsp;все-таки Джон сумел передать чувство безнадеги и&nbsp;клаустрофобии лучше Вейнрайта. Фильм снят с&nbsp;цифровыми спецэффектами и&nbsp;оркестровой музыкой, что&nbsp;уже портит впечатление (могли бы&nbsp;ради приличия сделать &laquo;Туман&raquo; хотя-бы стилизованным под&nbsp;оригинал).<br />
+      <p id="ext_text_23311"><span class="_reachbanner_" onmouseup='getSelect(23311)'>Лично мне&nbsp;фильм понравился. Сначала хотел пойти только из-за Тома Уэллинга, так&nbsp;как считаю &laquo;Тайны Смолвиля&raquo; одним из&nbsp;лучших сериалов. Но&nbsp;недавно была возможность посмотреть оригинальный &laquo;Туман&raquo;, и&nbsp;меня это&nbsp;заинтересовало. <br />
 <br />
-К тому же&nbsp;в сценарии очень много затяжных моментов, и&nbsp;если Карпентер использовал затяжность для&nbsp;нагнетания атмосферы, то&nbsp;у Вейнрайта единственный хороший (в смысле нагнетания атмосферы) эпизод&nbsp;&#151;&nbsp;стая чаек, летящих над&nbsp;городом.<br />
+Сюжет вовсе не&nbsp;является &laquo;избитым&raquo;, как&nbsp;могло бы&nbsp;показаться с&nbsp;первого взгляда. Да&nbsp;и потом, если такие фильмы и&nbsp;были, то&nbsp;&laquo;Туман&raquo; на&nbsp;них не&nbsp;похож. А&nbsp;вот своего предшественника он&nbsp;очень сильно напоминает, хотя любители экранизаций и&nbsp;ремейков и&nbsp;любят &laquo;обновлять&raquo; их&nbsp;сюжет, добавлять свои детали. <br />
 <br />
-Может все&nbsp;дело в&nbsp;ностальгии, но&nbsp;я считаю, что&nbsp;в оригинале больше души, чем&nbsp;в ремейке.</span></p>
+Несмотря на&nbsp;то, что&nbsp;действие происходит в&nbsp;небольших масштабах, фильм совершенно не&nbsp;надоедает, а, наоборот, заинтересовывает. Хотя старый &laquo;Туман&raquo; мне&nbsp;понравился не&nbsp;меньше. И&nbsp;вот ещё&nbsp;что: он&nbsp;(новый) сильно напоминает &laquo;Сонную Лощину&raquo;. Например, сцена, где&nbsp;герои под&nbsp;конец фильма закрываются в&nbsp;старой церкви и&nbsp;сцена из&nbsp;&laquo;Лощины&raquo;, где&nbsp;всадник охотится за&nbsp;очередной головой, загоняя всех людей опять же&nbsp;в такую же&nbsp;церковь. Даже сюжетные линии в&nbsp;целом у&nbsp;них похожи за&nbsp;исключением того, что&nbsp;действие &laquo;Тумана&raquo; происходит в&nbsp;наши дни, а&nbsp;&laquo;Сонной Лощины&raquo;&nbsp;&#151;&nbsp;в конце XVIII века.</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/3549/comment/23321/">прямая ссылка</a>
+        <a href="/level/79/user/6118/comment/23311/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(23321); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(23311); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_23321" onclick="setCommentVote('23321', 'ok', '3549', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_23321" onclick="setCommentVote('23321', 'no', '3549', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_23311" onclick="setCommentVote('23311', 'ok', '6118', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_23311" onclick="setCommentVote('23311', 'no', '6118', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_23321">6 / 7</li>
+        <li id="comment_num_vote_23311">6 / 6</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_23321_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_23311_note" class="ajax_bottom"></i>
+
+    <span class="date">1 февраля 2006 | 18:01</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_23321">
-   <textarea id="spoiler_textarea_23321"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(23321)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(23321)" />
-   <a href="#" onclick="CloseSpoiler(23321); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_23311">
+   <textarea id="spoiler_textarea_23311"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(23311)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(23311)" />
+   <a href="#" onclick="CloseSpoiler(23311); return false;"></a>
 </div>
 
 
@@ -1386,60 +1238,62 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response bad" id="div_review_25824">
-    
+<div  class="response bad" id="div_review_256258">
+    <img src="/images/users/bsm_16940-37.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/1495/">Fastics</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/16940/">REMEDY</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/1495/comments/">рецензии (5)</a></li>
-<li><a href="/level/79/user/1495/votes/">оценки</a></li>
+                <li class="first"><a href="/level/79/user/16940/comments/">рецензии (3)</a></li>
+<li><a href="/level/79/user/16940/votes/">оценки</a></li>
+<li><a href="/level/79/user/16940/movies/">фильмы</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_25824"></p>
+        <p class="sub_title" id="ext_title_256258"></p>
     </div>
 
     
 
     
 
-    <span class="date">8 марта 2006 | 16:07</span>
-
-
    <table><tr><td>
-      <p id="ext_text_25824"><span class="_reachbanner_" onmouseup='getSelect(25824)'>Зачем сравнивать ремейк и&nbsp;оригинал? Каждый фильм надо оценивать так, как&nbsp;будто он&nbsp;в единственом числе! Этот фильм вполне не&nbsp;плох, интересный сюжет, хорошая операторская работа, сделан качественно и&nbsp;без пафоса, но&nbsp;вот актеры не&nbsp;много не&nbsp;подходят под&nbsp;стиль, первым выделяется Вэллинг. Не&nbsp;его роль. На&nbsp;мой взгляд 7,5 из&nbsp;10 вполне достаточно.</span></p>
+      <p id="ext_text_256258"><span class="_reachbanner_" onmouseup='getSelect(256258)'>Я не&nbsp;такой уже&nbsp;любитель ужасов&nbsp;&#151;&nbsp;по этому скажу просто от&nbsp;себя. Фильм не&nbsp;самый худший который мне&nbsp;доводилось видеть, но&nbsp;и на&nbsp;средний он&nbsp;не тянет. Ни&nbsp;одного оригинального приема&nbsp;&#151;&nbsp;все стандартно и&nbsp;все я&nbsp;где-то видел. Причем эта&nbsp;уповающая банальность распространяется на&nbsp;все. От&nbsp;сюжета до&nbsp;психологических портретов гг&nbsp;и стиля съемки. Все&nbsp;ужасно и&nbsp;в том&nbsp;числе актерская игра&nbsp;&#151;&nbsp;примитив, разве что&nbsp;мальчик более или&nbsp;менее. Долго писать не&nbsp;буду, этот фильм этого не&nbsp;заслужил.<br />
+<br />
+Остается сказать одно&nbsp;&#151;&nbsp;Голливуду пора на&nbsp;пенсию.</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/1495/comment/25824/">прямая ссылка</a>
+        <a href="/level/79/user/16940/comment/256258/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(25824); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(256258); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_25824" onclick="setCommentVote('25824', 'ok', '1495', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_25824" onclick="setCommentVote('25824', 'no', '1495', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_256258" onclick="setCommentVote('256258', 'ok', '16940', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_256258" onclick="setCommentVote('256258', 'no', '16940', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_25824">4 / 12</li>
+        <li id="comment_num_vote_256258">9 / 10</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_25824_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_256258_note" class="ajax_bottom"></i>
+
+    <span class="date">24 августа 2008 | 05:56</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_25824">
-   <textarea id="spoiler_textarea_25824"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(25824)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(25824)" />
-   <a href="#" onclick="CloseSpoiler(25824); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_256258">
+   <textarea id="spoiler_textarea_256258"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(256258)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(256258)" />
+   <a href="#" onclick="CloseSpoiler(256258); return false;"></a>
 </div>
 
 
@@ -1456,7 +1310,7 @@ ids5[2] = 5901;
         
             <p class="profile_name"><s></s><a href="/level/79/user/50158/">Mabgat</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/50158/comments/">рецензии (587)</a></li>
+                <li class="first"><a href="/level/79/user/50158/comments/">рецензии (590)</a></li>
 <li><a href="/level/79/user/50158/votes/">оценки</a></li>
 <li><a href="/level/79/user/50158/friends/">друзья</a></li>
 <li><a href="/level/79/user/50158/movies/">фильмы</a></li>
@@ -1471,9 +1325,6 @@ ids5[2] = 5901;
     
 
     
-
-    <span class="date">17 ноября 2009 | 22:29</span>
-
 
    <table><tr><td>
       <p id="ext_text_683634"><span class="_reachbanner_" onmouseup='getSelect(683634)'><i>С высоких гор&nbsp;спускается туман,<br />
@@ -1519,6 +1370,8 @@ ids5[2] = 5901;
     <strike></strike>
     <i id="comment_num_vote_683634_note" class="ajax_bottom"></i>
 
+    <span class="date">17 ноября 2009 | 22:29</span>
+
 </div>
 <div class="signer signer_edit" id="spoiler_txt_683634">
    <textarea id="spoiler_textarea_683634"></textarea>
@@ -1535,71 +1388,216 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response" id="div_review_27509">
-    <img src="/images/users/bsm_681-27.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_23694">
+    
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/681/">Killa</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/7202/">lana c</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/681/comments/">рецензии (340)</a></li>
-<li><a href="/level/79/user/681/votes/">оценки</a></li>
-<li><a href="/level/79/user/681/friends/">друзья</a></li>
-<li><a href="/level/79/user/681/movies/">фильмы</a></li>
+                <li class="first"><a href="/level/79/user/7202/comments/">рецензии (4)</a></li>
+<li><a href="/level/79/user/7202/votes/">оценки</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_27509"></p>
+        <p class="sub_title" id="ext_title_23694"></p>
     </div>
 
     
 
     
 
-    <span class="date">3 апреля 2006 | 15:38</span>
-
-
    <table><tr><td>
-      <p id="ext_text_27509"><span class="_reachbanner_" onmouseup='getSelect(27509)'>Похоже на&nbsp;то, что&nbsp;Голливуд прибывает в&nbsp;кризисе, если новых стоящих сценариев не&nbsp;предвидится. В&nbsp;следствии чего, боссы киностудий, вынуждены переснимать фильмы классиков жанра. Это&nbsp;касается не&nbsp;только триллеров.<br />
+      <p id="ext_text_23694"><span class="_reachbanner_" onmouseup='getSelect(23694)'>Мне фильм совсем не&nbsp;понравился. И&nbsp;вообще, как&nbsp;можно фильм называть ужасами, триллером&nbsp;&#151;&nbsp;там вообще ничего страшного нет. Том&nbsp;Уэллинг мне&nbsp;симпатичен, но&nbsp;по-моему ему&nbsp;лучше играть в&nbsp;сериалах, потому что&nbsp;здесь он&nbsp;сыграл никак.<br />
 <br />
-Итак, взяв клссичский фильм ужасов Джона Карентера &laquo;Туман&raquo;, вышедший в&nbsp;1980 году, сильные мира кинемографа решили переписать сценарий, под&nbsp;основную аудиторию современных кинотеатров&nbsp;&#151;&nbsp;молодежь! Фильм сдобрили звездами молодежных триллеров, типа &laquo;Крик&raquo;. Усложнили сценрий, создав интригующую сюжетную линию, с&nbsp;постепенным подъемом завесы тайны над&nbsp;происходящем, как&nbsp;это любят в&nbsp;последнее время. Ну&nbsp;и кончно добавили спецэффектов вкупе с&nbsp;компьютерной графикой.<br />
-<br />
-Что же&nbsp;получилось? <br />
-Мне, как&nbsp;смотревшему оригинал, было интересно, как&nbsp;переснимут эту&nbsp;идею в&nbsp;современном мире. Признаюсь, всё&nbsp;оказалось не&nbsp;настолько ужасно, как&nbsp;описывали многие. Один раз&nbsp;посмотреть сие&nbsp;творение можно. Но&nbsp;опять повторяю, это&nbsp;точка зрения человека, видевшего оригинал.<br />
-<br />
-В итоге, как&nbsp;и всегда, и&nbsp;везде говорили&nbsp;&#151;&nbsp;обращайтесь к&nbsp;первоисточнику. А&nbsp;конкретно к&nbsp;фильму 1980 года. Где&nbsp;Карпентер не&nbsp;только приложил руку к&nbsp;написанию сценрия. Но&nbsp;и руководил процессом съемок от&nbsp;начала и&nbsp;до конца, тем&nbsp;самым поставив на&nbsp;фильм знак качества!<br />
-<br />
-6 из&nbsp;10</span></p>
+Вообщем, скучный фильм.<br />
+3 из&nbsp;10</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/681/comment/27509/">прямая ссылка</a>
+        <a href="/level/79/user/7202/comment/23694/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(27509); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(23694); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_27509" onclick="setCommentVote('27509', 'ok', '681', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_27509" onclick="setCommentVote('27509', 'no', '681', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_23694" onclick="setCommentVote('23694', 'ok', '7202', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_23694" onclick="setCommentVote('23694', 'no', '7202', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_27509">11 / 8</li>
+        <li id="comment_num_vote_23694">8 / 13</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_27509_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_23694_note" class="ajax_bottom"></i>
+
+    <span class="date">6 февраля 2006 | 19:37</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_27509">
-   <textarea id="spoiler_textarea_27509"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(27509)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(27509)" />
-   <a href="#" onclick="CloseSpoiler(27509); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_23694">
+   <textarea id="spoiler_textarea_23694"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(23694)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(23694)" />
+   <a href="#" onclick="CloseSpoiler(23694); return false;"></a>
+</div>
+
+
+
+
+
+
+
+</div><div style="position: relative; padding: 1px 0 40px 0">
+
+<div  class="response bad" id="div_review_69973">
+    <img src="/images/users/bsm_5542-19.jpg" width="46" alt="" title="" />
+    <div>
+        
+            <p class="profile_name"><s></s><a href="/level/79/user/5542/">Martishka</a></p>
+            <ul class="actions">
+                <li class="first"><a href="/level/79/user/5542/comments/">рецензии (900)</a></li>
+<li><a href="/level/79/user/5542/votes/">оценки</a></li>
+
+            </ul>
+        
+        <p class="sub_title" id="ext_title_69973"></p>
+    </div>
+
+    
+
+    
+
+   <table><tr><td>
+      <p id="ext_text_69973"><span class="_reachbanner_" onmouseup='getSelect(69973)'>Остров Антонио. Крошечный уголок Земли. В&nbsp;центре маленького городка стоит памятник четырем морякам, погибшим много лет&nbsp;назад при&nbsp;непонятных обстоятельствах. Так&nbsp;же, совершенно необъяснимо, на&nbsp;город надвигается туман, в&nbsp;котором происходит что-то необъяснимое, но&nbsp;должно быть очень страшное. Мне&nbsp;запомнилась только одна сцена: женщина моет посуду в&nbsp;кухне, а&nbsp;из мойки (вместе с&nbsp;туманом, конечно) вылазят облезлые полуразложившиеся руки&#133; <br />
+<br />
+В общем, если вам&nbsp;нравится щекотать нервы и&nbsp;портить себе настроение кинофильмами средней паршивости, это&nbsp;самое оно. А&nbsp;вот зачем себе позволила играть в&nbsp;этом фильме Джимми Ли&nbsp;Кертис&nbsp;&#151;&nbsp;я понять не&nbsp;могу. <br />
+<br />
+2 из&nbsp;10</span></p>
+   </td></tr></table>
+
+    
+
+    <p class="links">
+        <a href="/level/79/user/5542/comment/69973/">прямая ссылка</a>
+        
+    </p>
+    <ul class="useful">
+        <li>Полезная рецензия?
+            
+                <a class="mod" href="#" onclick="OpenSpoiler(69973); return false;"><s>пожаловаться на </s>спойлер?</a>
+            
+        </li>
+        
+            <li class="answer">
+                  <a href="#" class="vote" id="vote_link_ok_69973" onclick="setCommentVote('69973', 'ok', '5542', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_69973" onclick="setCommentVote('69973', 'no', '5542', '84991'); return false;">Нет</a>
+            </li>
+        
+        <li id="comment_num_vote_69973">5 / 15</li>
+    </ul>
+    <strike></strike>
+    <i id="comment_num_vote_69973_note" class="ajax_bottom"></i>
+
+    <span class="date">11 мая 2007 | 18:15</span>
+
+</div>
+<div class="signer signer_edit" id="spoiler_txt_69973">
+   <textarea id="spoiler_textarea_69973"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(69973)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(69973)" />
+   <a href="#" onclick="CloseSpoiler(69973); return false;"></a>
+</div>
+
+
+
+
+
+
+
+</div><div style="position: relative; padding: 1px 0 40px 0">
+
+<div  class="response bad" id="div_review_528965">
+    <img src="/images/users/bsm_381105-38.jpg" width="46" alt="" title="" />
+    <div>
+        
+            <p class="profile_name"><s></s><a href="/level/79/user/381105/">GalaGramma</a></p>
+            <ul class="actions">
+                <li class="first"><a href="/level/79/user/381105/comments/">рецензии (37)</a></li>
+<li><a href="/level/79/user/381105/votes/">оценки</a></li>
+<li><a href="/level/79/user/381105/friends/">друзья</a></li>
+<li><a href="/level/79/user/381105/movies/">фильмы</a></li>
+<li><a href="/level/79/user/381105/subscribe/"></a></li>
+
+            </ul>
+        
+        <p class="sub_title" id="ext_title_528965">Сиреневый туман над&nbsp;нами проплывает&#133;</p>
+    </div>
+
+    
+
+    
+
+   <table><tr><td>
+      <p id="ext_text_528965"><span class="_reachbanner_" onmouseup='getSelect(528965)'>М-да. Дамы и&nbsp;господа, не&nbsp;вдохновляет! А&nbsp;ведь столько всего можно было выжать из&nbsp;этой идеи&nbsp;&#151;&nbsp;ужасного и&nbsp;романтичного&#133; Но, увы&nbsp;и ах, как&nbsp;говорится, идея потерпела крах.<br />
+<br />
+У кого вообще этот фильм язык повернется называть ужасами?.. Нет, позвольте, может, на&nbsp;фантастику еще&nbsp;тянет кое-как, но&nbsp;чтоб на&nbsp;ужасы&#133; Ну, обгоревшими скелетами только если детсадовских ребятишек пугать (хотя, к&nbsp;слову, у&nbsp;этих ребятишек в&nbsp;наше время нервы крепче и&nbsp;познания шире, чем&nbsp;хотелось бы&nbsp;их родителям).<br />
+<br />
+Игра актеров весьма средненькая, концовка предугадывается в&nbsp;первые минут десять. Да&nbsp;и вообще, весь фильм&nbsp;&#151;&nbsp;просто суповой набор из&nbsp;киноштампов. <br />
+<br />
+Пока смотрела, зевнула раз&nbsp;сто, а&nbsp;голова невольно поворачивалась куда-то в&nbsp;сторону. Звуков вполне хватало, чтобы следить за&nbsp;происходящим, а&nbsp;обои у&nbsp;меня красивее, чем&nbsp;весь &laquo;зловещий&raquo; и&nbsp;&laquo;туманный&raquo; антураж.<br />
+<br />
+Всё очень наивно-неграмотно и&nbsp;тривиально. <br />
+<br />
+Мэгги Грэйс в&nbsp;&laquo;Остаться в&nbsp;живых&raquo; и&nbsp;то лучше сыграла, хотя и&nbsp;там мне&nbsp;она не&nbsp;очень понравилась. Какая-то она&nbsp;не особо эмоциональная. В&nbsp;выражении ее&nbsp;лица на&nbsp;протяжении всего фильма читалось мало полезного. <br />
+<br />
+В общем и&nbsp;целом, даже не&nbsp;могу сказать, что&nbsp;она или&nbsp;Том Уэллинг являются главными персонажами. Ну&nbsp;не тянет их&nbsp;игра на&nbsp;первостепенную&#133; А&nbsp;фильм без&nbsp;главных героев&nbsp;&#151;&nbsp;это не&nbsp;фильм, потому всё&nbsp;и летит к&nbsp;чертям.<br />
+<br />
+Честно сказать, мне&nbsp;было жаль потраченного времени. Кому-то, может, и&nbsp;интересен будет сей&nbsp;опус. Но&nbsp;лучше пересмотрите &laquo;Пиратов Карибского моря&raquo;&nbsp;&#151;&nbsp;все три&nbsp;фильма! <br />
+<br />
+А для&nbsp;&laquo;Тумана&raquo;, с&nbsp;большой натяжкой&nbsp;&#151;&nbsp;<br />
+<br />
+4 из&nbsp;10<br />
+<br />
+P.S. У&nbsp;меня на&nbsp;даче часто бывает туман. Такой душный и&nbsp;сырой, скатывается с&nbsp;горы. <br />
+Стра-а-ашно?</span></p>
+   </td></tr></table>
+
+    
+
+    <p class="links">
+        <a href="/level/79/user/381105/comment/528965/">прямая ссылка</a>
+        
+    </p>
+    <ul class="useful">
+        <li>Полезная рецензия?
+            
+                <a class="mod" href="#" onclick="OpenSpoiler(528965); return false;"><s>пожаловаться на </s>спойлер?</a>
+            
+        </li>
+        
+            <li class="answer">
+                  <a href="#" class="vote" id="vote_link_ok_528965" onclick="setCommentVote('528965', 'ok', '381105', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_528965" onclick="setCommentVote('528965', 'no', '381105', '84991'); return false;">Нет</a>
+            </li>
+        
+        <li id="comment_num_vote_528965">7 / 5</li>
+    </ul>
+    <strike></strike>
+    <i id="comment_num_vote_528965_note" class="ajax_bottom"></i>
+
+    <span class="date">24 июня 2009 | 00:38</span>
+
+</div>
+<div class="signer signer_edit" id="spoiler_txt_528965">
+   <textarea id="spoiler_textarea_528965"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(528965)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(528965)" />
+   <a href="#" onclick="CloseSpoiler(528965); return false;"></a>
 </div>
 
 
@@ -1612,7 +1610,7 @@ ids5[2] = 5901;
 
             
                 
-                    <p class="more_random random_bottom"><a href="/level/1/film/84991/ord/rnd/rnd/1280490321/#list">ещё случайные</a></p>
+                    <p class="more_random random_bottom"><a href="/level/1/film/84991/ord/rnd/rnd/1280732575/#list">ещё случайные</a></p>
                 
             
 
@@ -1786,48 +1784,48 @@ $(function(){
 
 <dl class="block block_top250">
    <dt>Лучшие фильмы &mdash; Top 250</dt>
-   <dd class="dl"><a href="/level/1/film/46068/"><b>90.</b><i><s>Белый Бим - Черное ухо</s></i><u>8.278</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/441/"><b>220.</b><i><s>Принцесса Мононоке</s>Mononoke-hime</i><u>8.076</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/309397/"><b>91.</b><i><s>Дом</s>Home</i><u>8.277</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/23712/"><b>221.</b><i><s>Стена</s>Pink Floyd The Wall</i><u>8.076</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/350/"><b>92.</b><i><s>Славные парни</s>Goodfellas</i><u>8.271</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/335/"><b>222.</b><i><s>Помни</s>Memento</i><u>8.075</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/394/"><b>93.</b><i><s>Бешеные псы</s>Reservoir Dogs</i><u>8.270</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/42571/"><b>223.</b><i><s>Иди и смотри</s></i><u>8.073</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/126196/"><b>94.</b><i><s>Жизнь других</s>Das Leben der Anderen</i><u>8.268</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/4384/"><b>224.</b><i><s>Великан</s>Mighty, The</i><u>8.070</u></a></dd>
 
    <dd class="more"><a href="/level/20/">лучшие фильмы</a></dd>
 </dl>
 <dl class="block block_top250">
    <dt>Ожидаемые фильмы</dt>
-   <dd class="dl"><a href="/level/1/film/464282/"><b>56.</b><i><s>Впритык</s>Due Date</i><u>62.71%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/457276/"><b>26.</b><i><s>Снова ты</s>You Again</i><u>73.99%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/279580/"><b>57.</b><i><s>Боец</s>Fighter, The</i><u>61.98%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462186/"><b>27.</b><i><s>Где-то</s>Somewhere</i><u>73.48%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/281439/"><b>58.</b><i><s>Хроники Нарнии: Покоритель Зари</s>Chronicles of Narnia: The Voyage of the Dawn Treader, The</i><u>61.94%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/427198/"><b>28.</b><i><s>Социальная сеть</s>Social Network, The</i><u>73.38%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/481706/"><b>59.</b><i><s>Паранормальное явление&nbsp;2</s>Paranormal Activity 2</i><u>61.53%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462466/"><b>29.</b><i><s>Копы в глубоком запасе</s>Other Guys, The</i><u>72.25%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/104893/"><b>60.</b><i><s>Generation&nbsp;П</s></i><u>61.38%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/463567/"><b>30.</b><i><s>Стоун</s>Stone</i><u>71.44%</u></a></dd>
 
    <dd class="more"><a href="/level/53/">ожидаемые фильмы</a></dd>
 </dl>
 <dl class="block block_review">
    <dt>Новые рецензии<i>всего</i></dt>
-   <dd class="dl"><a href="/level/1/film/86314/"><b></b><i><s>Кровь за кровь</s>Four Brothers</i><u>13</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/145571/"><b></b><i><s>Турецкие звездные войны</s>D&#252;nyayi kurtaran adam</i><u>2</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/208053/"><b></b><i><s>Не волнуйся, у меня всё нормально</s>Je vais bien, ne t'en fais pas</i><u>5</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/221423/"><b></b><i><s>Красота №2</s>Beauty #2</i><u>1</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/17754/"><b></b><i><s>Чего хочет девушка</s>What a Girl Wants</i><u>14</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/445175/"><b></b><i><s>Безумное свидание</s>Date Night</i><u>55</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>626</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/409507/"><b></b><i><s>Ип Ман</s>Yip Man</i><u>40</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/424266/"><b></b><i><s>Книга Илая</s>Book of Eli, The</i><u>214</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/747/"><b></b><i><s>Малена</s>Mal&#232;na</i><u>66</u></a></dd>
    <dd class="more"><a href="/level/18/">все рецензии</a></dd>
 </dl>
 <dl class="block block_show">
    <dt>Сегодня в кино<i>рейтинг</i></dt>
-   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>6.239</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>9.263</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/424560/"><b></b><i><s>Кошки против собак: Месть Китти Галор</s>Cats &#38; Dogs: The Revenge of Kitty Galore</i><u>5.594</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/429739/"><b></b><i><s>Ученик чародея</s>Sorcerer's Apprentice, The</i><u>7.400</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/462666/"><b></b><i><s>Необычайные приключения Адель</s>Les aventures extraordinaires d'Ad&#232;le Blanc-Sec</i><u>6.628</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>6.108</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>9.224</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/424560/"><b></b><i><s>Кошки против собак: Месть Китти Галор</s>Cats &#38; Dogs: The Revenge of Kitty Galore</i><u>5.177</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/429739/"><b></b><i><s>Ученик чародея</s>Sorcerer's Apprentice, The</i><u>7.364</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462666/"><b></b><i><s>Необычайные приключения Адель</s>Les aventures extraordinaires d'Ad&#232;le Blanc-Sec</i><u>6.533</u></a></dd>
    <dd class="more"><a href="/level/8/view/main/">афиша</a></dd>
 </dl>
 <div class="block_podcast">
@@ -1844,10 +1842,10 @@ $(function(){
 </div><dl class="block block_soon">
    <dt>Скоро в кино<i>премьера</i></dt>
    <dd class="dl"><a href="/level/1/film/450345/"><b></b><i><s>Одноклассники</s>Grown Ups</i><u>05.08</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/418790/"><b></b><i><s>Призрак</s>Ghost Writer, The</i><u>05.08</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/432550/"><b></b><i><s>Неудержимые</s>Expendables, The</i><u>12.08</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/432550/"><b></b><i><s>Неудержимые</s>Expendables, The</i><u>11.08</u></a></dd>
    <dd class="dl"><a href="/level/1/film/409185/"><b></b><i><s>Шаг вперед 3-D</s>Step Up 3-D</i><u>12.08</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/412162/"><b></b><i><s>Каратэ-пацан</s>Karate Kid, The</i><u>19.08</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/522094/"><b></b><i><s>Вампирский засос</s>Vampires Suck</i><u>02.09</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/467553/"><b></b><i><s>Мачете</s>Machete</i><u>02.09</u></a></dd>
    <dd class="more"><a href="/level/8/view/prem/">премьеры</a></dd>
 </dl>
 
@@ -1998,25 +1996,12 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://drive.videoclik.r
 </div>
 
 
-<div class="hidden_2">
-<!-- AdRiver code START Type: ZeroPixel Site: kinopoisk PZ: 0 BN: 0-->
-<script language="javascript" type="text/javascript"><!--
-var RndNum4NoCash = Math.round(Math.random() * 1000000000);
-var ar_Tail='unknown'; if (document.referrer) ar_Tail = escape(document.referrer);
-document.write(
-'<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?'
-+ 'sid=80703&bt=21&pz=0&rnd=' + RndNum4NoCash + '&tail256=' + ar_Tail + '" border=0 width=1 height=1>')
-//--></script>
-<noscript>
-<img src="http://ad.adriver.ru/cgi-bin/rle.cgi?sid=80703&bt=21&pz=0&rnd=195829045" border=0 width=1 height=1>
-</noscript>
-<!-- AdRiver code END -->
-</div>
 
 </div>
 
 </div>
 
+</div>
 
 
 <!--
