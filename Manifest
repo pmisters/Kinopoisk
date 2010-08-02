@@ -2,13 +2,15 @@ Manifest
 README
 Rakefile
 VERSION
-kinopoisk.gemspec
 lib/extendings.rb
 lib/kinopoisk.rb
 lib/kinopoisk/movie.rb
 lib/kinopoisk/search.rb
 spec/fixtures/273302
 spec/fixtures/84991
+spec/fixtures/8880
+spec/fixtures/cover_273302
+spec/fixtures/cover_list_273302
 spec/fixtures/search_tuman_2010
 spec/kinopoisk/kinopoisk_spec.rb
 spec/kinopoisk/movie_spec.rb

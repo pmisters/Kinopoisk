@@ -106,7 +106,7 @@ module Kinopoisk
         response = request.get url.path, HEADERS
         
         cover_list_document = Hpricot response.body.to_utf8, :fixup_tags => true
-        cover_list_document.search("//table[@class='fotos']/tr[@class='last']/td/a").first.attributes['href']
+        cover_list_document.search("//tr[@class='last']/td/a").first.attributes['href']
         
       rescue Net::HTTPError
         nil
