@@ -1,25 +1,24 @@
 HTTP/1.1 200 OK
 Server: nginx/0.7.62
-Date: Mon, 02 Aug 2010 07:20:25 GMT
+Date: Mon, 02 Aug 2010 07:20:33 GMT
 Content-Type: text/html; charset=windows-1251
 Connection: close
-X-Powered-By: PHP/5.2.4-2ubuntu5.7
-Set-Cookie: PHPSESSID=f0c179a9764685f80f2967aa957c38f8; path=/; domain=kinopoisk.ru
+X-Powered-By: PHP/5.2.10-2ubuntu6.4
+Set-Cookie: PHPSESSID=efc1a86e39a66dc23b5a60b36d65df27; path=/; domain=kinopoisk.ru
 Expires: 0
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Last-Modified: Mon, 02 Aug 2010 07:19:51 GMT
-Set-Cookie: last_visit=2010-08-02+11%3A19%3A51; expires=Thu, 16-Sep-2010 07:19:51 GMT; path=/
-Set-Cookie: my_perpages=a%3A0%3A%7B%7D; expires=Tue, 02-Aug-2011 07:19:51 GMT; path=/
-Set-Cookie: users_info[check_sh_bool]=none; expires=Thu, 16-Sep-2010 07:19:51 GMT; path=/
-Vary: Accept-Encoding
+Last-Modified: Mon, 02 Aug 2010 07:19:59 GMT
+Set-Cookie: last_visit=2010-08-02+11%3A19%3A59; expires=Thu, 16-Sep-2010 07:19:59 GMT; path=/
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Результаты поиска (88)</title>
+<title>Обложки: Мгла</title>
 <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="Постеры: мгла (MIST, THE). Лучшие постеры из фильма." />
+<meta name="keywords" content="постеры постер Мгла (Mist, The) обои фото рабочий стол десктоп wallpaper desktop" />
 
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
 <link href="/news.rss" type="application/rss+xml" rel="alternate" title="RSS" />
@@ -27,7 +26,6 @@ Vary: Accept-Encoding
 <link href="/js/thickbox.css?v=2" type="text/css" rel="stylesheet" />
 <link href="/js/safari.css?v=20091228-2000" type="opera/css" rel="stylesheet" media="all" />
 
-<link href="/js/search.css?v=20100727-1411" type="text/css" rel="stylesheet" media="all" />
 
 
 <!--[if IE 8]><style type="text/css">body {overflow-y: scroll}</style><![endif]-->
@@ -44,6 +42,7 @@ Vary: Accept-Encoding
 <script src="/js/profile_v1.0.7.js?v=20100708-1850" type="text/javascript"></script>
 <link href="/js/ui/css/base/ui.all.css?v=20100402" type="text/css" rel="stylesheet" media="all" />
 <script src="/js/main_v1.0.17.js?v=20100511-1800" type="text/javascript"></script>
+<script src="/js/horisontal_scroll.js?v=20091201-1109" type="text/javascript"></script>
 <script type="text/javascript">
 $(document).ready(function(){
 });
@@ -211,8 +210,8 @@ var ar_bn1= Math.floor(Math.random()*5+1);
    <u class="user"></u>
    <a href='/'><img src="/images/logonew2.gif" alt="КиноПоиск.Ru &ndash; Все фильмы планеты" /></a>
    <a href='/'><span class="logo" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span></a>
-   <span class="about">всё о любом фильме:</span>
-   <span class="example">например: <a href="/level/1/film/470179/">Красная шапочка</a></span>
+   <span class="about">всё о любом актёре:</span>
+   <span class="example">например: <a href="/level/4/people/10633/">Эштон Катчер</a></span>
 
    <!-- profile_top start -->
    
@@ -222,7 +221,7 @@ var ar_bn1= Math.floor(Math.random()*5+1);
    <!-- profile_top end -->
 
    <span class="search"><a href="/level/7/">расширенный поиск</a><b></b><a href="/level/81/">что ищут?</a></span>
-   <input id="search_input" class="text" type="text" name="kp_query" maxlength="256" value="Туман (2010)" tabindex="1" />
+   <input id="search_input" class="text" type="text" name="kp_query" maxlength="256" value="" tabindex="1" />
    <b class="search_btn_1" tabindex="2" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'no';  document.searchForm.submit();}"></b>
    <b class="search_btn_2" tabindex="3" onclick="if(!!document.getElementById('search_input').value) {document.searchForm.first.value = 'yes'; document.searchForm.submit();}" title="перейти к первому результату поиска (Ctrl+Enter)"></b>
    <div class="mez_rez">
@@ -231,7 +230,7 @@ var ar_bn1= Math.floor(Math.random()*5+1);
       
       <!-- /top_notices -->
    </div>
-</form><div class="filmfans"><img src="/images/title_search.gif" width="101" height="23" alt="Искать" title="Искать" /></div>
+</form><div class="filmfans"><img src="/images/title015.gif" width="198" height="28" alt="Обложки: Мгла" title="Обложки: Мгла" /></div>
 <div class="corner_nobrand"></div>
 </div>
 
@@ -241,217 +240,125 @@ var ar_bn1= Math.floor(Math.random()*5+1);
 
 	<table style="background: #fff; width: 850px; margin: 0 auto" cellpadding="0" cellspacing="0">
 	<tr>
-	   <!-- результаты поиска -->
-<td id="block_left_pad">
-<div class="block_left_pad" style="padding-top: 20px">
+	   <td id="block_left">
+<div class="block_left">
 
+<style type="text/css">
+   .fotos {width: 555px; border-collapse: collapse; cursor: default}
+   .fotos * {margin: 0; padding: 0}
+   .fotos td {width: 180px; color: #777; font-size: 10px; vertical-align: top}
+   .fotos .center {padding: 0 7px}
+   .fotos1 {width: 180px; margin: 0 auto}
+   .fotos2 {width: auto !important; margin: 0 auto}
+      .fotos2 td {width: 215px !important; padding: 0 10px !important}
+      .fotos2 td b {padding-left: 122px}
+      .fotos2 td b i {right: 125px}
+      .fotos2 td b a {left: 100px}
+/* .fotos2 td {width: 180px !important; padding: 0 45px !important} */
+   .fotos3 td {padding: 0 40px 20px 40px}
+   .fotos img {border: 5px #ccc solid; display: block; margin: 0 auto}
+   .fotos img.new {border-color: #f60}
+   .fotos b {font-weight: normal; display: block; position: relative; margin-top: 6px; padding: 0 0 30px 107px}
+   .fotos b i {font-style: normal; position: absolute; right: 106px}
+   .fotos b a {background: url(/images/new_win.gif); width: 13px; height: 11px; overflow: hidden; display: block; position: absolute; left: 84px}
+   .fotos u {font-size: 11px; text-decoration: none; text-align: center; display: block; padding: 3px 0 30px 0}
+   .fotos u a {color: #005; text-decoration: underline}
+   .fotos .last u, .fotos .last b {padding-bottom: 0}
+</style>
+<!--[if lte IE 6]><style type="text/css">.fotos img {width: 170px}</style><![endif]-->
+
+    
 	<table cellspacing=0 cellpadding=0 width=100% border=0>
-	<tr><td valign=top>
-		<table cellspacing=0 cellpadding=2 width=100% border=0 bgcolor="#f2f2f2">
-			<tr><td height=20 style="padding:5px;padding-left:30px;color:#333;font-size:11px">
-<b style="color:#007">&laquo;Туман (2010)&raquo;</b> &#149; найдено&nbsp;результатов:&nbsp;88</b>
+		<tr><td style="text-align: right">
+<div class="insert">
+<ul>
+	<li><a href="/level/12/film/273302/">обои</a></li><li><a href="/level/17/film/273302/">постеры</a></li><li class="act">обложки</li><li><a href="/level/17/film/273302/adv_type/fanart/">фан-арт</a></li><li><a href="/level/13/film/273302/">кадры</a></li><li><a href="/level/13/film/273302/adv_type/sp/">съёмки</a></li>
+</ul>
+</div>
 </td></tr>
-		</table>
-		<br />
-		<table cellspacing=0 cellpadding=0 width=100% border=0>
-			<tr><td style="width: 100%">
-				<table style="width: 525px; margin-left: 30px" cellspacing=0 cellpadding=2 border=0>
-				<tr><td colspan=2 height=60><H2 class="textorangebig" style="font-size: 16px; font-weight: normal">Скорее всего вы ищете:</H2></td></tr>
-<tr>
-	<td>1.</td>
-	<td width=100% class="news"><a class="all" href="/level/1/film/273302/sr/1/">Мгла</a>,&nbsp;<a href="/level/10/m_act[year]/2007/" class=orange>2007</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating">7.651</i><font color="#999999">Mist, The</font></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr>
-						<tr><td colspan=2 style="border-bottom:1px dotted #ccc">&nbsp;</td></tr>
-		<tr><td colspan=2 height=60><H2 class="textorangebig" style="font-size: 16px; font-weight: normal">Похожие результаты:</H2></td></tr>
-				
-				
-				
-				<tr>
-	<td width=5%>1.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/1/film/84991/sr/1/">Туман</a>,&nbsp;<a href="/level/10/m_act[year]/2005/" class="continue">2005</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating">5.047</i><font color="#999999">Fog, The</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>2.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/1/film/507169/sr/1/">Туман (ТВ)</a>,&nbsp;<a href="/level/10/m_act[year]/2010/" class="continue">2010</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating">6.556</i><font color="#999999"></font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>3.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/1/film/484823/sr/1/">82-я церемония вручения премии «Оскар» (ТВ)</a>,&nbsp;<a href="/level/10/m_act[year]/2010/" class="continue">2010</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating">6.557</i><font color="#999999">82nd Annual Academy Awards, The</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>4.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/1/film/8880/sr/1/">Космическая одиссея 2010</a>,&nbsp;<a href="/level/10/m_act[year]/1984/" class="continue">1984</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating">7.128</i><font color="#999999">2010</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>5.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/1/film/229179/sr/1/">Трансформеры (сериал)</a>,&nbsp;<a href="/level/10/m_act[year]/1984/" class="continue">1984</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating">7.855</i><font color="#999999">Transformers</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr>
-				
-				
-				<tr><td colspan=2 align="right"><a href='/index.php?level=7&ser=a%3A3%3A%7Bs%3A4%3A%22find%22%3Bs%3A12%3A%22%D2%F3%EC%E0%ED+%282010%29%22%3Bs%3A4%3A%22what%22%3Bs%3A7%3A%22content%22%3Bs%3A5%3A%22count%22%3Ba%3A1%3A%7Bs%3A7%3A%22content%22%3Bs%3A2%3A%2277%22%3B%7D%7D&show=all' class="continue">показать всё >></a></td></tr>
-				
-						
-		<tr><td colspan=2 style="border-bottom:1px dotted #ccc"><img src="/images/spacer.gif" height=1></td></tr>
-		<tr><td colspan=2 height=60><H2 class="textorangebig" style="font-size: 16px; font-weight: normal">Список найденных имён:</H2></td></tr>
-				<tr>
-	<td width=5%>1.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/4926/sr/1/">Чад Туман</a>&nbsp;<a href="" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... Chad Thumann</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>2.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/577381/sr/1/">Маргарет Туман</a>&nbsp;<a href="" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... Margarete Thumann</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>3.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/1219250/sr/1/">Сили Энн Туман</a>&nbsp;<a href="" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... Seeley Ann Thumann</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>4.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/1822567/sr/1/">Александр Туманов</a>,&nbsp;<a href="/level/10/act/birthday/view/year/year/1981/" class="continue">1981</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>5.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/338831/sr/1/">Семен Туманов</a>,&nbsp;<a href="/level/10/act/birthday/view/year/year/1921/" class="continue">1921</a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>6.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/352694/sr/1/">Владимир Туманов</a>&nbsp;<a href="/level/10/act/birthday/view/year/year/1921/" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>7.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/346808/sr/1/">Олег Туманов</a>&nbsp;<a href="/level/10/act/birthday/view/year/year/1921/" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>8.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/1236624/sr/1/">Мелис Туманов</a>&nbsp;<a href="/level/10/act/birthday/view/year/year/1921/" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... Melis Tumanov</font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>9.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/1561258/sr/1/">Алексей Туманов</a>&nbsp;<a href="/level/10/act/birthday/view/year/year/1921/" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr><tr>
-	<td width=5%>10.</td>
-	<td width=95% align=left class="news"><a class="all" href="/level/4/people/1809684/sr/1/">М. Туманов</a>&nbsp;<a href="/level/10/act/birthday/view/year/year/1921/" class="continue"></a></td>
-</tr>
-<tr>
-	<td></td>
-	<td><i class="search_rating"></i><font color="#999999">... </font><product></td>
-</tr>
-<tr><td colspan=2 height=5><spacer type=block height=5></td></tr>
-				<tr><td colspan=2 align="right"><a href='/index.php?level=7&ser=a%3A3%3A%7Bs%3A4%3A%22find%22%3Bs%3A12%3A%22%D2%F3%EC%E0%ED+%282010%29%22%3Bs%3A4%3A%22what%22%3Bs%3A5%3A%22actor%22%3Bs%3A5%3A%22count%22%3Ba%3A2%3A%7Bs%3A7%3A%22content%22%3Bs%3A2%3A%2277%22%3Bs%3A5%3A%22actor%22%3Bs%3A2%3A%2211%22%3B%7D%7D&show=all' class="continue">показать всё >></a></td></tr>
-				</table>
-				<table style="width: 100%" cellspacing=0 cellpadding=2 border=0>
-				
-				
-				</table>
-			</td></tr></table>
-			<div style="margin-left: -20px">
-				
-			</div>
-			<table cellspacing=0 cellpadding=2 width=100% border=0>
-
-				<tr><td colspan=2 class="news">
-					<br />
-					<table cellspacing=0 cellpadding=20 width=100% border=0 bgcolor="#f2f2f2">
-						<tr><td class="news">
-							Если вам не удалось найти то, что искали, воспользуйтесь нашим <a href="/level/7/" class="all">расширенным поиском</a>. Если и это не помогло, <a href="/level/23/" class="all">напишите нам</a>.
-							<br /><br />
-							Для поиска хорошего кино рекомендуем <a href="/level/48/" class="all">навигатор по лучшим фильмам</a>.
-						</td></tr>
-					</table>
-				    <br />
-
-					<table cellspacing=0 cellpadding=0 width=100% border=0 style="background: #ffe3d1 url(/images/bg_search_text.jpg) 100% 100% no-repeat; " >
-						<tr>
-							<td width=380 style="padding:20px">
-								<span style="line-height:20px;color:#555;font-weight:bold">Поиск по текстам:</span><br />
-								<input type="text" style="width:370px" value="Туман (2010)" id='text_search_input'><br />
-								<small style="color:#777">новости, рецензии, синопсисы, интервью...</small>
-								<br />
-							</td>
-
-							<td style="padding-top:6px" align=left><input type=button value="искать" style="width:100px" onclick='top.location="/level/7/text/"+escape(document.getElementById("text_search_input").value);'></td>
-						</tr>
-					</table>
-    				<br />
-				<table cellspacing=0 cellpadding=20 width=100% border=0>
+</table>
+<table cellspacing=0 cellpadding=0 width=100% border=0>
+		<tr>
+			<td colspan=2 style="padding-bottom:10px" height=60>
+				<table cellspacing=0 cellpadding=0 border=0>
 					<tr>
-						<td style="border:1px solid #ccc;color:#333">
-							Хотите искать быстрее? Установите поисковое окно сайта прямо в браузер! <a href="/level/51/type/inside/post/598/" class="all" style="color:#333">Подробнее...</a>
-							<br /><a href="/level/51/type/inside/post/598/"><img src="/images/search-toolbar.gif" width=370 height=33 border=0 vspace=10></a>
-						</td>
+						<td valign=top style="padding-left:20px"><h1 class="level2" style="white-space: nowrap"><a href="/level/17/" class="continue">Обложки</a></h1></td>
+						<td width=25 valign=top><h1 class="slash"> / </h1></td>
+						<td><h1 class="level2"><a href="/level/1/film/273302/" class=all>Мгла</a> (3)</h1></td>
+					</tr>
+					<tr>
+						<td colspan=2></td>
+						<td class="news">Mist, The, 2007</td>
 					</tr>
 				</table>
-				<br />
-				</td></tr>
-				<tr><td colspan=2 height=25 style="padding-left:5px"><img src="/images/arrow-top2.gif" width=17 height=8><a href="#top" class="continue">Наверх страницы</a></td>
-			</table>
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#f2f2f2" height=30 align=left style="padding-left:16px" class="border-tb">
+				<table cellspacing=0 cellpadding=0 border=0 width=100%>
+					<tr>
+						<td width=*><img src="/images/sqr-orange.gif" width=4 height=4 vspace=2 hspace=10><a href="/level/1/film/273302/" class=all>Информация o фильме &gt;&gt;</a></td>
+						<td width=1%><a href="/rss/graph_film-.rss" target="_blank"><img src="/images/profile/rssplus.gif" width=16 height=15 hspace=5 border=0 alt="RSS-подписка"></a></td>
+						<td width=15%><a href="/rss/graph_film-273302.rss" target="_blank" class="all" style="color:#777">rss-подписка</a></td>
+						<td width=50% align=right>&nbsp;</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr><td colspan=2><br /><br /><br /></td></tr>
+		<tr><td colspan=2>
+<div style="padding-left: 20px">
+            <table class="fotos">
+                <tr class="last"><td>
+   <a href="/picture/752233/"><img  src="/images/poster/sm_752233.jpg" width="170" height="248" alt="Просмотр фото" title="Просмотр постера" /></a>
+   <b><i>960&times;1400</i><a href="/picture/752233/" target="_blank" title="Открыть в новом окне"></a>211 Кб</b>
+   
+</td><td class="center">
+   <a href="/picture/752232/"><img  src="/images/poster/sm_752232.jpg" width="170" height="242" alt="Просмотр фото" title="Просмотр постера" /></a>
+   <b><i>985&times;1400</i><a href="/picture/752232/" target="_blank" title="Открыть в новом окне"></a>238 Кб</b>
+   
+</td><td>
+   <a href="/picture/702010/"><img  src="/images/poster/sm_702010.jpg" width="170" height="239" alt="Просмотр фото" title="Просмотр постера" /></a>
+   <b><i>565&times;793</i><a href="/picture/702010/" target="_blank" title="Открыть в новом окне"></a>135 Кб</b>
+   
+</td></tr>
+            </table>
+</div>
+        </td></tr>
+		<tr><td colspan=2>
+		<br /></td></tr>
+		<tr><td colspan=2 style="font-size:13px;padding-left:25px" height=20>Кроме этого, доступны <a href="/level/12/film/273302/" class=all>обои</a>, <a href="/level/13/film/273302/" class=all>фотографии</a> из этого фильма.</td></tr>
 
+		<tr><td colspan=2 style="font-size:13px;padding-left:25px" height=20>Вы можете <a href="/level/11/film/273302/" class=all>купить</a> этот фильм на DVD.</td>
+		<tr><td colspan=2>
+			<br />
+				<table cellspacing=0 cellpadding=3 width=100% border=0>	
+		<tr><td class="border-tb" height=25><h2 class="chapter" style="color:#000">Навигация по базе постеров</h2></td></tr>
+		<tr><td colspan=2><br /></td></tr>
+		<tr><td colspan=2 align=center><a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/1/m_act%5Bwhat%5D/content/" class=all>#</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/A/m_act%5Bwhat%5D/content/" class=all>A</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/B/m_act%5Bwhat%5D/content/" class=all>B</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/C/m_act%5Bwhat%5D/content/" class=all>C</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/D/m_act%5Bwhat%5D/content/" class=all>D</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/E/m_act%5Bwhat%5D/content/" class=all>E</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/F/m_act%5Bwhat%5D/content/" class=all>F</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/G/m_act%5Bwhat%5D/content/" class=all>G</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/H/m_act%5Bwhat%5D/content/" class=all>H</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/I/m_act%5Bwhat%5D/content/" class=all>I</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/J/m_act%5Bwhat%5D/content/" class=all>J</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/K/m_act%5Bwhat%5D/content/" class=all>K</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/L/m_act%5Bwhat%5D/content/" class=all>L</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/M/m_act%5Bwhat%5D/content/" class=all>M</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/N/m_act%5Bwhat%5D/content/" class=all>N</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/O/m_act%5Bwhat%5D/content/" class=all>O</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/P/m_act%5Bwhat%5D/content/" class=all>P</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/Q/m_act%5Bwhat%5D/content/" class=all>Q</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/R/m_act%5Bwhat%5D/content/" class=all>R</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/S/m_act%5Bwhat%5D/content/" class=all>S</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/T/m_act%5Bwhat%5D/content/" class=all>T</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/U/m_act%5Bwhat%5D/content/" class=all>U</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/V/m_act%5Bwhat%5D/content/" class=all>V</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/W/m_act%5Bwhat%5D/content/" class=all>W</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/X/m_act%5Bwhat%5D/content/" class=all>X</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/Y/m_act%5Bwhat%5D/content/" class=all>Y</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/Z/m_act%5Bwhat%5D/content/" class=all>Z</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Ball%5D/ok/m_act%5Bwhat%5D/content/" class=all>все</a></td></tr>
+		<tr><td colspan=2 align=center><a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C0/m_act%5Bwhat%5D/content/" class=all>А</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C1/m_act%5Bwhat%5D/content/" class=all>Б</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C2/m_act%5Bwhat%5D/content/" class=all>В</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C3/m_act%5Bwhat%5D/content/" class=all>Г</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C4/m_act%5Bwhat%5D/content/" class=all>Д</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C5/m_act%5Bwhat%5D/content/" class=all>Е</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C6/m_act%5Bwhat%5D/content/" class=all>Ж</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C7/m_act%5Bwhat%5D/content/" class=all>З</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25C8/m_act%5Bwhat%5D/content/" class=all>И</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25CA/m_act%5Bwhat%5D/content/" class=all>К</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25CB/m_act%5Bwhat%5D/content/" class=all>Л</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25CC/m_act%5Bwhat%5D/content/" class=all>М</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25CD/m_act%5Bwhat%5D/content/" class=all>Н</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25CE/m_act%5Bwhat%5D/content/" class=all>О</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25CF/m_act%5Bwhat%5D/content/" class=all>П</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D0/m_act%5Bwhat%5D/content/" class=all>Р</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D1/m_act%5Bwhat%5D/content/" class=all>С</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D2/m_act%5Bwhat%5D/content/" class=all>Т</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D3/m_act%5Bwhat%5D/content/" class=all>У</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D4/m_act%5Bwhat%5D/content/" class=all>Ф</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D5/m_act%5Bwhat%5D/content/" class=all>Х</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D6/m_act%5Bwhat%5D/content/" class=all>Ц</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D7/m_act%5Bwhat%5D/content/" class=all>Ч</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D8/m_act%5Bwhat%5D/content/" class=all>Ш</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25D9/m_act%5Bwhat%5D/content/" class=all>Щ</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25DD/m_act%5Bwhat%5D/content/" class=all>Э</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25DE/m_act%5Bwhat%5D/content/" class=all>Ю</a> <a href="/level/10/m_act%5Bposter%5D/ok/m_act%5Bword%5D/%25DF/m_act%5Bwhat%5D/content/" class=all>Я</a></td></tr>
+		<tr><td colspan=2><br /></td></tr>		
+		<tr><td colspan=2 align=center>
+			<form name=w_search action='/index.php' method='GET' style="padding-bottom: 10px">
+			<input type='hidden' name='level' id='level' value='7'><input type='hidden' name='m_act[what]' id='m_act[what]' value='content'><input type='hidden' name='result' id='result' value='poster'><input type='hidden' name='m_act[from]' id='m_act[from]' value=''><input type='hidden' name='m_act[poster]' id='m_act[poster]' value='ok'>								
+			Поиск:&nbsp;&nbsp;<input type=text class=messagetext style="width:150px; height: auto !important; padding: 1px" name="m_act[find]">&nbsp;&nbsp;&nbsp;<a href="javascript: document.w_search.submit();" class="small-lnk">найти >></a><br>							
+			</form>
 		</td></tr>
-		</div>
-<!-- /результаты поиска -->	   <!-- -->
+	</table>
+		</td></tr>
+   </table>
+</div>
+
+<table width=100% border=0 cellspacing=0 cellpadding=0>
+    <tr><td colspan=2 style='border-top:1px solid #ccc' height=55><h1 class="moviename-big" style="padding:0px;padding-left:20px"><span class=text-orange>Смотрите также:</span></h1></td></tr>
+    <tr><td colspan=2 height=20 class="textgreybig" style="padding-left:16px"><img src='/images/sqr-grey.gif' width=4 height=4 vspace=2 hspace=10><a href="/level/13/" class="all">Последние <b>фотографии</b> актеров и кадры из фильмов >></a></td></tr>
+    <tr><td colspan=2 height=20 class="textgreybig" style="padding-left:16px"><img src='/images/sqr-grey.gif' width=4 height=4 vspace=2 hspace=10><a href="/level/12/view/main/" class="all">Архив <b>обоев</b>: звезды, фильмы, новинки, рейтинги >></a></td></tr>
+    <tr><td colspan=2 height=20 class="textgreybig" style="padding-left:16px"><img src='/images/sqr-grey.gif' width=4 height=4 vspace=2 hspace=10><a href="/level/17/view/main/" class="all">Самые новые <b>постеры</b> к фильмам >></a></td></tr>
+    <tr><td colspan=2 height=20 class="textgreybig" style="padding-left:16px"><img src='/images/sqr-grey.gif' width=4 height=4 vspace=2 hspace=10><a href="/level/16/" class="all">Коллекция <b>трейлеров</b> на КиноПоиск.ru >></a></td></tr>
+
+    <tr><td><br /><br /></td></tr>
+    <tr><td colspan=2 height=25 style="padding-left:25px"><img src="/images/arrow-top2.gif" width=17 height=8><a href="#top" class="continue">Наверх страницы</a></td></tr>
+	   <!-- -->
 <tr><td><br /><br /><br /><br /><br /><br /></td></tr>	   </table>
 	</td>
 	<!-- Правая сторона -->
@@ -485,25 +392,121 @@ ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link);
 <br>
 
 <!-- right_banner end -->
-<dl class="block block_query">
-   <dt>Запросы &mdash; фильмы<i>всего</i></dt>
-   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>2014</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/447284/"><b></b><i><s>Солт</s>Salt</i><u>1014</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/437833/"><b></b><i><s>Центурион</s>Centurion</i><u>467</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/432423/"><b></b><i><s>Сумерки. Сага. Затмение</s>Twilight Saga: Eclipse, The</i><u>458</u></a></dd>
-   <dd class="dl"><a href="/level/1/film/3908/"><b></b><i><s>Плохие парни</s>Bad Boys</i><u>438</u></a></dd>
-   <dd class="more"><a href="/level/81/">что еще ищут?</a></dd>
-</dl>
-<dl class="block block_query">
-   <dt>Запросы &mdash; люди<i>всего</i></dt>
-   <dd class="dl"><a href="/level/4/people/20866/"><b></b><i><s>Анджелина Джоли</s>Angelina Jolie</i><u>219</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/37859/"><b></b><i><s>Леонардо ДиКаприо</s>Leonardo DiCaprio</i><u>199</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/6245/"><b></b><i><s>Джонни Депп</s>Johnny Depp</i><u>151</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/460188/"><b></b><i><s>Меган Фокс</s>Megan Fox</i><u>145</u></a></dd>
-   <dd class="dl"><a href="/level/4/people/25584/"><b></b><i><s>Брэд Питт</s>Brad Pitt</i><u>144</u></a></dd>
-   <dd class="more"><a href="/level/81/">что еще ищут?</a></dd>
-</dl>
-<dl class="block block_cash" id="rigth_box_weekend_usa">
+<table cellspacing=0 cellpadding=0 height=60 width=240 bgcolor="#f2f2f2" style="border:1px solid #999">
+    <tr>
+        <td align=left style="color:#005;padding:12px;background:url('/images/bg-alert.jpg') no-repeat 100% 100%">
+            <b>Мгла<br>
+            <small style="font:100 10px tahoma,verdana;color:#777">Mist, The, 2007</small><br>
+            <a href="/level/82/film/273302/" class="all" style="line-height:20px;color:#f60">Подписка на обновления...</a></b>
+        </td>
+    </tr>
+</table>
+<br><script type="text/javascript">
+num_of_items['wallpapper_scroller']=10;
+position_x['wallpapper_scroller']=0;
+scroll_per_time['wallpapper_scroller']=240;
+$(function(){
+   var nw=10*(scroll_per_time['wallpapper_scroller']+10);
+   $(".wallpapper_scroller").find(".scroller_photo_set").css({"width":nw});
+   
+   
+   
+});
+</script>
+
+<div class="right-slider wallpapper_scroller">
+   <p style="background: url(/images/right_wall_top.jpg)  ">Последние обои </p>
+   <div class="arrows_left  right_go_button" onclick="ScrollerRight('wallpapper_scroller','')"></div>
+   <div class="arrows_right  left_go_button" onclick="ScrollerLeft('wallpapper_scroller','')"></div>
+   <div class="photo_scroller">
+      <div class="scroller_field">	
+      <div class="scroller_photo_set">
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335875.jpg) center center no-repeat" href="/level/12/film/317799/" title="Летающие тайцы"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/317799/">Летающие тайцы</a><b class="en">Khon fai bin</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335867.jpg) center center no-repeat" href="/level/12/film/470193/" title=""></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/470193/"></a><b class="en">What If...</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335860.jpg) center center no-repeat" href="/level/12/film/749/" title="Костолом"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/749/">Костолом</a><b class="en">Mean Machine</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335859.jpg) center center no-repeat" href="/level/12/film/402983/" title="Стритфайтер"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/402983/">Стритфайтер</a><b class="en">Street Fighter: The Legend of Chun-Li</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335845.jpg) center center no-repeat" href="/level/12/people/29855/" title="Джеки Чан"></a></div>
+         <span >
+     	 
+         <a href="/level/12/people/29855/">Джеки Чан</a><b class="en">Jackie Chan</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335821.jpg) center center no-repeat" href="/level/12/film/470156/" title="Пила 7 3D"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/470156/">Пила 7 3D</a><b class="en">Saw VII</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335665.jpg) center center no-repeat" href="/level/12/film/414692/" title="Тайсон"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/414692/">Тайсон</a><b class="en">Tyson</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335582.jpg) center center no-repeat" href="/level/12/film/455188/" title="Рыцарь дня"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/455188/">Рыцарь дня</a><b class="en">Knight and Day</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335219.jpg) center center no-repeat" href="/level/12/film/426030/" title="Тихий океан"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/426030/">Тихий океан</a><b class="en">Pacific, The</b></span>
+      </div>
+	 
+     
+	  <div class="scroll_photo">
+         <div><a class="scr_img" style="background: url(/images/wallpaper/sm_1335096.jpg) center center no-repeat" href="/level/12/film/15605/" title="Русские идут"></a></div>
+         <span >
+     	 
+         <a href="/level/12/film/15605/">Русские идут</a><b class="en">Russians Are Coming the Russians Are C...</b></span>
+      </div>
+	 
+
+      </div>
+      </div>
+   </div>
+   <b class="more"><a href="/level/12/view/main/">все обои</a></b>
+</div><dl class="block block_cash" id="rigth_box_weekend_usa">
    <dt>Кинокасса США <b>&bull;</b> $ <a href="#" onclick="document.getElementById('rigth_box_weekend_rus').style.visibility='visible'; document.getElementById('rigth_box_weekend_usa').style.visibility='hidden'; return false">Россия</a></dt>
    <dd class="dl"><a href="/level/1/film/447301/"><b>1.</b><i><s>Начало</s>Inception</i><u>42&nbsp;725&nbsp;012</u></a></dd>
    <dd class="dl"><a href="/level/1/film/447284/"><b>2.</b><i><s>Солт</s>Salt</i><u>36&nbsp;011&nbsp;243</u></a></dd>
@@ -525,31 +528,26 @@ ar_putContainer(ar_cn);ar_putDiv(ar_cn,0);ar_getDoc(0,ar_cn++,ar_link);
 
 <dl class="block block_top250">
    <dt>Лучшие фильмы &mdash; Top 250</dt>
-   <dd class="dl"><a href="/level/1/film/519/"><b>45.</b><i><s>Человек дождя</s>Rain Man</i><u>8.436</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/441/"><b>220.</b><i><s>Принцесса Мононоке</s>Mononoke-hime</i><u>8.076</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/399/"><b>46.</b><i><s>Храброе сердце</s>Braveheart</i><u>8.430</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/23712/"><b>221.</b><i><s>Стена</s>Pink Floyd The Wall</i><u>8.076</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/327/"><b>47.</b><i><s>Крестный отец&nbsp;2</s>Godfather: Part II, The</i><u>8.430</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/335/"><b>222.</b><i><s>Помни</s>Memento</i><u>8.075</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/345/"><b>48.</b><i><s>Молчание ягнят</s>Silence of the Lambs, The</i><u>8.427</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/42571/"><b>223.</b><i><s>Иди и смотри</s></i><u>8.073</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/356/"><b>49.</b><i><s>В джазе только девушки</s>Some Like It Hot</i><u>8.425</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/4384/"><b>224.</b><i><s>Великан</s>Mighty, The</i><u>8.070</u></a></dd>
 
    <dd class="more"><a href="/level/20/">лучшие фильмы</a></dd>
 </dl>
-<dl class="block block_top250">
-   <dt>Ожидаемые фильмы</dt>
-   <dd class="dl"><a href="/level/1/film/464606/"><b>11.</b><i><s>Ларго Винч 2: Заговор в Бирме</s>Largo Winch (Tome 2)</i><u>81.57%</u></a></dd>
-
-   <dd class="dl"><a href="/level/1/film/47093/"><b>12.</b><i><s>Ромовый дневник</s>Rum Diary, The</i><u>81.42%</u></a></dd>
-
-   <dd class="dl"><a href="/level/1/film/462358/"><b>13.</b><i><s>Люди Икс: Первый класс</s>X-Men: First Class</i><u>81.01%</u></a></dd>
-
-   <dd class="dl"><a href="/level/1/film/464168/"><b>14.</b><i><s>Дьявол</s>Devil</i><u>81.00%</u></a></dd>
-
-   <dd class="dl"><a href="/level/1/film/399977/"><b>15.</b><i><s>Нечто</s>Thing, The</i><u>80.96%</u></a></dd>
-
-   <dd class="more"><a href="/level/53/">ожидаемые фильмы</a></dd>
+<dl class="block block_review">
+   <dt>Новые рецензии<i>всего</i></dt>
+   <dd class="dl"><a href="/level/1/film/445175/"><b></b><i><s>Безумное свидание</s>Date Night</i><u>55</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/447301/"><b></b><i><s>Начало</s>Inception</i><u>626</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/409507/"><b></b><i><s>Ип Ман</s>Yip Man</i><u>40</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/424266/"><b></b><i><s>Книга Илая</s>Book of Eli, The</i><u>214</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/747/"><b></b><i><s>Малена</s>Mal&#232;na</i><u>66</u></a></dd>
+   <dd class="more"><a href="/level/18/">все рецензии</a></dd>
 </dl>
 <dl class="block block_show">
    <dt>Сегодня в кино<i>рейтинг</i></dt>
@@ -600,15 +598,13 @@ js=13//--></script><script language="JavaScript" type="text/javascript"><!--
 d.write('<a href="http://top.mail.ru/jump?from=925296"'+
 ' target=_top><img src="http://top.list.ru/counter'+
 '?id=925296;t=51;js='+js+a+';rand='+Math.random()+
-'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=1 width=1/><\/a>')
 if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
 target=_top href="http://top.mail.ru/jump?from=925296"><img
 src="http://top.list.ru/counter?js=na;id=925296;t=51"
-border=0 height=31 width=88
+border=0 height=1 width=1
 alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
 if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
-<br><br>
-
    </div>
    </noindex>
 </div>

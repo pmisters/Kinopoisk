@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx/0.7.62
-Date: Mon, 02 Aug 2010 07:03:29 GMT
+Date: Mon, 02 Aug 2010 07:20:29 GMT
 Content-Type: text/html; charset=windows-1251
 Connection: close
 X-Powered-By: PHP/5.2.10-2ubuntu6.4
-Set-Cookie: PHPSESSID=d15decda0f10ee5f6a861f059761362c; path=/; domain=kinopoisk.ru
+Set-Cookie: PHPSESSID=950ce26a62f1a39b04bf4b22678c1353; path=/; domain=kinopoisk.ru
 Expires: 0
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Last-Modified: Mon, 02 Aug 2010 07:02:54 GMT
-Set-Cookie: last_visit=2010-08-02+11%3A02%3A54; expires=Thu, 16-Sep-2010 07:02:54 GMT; path=/
+Last-Modified: Mon, 02 Aug 2010 07:19:55 GMT
+Set-Cookie: last_visit=2010-08-02+11%3A19%3A55; expires=Thu, 16-Sep-2010 07:19:55 GMT; path=/
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -19,7 +19,7 @@ Set-Cookie: last_visit=2010-08-02+11%3A02%3A54; expires=Thu, 16-Sep-2010 07:02:5
 <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
 <meta name="keywords" content="Туман (Fog, The) фильм кино обои фотографии сеансы афиша обзор комментарии рейтинг факты отзывы кадры  новости сайт  Brouillard, Le Terror en la niebla A Nevoa Sis The Fog - Nebel des Grauens Usva The fog - Nebbia assassina Le brouillard I omihli A N&#xE9;voa" />
 
-    <meta name="description" content="туман (FOG, THE). Всё о фильме: фотографии, обои, комментарии пользователей, сеансы, новости, рейтинг фильма. Информация о создателях,  полный список актеров, общие сборы и бюджет фильма." />
+    <meta name="description" content="Туман (FOG, THE). Всё о фильме: фотографии, обои, комментарии пользователей, сеансы, новости, рейтинг фильма. Информация о создателях,  полный список актеров, общие сборы и бюджет фильма." />
 
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
 <link href="/news.rss" type="application/rss+xml" rel="alternate" title="RSS" />
@@ -235,7 +235,7 @@ var ar_bn1= Math.floor(Math.random()*5+1);
    <a href='/'><img src="/images/logonew2.gif" alt="КиноПоиск.Ru &ndash; Все фильмы планеты" /></a>
    <a href='/'><span class="logo" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span></a>
    <span class="about">всё о любом актёре:</span>
-   <span class="example">например: <a href="/level/4/people/39984/">Том Харди</a></span>
+   <span class="example">например: <a href="/level/4/people/10095/">Тоби Магуайр</a></span>
 
    <!-- profile_top start -->
    
@@ -876,24 +876,27 @@ ids5[2] = 5901;
 
             
                 
-                    <p class="more_random"><a href="/level/1/film/84991/ord/rnd/rnd/1280732575/#list">ещё случайные</a></p>
+                    <p class="more_random"><a href="/level/1/film/84991/ord/rnd/rnd/1280733595/#list">ещё случайные</a></p>
                 
             
 
             <div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response bad" id="div_review_25055">
-    
+<div  class="response" id="div_review_882605">
+    <img src="/images/users/bsm_395124-34.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/6530/">FCS</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/395124/">Venny</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/6530/comments/">рецензии (62)</a></li>
-<li><a href="/level/79/user/6530/votes/">оценки</a></li>
+                <li class="first"><a href="/level/79/user/395124/comments/">рецензии (63)</a></li>
+<li><a href="/level/79/user/395124/votes/">оценки</a></li>
+<li><a href="/level/79/user/395124/friends/">друзья</a></li>
+<li><a href="/level/79/user/395124/movies/">фильмы</a></li>
+<li><a href="/level/79/user/395124/stars/">звёзды</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_25055"></p>
+        <p class="sub_title" id="ext_title_882605"></p>
     </div>
 
     
@@ -901,54 +904,50 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_25055"><span class="_reachbanner_" onmouseup='getSelect(25055)'>Несмотря на&nbsp;тотальную обструкцию, которой подвергается в&nbsp;Голливуде за&nbsp;коммерческую несостоятельность Великий всё&nbsp;&#151;&nbsp;таки режиссёр&nbsp;&#151;&nbsp;Карпентер, напоминают нам&nbsp;о нём&nbsp;с завидным постоянством. В&nbsp;прошлом году состоялся симулякр классического &laquo;Нападения на&nbsp;13-ый участок&raquo;, в&nbsp;этом восстал из&nbsp;мёртвых, казалось бы, изначально мертворождённый &laquo;Туман&raquo;. А&nbsp;Стивен Кинг пусть опять грызёт локти.<br />
+      <p id="ext_text_882605"><span class="_reachbanner_" onmouseup='getSelect(882605)'>Думаю, что&nbsp;не стоит так&nbsp;откровенно сбрасывать этот фильм со&nbsp;счетов. Хотя да, его&nbsp;можно отнести к&nbsp;разряду надолго не&nbsp;задерживающихся в&nbsp;памяти &laquo;приключений&raquo;.<br />
 <br />
-Буду, краток&nbsp;&#151;&nbsp;мне не&nbsp;понравилось. Вроде бы&nbsp;фильм как&nbsp;фильм, отстой как&nbsp;отстой, который Голливуд регулярно выдаёт. Но&nbsp;тут всё&nbsp;даже хуже. Если бы&nbsp;не знал что&nbsp;это римейк, я&nbsp;бы плюнул в&nbsp;сторону и&nbsp;ушёл. Но&nbsp;тут действительно обидно! Как&nbsp;обычно, всё&nbsp;испортили. Ну, тут&nbsp;Впринципе даже и&nbsp;удивляться нечему, взглянув на&nbsp;недавние страшилки.<br />
+На экране, всё те&nbsp;же знакомые нам&nbsp;лица, но&nbsp;теперь им&nbsp;предстоит &laquo;гонка на&nbsp;выживание&raquo;.<br />
 <br />
-Подобные сюжеты, в&nbsp;наше время, казалось бы, просвещённый век,&nbsp;&#151;&nbsp;лишь повод для&nbsp;мастеров класс Ллойда Кауфмана доказать своё &laquo;мастерство&raquo;. Впрочем, каждый второй хоррор в&nbsp;прокате получает уничижительные оценки критиков, но&nbsp;каждый первый собирает приличную кассу. Тот&nbsp;же &laquo;Туман&raquo; из&nbsp;общей массы выделятся, не&nbsp;стал, нулевой фильм, а&nbsp;сборы такие, что&nbsp;даже возглавила бокс-офис американского проката!<br />
+Туман&nbsp;&#151;&nbsp;природное явление, зловещее само по&nbsp;себе. Как&nbsp;темноты боятся дети, так&nbsp;и в&nbsp;тумане тоже можно представлять себе различные ужасы.<br />
 <br />
-Впрочем, &laquo;Туман&raquo; вполне уважительный повод для&nbsp;создания новых замечательных образов остроумия. Ведь совсем не&nbsp;случайно, картина, практически единодушно признана худшим римейком уже&nbsp;прошедшего, 2005 года и&nbsp;заняла почётное восемьдесят шестое место худших фильмов всех времён и&nbsp;народов. Хотя достойна более &laquo;почётного&raquo; места.<br />
+В принципе от&nbsp;такого фильма, особо много и&nbsp;не ждешь, а&nbsp;того, что&nbsp;может дать обыкновенный &laquo;среднестатистический&raquo; мистик-муви, &laquo;Туман&raquo; вполне оправдывает.<br />
 <br />
-В фильме, толком, и&nbsp;ничего страшного нет. Напустили дыму, тётки визжат, а&nbsp;толку никакого. А&nbsp;потом эти&nbsp;тётки ещё&nbsp;антихристианские действия совершают&nbsp;&#151;&nbsp;с покойниками целуются. И&nbsp;главное, когда целуются&nbsp;&#151;&nbsp;дым убирают, а&nbsp;всё остальное делают в&nbsp;дыму. Уроды зомби, которые пытаются напасть и&nbsp;поизвращаться над&nbsp;людьми. Фильм немного мерзкий, но&nbsp;ни капли не&nbsp;страшный! Там&nbsp;нет той&nbsp;атмосферы, которая обязана присутствовать в&nbsp;настоящих фильмах ужасов! Банально и&nbsp;скучно. <br />
+Из минусов: скорее, не&nbsp;самый лучший вариант концовки; да&nbsp;и объяснение всем событиям внятным, вряд ли&nbsp;можно назвать. <br />
 <br />
-Поэтому я&nbsp;в последнее время и&nbsp;не очень часто смотрю голливудские хороры. Уроды в&nbsp;резиновых масках, отрывание конечностей, кровавое избиение. Мы&nbsp;это всё&nbsp;уже много раз&nbsp;видели. Да&nbsp;и при&nbsp;бюджете 18&nbsp;млн. можно было снять, что-то вроде &laquo;Пилы&raquo;, денег немного, а&nbsp;какой результат!<br />
-<br />
-Если бы&nbsp;ещё актёров нормальных подобрали. Из&nbsp;актёрского состава, мне&nbsp;практически никто толком не&nbsp;знаком. А&nbsp;имя режиссёра я&nbsp;постоянно путал с&nbsp;гей&nbsp;&#151;&nbsp;певцом имя, которого Руфус Уэнрайт. Мне&nbsp;фильм очень не&nbsp;понравился. Не&nbsp;страшно, но&nbsp;и не&nbsp;смешно. Много шума&nbsp;&#151;&nbsp;и ничего. Порекомендую только тем, кто&nbsp;устроил себе месячник посредственного кино. Или&nbsp;любителям чисто &laquo;поп-корнового&raquo; кино.<br />
-<br />
-1 из&nbsp;10</span></p>
+<i>Мы стояли у&nbsp;окна, туман льнул к&nbsp;стеклам, густел около них, и&nbsp;я почувствовал: там, за&nbsp;туманом, притаилось мое&nbsp;прошлое, молчаливое и&nbsp;невидимое&#133;</i></span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/6530/comment/25055/">прямая ссылка</a>
+        <a href="/level/79/user/395124/comment/882605/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(25055); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(882605); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_25055" onclick="setCommentVote('25055', 'ok', '6530', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_25055" onclick="setCommentVote('25055', 'no', '6530', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_882605" onclick="setCommentVote('882605', 'ok', '395124', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_882605" onclick="setCommentVote('882605', 'no', '395124', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_25055">10 / 14</li>
+        <li id="comment_num_vote_882605">1 / 0</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_25055_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_882605_note" class="ajax_bottom"></i>
 
-    <span class="date">26 февраля 2006 | 11:40</span>
+    <span class="date">5 июня 2010 | 19:27</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_25055">
-   <textarea id="spoiler_textarea_25055"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(25055)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(25055)" />
-   <a href="#" onclick="CloseSpoiler(25055); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_882605">
+   <textarea id="spoiler_textarea_882605"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(882605)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(882605)" />
+   <a href="#" onclick="CloseSpoiler(882605); return false;"></a>
 </div>
 
 
@@ -959,20 +958,19 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response bad" id="div_review_25138">
-    <img src="/images/users/bsm_1585-38.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_256258">
+    <img src="/images/users/bsm_16940-37.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/1585/">Marvel</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/16940/">REMEDY</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/1585/comments/">рецензии (354)</a></li>
-<li><a href="/level/79/user/1585/votes/">оценки</a></li>
-<li><a href="/level/79/user/1585/friends/">друзья</a></li>
-<li><a href="/level/79/user/1585/movies/">фильмы</a></li>
+                <li class="first"><a href="/level/79/user/16940/comments/">рецензии (3)</a></li>
+<li><a href="/level/79/user/16940/votes/">оценки</a></li>
+<li><a href="/level/79/user/16940/movies/">фильмы</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_25138"></p>
+        <p class="sub_title" id="ext_title_256258"></p>
     </div>
 
     
@@ -980,41 +978,42 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_25138"><span class="_reachbanner_" onmouseup='getSelect(25138)'>Отвратительное кино. Совершенно не&nbsp;вызывающее, у&nbsp;меня, ни&nbsp;каких либо положительных эмоций. Всё&nbsp;настолько глупо, предсказуемо и&nbsp;не профессионально, что&nbsp;хочется смеяться и&nbsp;качать головой, над&nbsp;грубым и&nbsp;спешным производством данного продукта. Думаю, достаточно слов. <br />
-3 / 10.</span></p>
+      <p id="ext_text_256258"><span class="_reachbanner_" onmouseup='getSelect(256258)'>Я не&nbsp;такой уже&nbsp;любитель ужасов&nbsp;&#151;&nbsp;по этому скажу просто от&nbsp;себя. Фильм не&nbsp;самый худший который мне&nbsp;доводилось видеть, но&nbsp;и на&nbsp;средний он&nbsp;не тянет. Ни&nbsp;одного оригинального приема&nbsp;&#151;&nbsp;все стандартно и&nbsp;все я&nbsp;где-то видел. Причем эта&nbsp;уповающая банальность распространяется на&nbsp;все. От&nbsp;сюжета до&nbsp;психологических портретов гг&nbsp;и стиля съемки. Все&nbsp;ужасно и&nbsp;в том&nbsp;числе актерская игра&nbsp;&#151;&nbsp;примитив, разве что&nbsp;мальчик более или&nbsp;менее. Долго писать не&nbsp;буду, этот фильм этого не&nbsp;заслужил.<br />
+<br />
+Остается сказать одно&nbsp;&#151;&nbsp;Голливуду пора на&nbsp;пенсию.</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/1585/comment/25138/">прямая ссылка</a>
+        <a href="/level/79/user/16940/comment/256258/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(25138); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(256258); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_25138" onclick="setCommentVote('25138', 'ok', '1585', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_25138" onclick="setCommentVote('25138', 'no', '1585', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_256258" onclick="setCommentVote('256258', 'ok', '16940', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_256258" onclick="setCommentVote('256258', 'no', '16940', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_25138">9 / 11</li>
+        <li id="comment_num_vote_256258">9 / 10</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_25138_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_256258_note" class="ajax_bottom"></i>
 
-    <span class="date">27 февраля 2006 | 12:04</span>
+    <span class="date">24 августа 2008 | 05:56</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_25138">
-   <textarea id="spoiler_textarea_25138"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(25138)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(25138)" />
-   <a href="#" onclick="CloseSpoiler(25138); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_256258">
+   <textarea id="spoiler_textarea_256258"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(256258)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(256258)" />
+   <a href="#" onclick="CloseSpoiler(256258); return false;"></a>
 </div>
 
 
@@ -1097,20 +1096,18 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response good" id="div_review_417298">
-    <img src="/images/users/bsm_426194-29.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_69973">
+    <img src="/images/users/bsm_5542-19.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/426194/">ars-projdakov</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/5542/">Martishka</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/426194/comments/">рецензии (38)</a></li>
-<li><a href="/level/79/user/426194/votes/">оценки</a></li>
-<li><a href="/level/79/user/426194/movies/">фильмы</a></li>
-<li><a href="/level/79/user/426194/subscribe/"></a></li>
+                <li class="first"><a href="/level/79/user/5542/comments/">рецензии (900)</a></li>
+<li><a href="/level/79/user/5542/votes/">оценки</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_417298"></p>
+        <p class="sub_title" id="ext_title_69973"></p>
     </div>
 
     
@@ -1118,50 +1115,44 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_417298"><span class="_reachbanner_" onmouseup='getSelect(417298)'>Я не&nbsp;понимаю, почему те, кто&nbsp;смотрел Туман, часто ругают его&nbsp;и сравнивают с&nbsp;оригиналом. У&nbsp;ремейка, конечно, мотив тот&nbsp;же: на&nbsp;город Антонио Бэй&nbsp;опустился туман, который на&nbsp;самом деле не&nbsp;туман, а&nbsp;призраки, желающие мести за&nbsp;свою ужасную смерть и&nbsp;стремящиеся вернуть свое богатство. Но&nbsp;если вы&nbsp;посмотрите старый, а&nbsp;затем новый, то&nbsp;вы поймете, что&nbsp;это два&nbsp;разных фильма. Возможно, фильм не&nbsp;страшный, но&nbsp;его вполне интересно смотреть.<br />
+      <p id="ext_text_69973"><span class="_reachbanner_" onmouseup='getSelect(69973)'>Остров Антонио. Крошечный уголок Земли. В&nbsp;центре маленького городка стоит памятник четырем морякам, погибшим много лет&nbsp;назад при&nbsp;непонятных обстоятельствах. Так&nbsp;же, совершенно необъяснимо, на&nbsp;город надвигается туман, в&nbsp;котором происходит что-то необъяснимое, но&nbsp;должно быть очень страшное. Мне&nbsp;запомнилась только одна сцена: женщина моет посуду в&nbsp;кухне, а&nbsp;из мойки (вместе с&nbsp;туманом, конечно) вылазят облезлые полуразложившиеся руки&#133; <br />
 <br />
-Режиссера я&nbsp;не ругаю, он&nbsp;снял хороший ТРИЛЛЕР. Игра актеров немножко подкачала. Слобовато сыграли Том&nbsp;Уэллинг и&nbsp;Мэгги Грейс. Сэльма Блэр мне&nbsp;даже очень понравилась. Её&nbsp;игра понравилась тем, что&nbsp;она не&nbsp;копировала роль Эдриен Барбо в&nbsp;Тумане 1980 года. Работа оператора, конечно, не&nbsp;сравнится с&nbsp;работой Дина Канди, но&nbsp;съемки в&nbsp;принципе хорошие. <br />
+В общем, если вам&nbsp;нравится щекотать нервы и&nbsp;портить себе настроение кинофильмами средней паршивости, это&nbsp;самое оно. А&nbsp;вот зачем себе позволила играть в&nbsp;этом фильме Джимми Ли&nbsp;Кертис&nbsp;&#151;&nbsp;я понять не&nbsp;могу. <br />
 <br />
-Музыкальное сопровождение подкачало. Такое ощущение, что&nbsp;Грэм Ревелл писал то, что&nbsp;пришло ему&nbsp;в голову. С&nbsp;музыкальной темой Джона Карпентера ему&nbsp;не стоять.<br />
-<br />
-Что касается концовки. Перед тем, как&nbsp;посмотреть фильм, я&nbsp;почитал отзывы о&nbsp;нем. В&nbsp;одном из&nbsp;отзывов было написано, что&nbsp;концовка непонятная, и&nbsp;мотивация призраков бессмысленная. С&nbsp;автором этого отзыва я&nbsp;соглашусь. Концовка действительно странная. <br />
-<br />
-В общем, фильму даю&nbsp;<br />
-<br />
-8 из&nbsp;10</span></p>
+2 из&nbsp;10</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/426194/comment/417298/">прямая ссылка</a>
+        <a href="/level/79/user/5542/comment/69973/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(417298); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(69973); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_417298" onclick="setCommentVote('417298', 'ok', '426194', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_417298" onclick="setCommentVote('417298', 'no', '426194', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_69973" onclick="setCommentVote('69973', 'ok', '5542', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_69973" onclick="setCommentVote('69973', 'no', '5542', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_417298">14 / 7</li>
+        <li id="comment_num_vote_69973">5 / 15</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_417298_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_69973_note" class="ajax_bottom"></i>
 
-    <span class="date">16 марта 2009 | 17:57</span>
+    <span class="date">11 мая 2007 | 18:15</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_417298">
-   <textarea id="spoiler_textarea_417298"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(417298)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(417298)" />
-   <a href="#" onclick="CloseSpoiler(417298); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_69973">
+   <textarea id="spoiler_textarea_69973"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(69973)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(69973)" />
+   <a href="#" onclick="CloseSpoiler(69973); return false;"></a>
 </div>
 
 
@@ -1172,17 +1163,21 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response" id="div_review_23311">
-    <img src="/images/users/bsm_6118-23.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_807087">
+    <img src="/images/users/bsm_399376-36.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/6118/">Dets</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/399376/">zombion</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/6118/comments/">рецензии (47)</a></li>
+                <li class="first"><a href="/level/79/user/399376/comments/">рецензии (767)</a></li>
+<li><a href="/level/79/user/399376/votes/">оценки</a></li>
+<li><a href="/level/79/user/399376/friends/">друзья</a></li>
+<li><a href="/level/79/user/399376/movies/">фильмы</a></li>
+<li><a href="/level/79/user/399376/stars/">звёзды</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_23311"></p>
+        <p class="sub_title" id="ext_title_807087">Мои фильмы из&nbsp;помойки. 130&nbsp;часть.</p>
     </div>
 
     
@@ -1190,44 +1185,56 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_23311"><span class="_reachbanner_" onmouseup='getSelect(23311)'>Лично мне&nbsp;фильм понравился. Сначала хотел пойти только из-за Тома Уэллинга, так&nbsp;как считаю &laquo;Тайны Смолвиля&raquo; одним из&nbsp;лучших сериалов. Но&nbsp;недавно была возможность посмотреть оригинальный &laquo;Туман&raquo;, и&nbsp;меня это&nbsp;заинтересовало. <br />
+      <p id="ext_text_807087"><span class="_reachbanner_" onmouseup='getSelect(807087)'><b>Сиреневый туман над&nbsp;нами проплывает.<br />
 <br />
-Сюжет вовсе не&nbsp;является &laquo;избитым&raquo;, как&nbsp;могло бы&nbsp;показаться с&nbsp;первого взгляда. Да&nbsp;и потом, если такие фильмы и&nbsp;были, то&nbsp;&laquo;Туман&raquo; на&nbsp;них не&nbsp;похож. А&nbsp;вот своего предшественника он&nbsp;очень сильно напоминает, хотя любители экранизаций и&nbsp;ремейков и&nbsp;любят &laquo;обновлять&raquo; их&nbsp;сюжет, добавлять свои детали. <br />
+Кондуктор не&nbsp;спешит, кондуктор понимает.<br />
 <br />
-Несмотря на&nbsp;то, что&nbsp;действие происходит в&nbsp;небольших масштабах, фильм совершенно не&nbsp;надоедает, а, наоборот, заинтересовывает. Хотя старый &laquo;Туман&raquo; мне&nbsp;понравился не&nbsp;меньше. И&nbsp;вот ещё&nbsp;что: он&nbsp;(новый) сильно напоминает &laquo;Сонную Лощину&raquo;. Например, сцена, где&nbsp;герои под&nbsp;конец фильма закрываются в&nbsp;старой церкви и&nbsp;сцена из&nbsp;&laquo;Лощины&raquo;, где&nbsp;всадник охотится за&nbsp;очередной головой, загоняя всех людей опять же&nbsp;в такую же&nbsp;церковь. Даже сюжетные линии в&nbsp;целом у&nbsp;них похожи за&nbsp;исключением того, что&nbsp;действие &laquo;Тумана&raquo; происходит в&nbsp;наши дни, а&nbsp;&laquo;Сонной Лощины&raquo;&nbsp;&#151;&nbsp;в конце XVIII века.</span></p>
+Что с&nbsp;девушкою я, прощаюсь навсегда&#133;</b><br />
+<br />
+<b>Туман (я не&nbsp;люблю этот фильм)</b><br />
+<br />
+Дело это&nbsp;было в&nbsp;1980 году, у&nbsp;Карпентера выходил очередной фильм ужасов под&nbsp;названием &laquo;Туман&raquo;. Он&nbsp;его снял за&nbsp;малюсенький бюджет и&nbsp;собрал отличную кассу. Конечно, фильм получился далеко не&nbsp;идеальным, чтобы им&nbsp;восхититься, надо его&nbsp;смотреть в&nbsp;те далекие времена, потому что&nbsp;со временем он, конечно же, устарел. Данный фильм решили переснять и&nbsp;сделать его&nbsp;для молодой аудитории. Сделали&#133;<br />
+<br />
+Уж лучше бы&nbsp;не делали, честное слово. Фильм получился просто никакой. Он&nbsp;нестрашный и&nbsp;в нем&nbsp;нет атмосферы ужаса. Молодежь постепенно умирает, а&nbsp;эмоций вообще никаких не&nbsp;испытываешь, когда смотришь на&nbsp;это. Перед нами просто очередной треш, его&nbsp;вообще стыдно сравнивать с&nbsp;классикой ужасов. Честно, очень обидно за&nbsp;Карпентера. А&nbsp;от режиссера фильма &laquo;Стигматы&raquo;, вообще стыдно на&nbsp;такие фильмы размениваться.<br />
+<br />
+Данный фильм я&nbsp;никому не&nbsp;буду советовать, такие фильмы надо обходить стороной. Кроме потраченного времени, вы&nbsp;ничего не&nbsp;получите от&nbsp;фильма. Я&nbsp;с удовольствием выкидываю этот фильм на&nbsp;помойку. Такие фильмы просто занимают лишнее место в&nbsp;современном кинематографе, вот&nbsp;и все.<br />
+<br />
+<b><b>Спасибо.<br />
+<br />
+1 из&nbsp;10</b></b></span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/6118/comment/23311/">прямая ссылка</a>
+        <a href="/level/79/user/399376/comment/807087/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(23311); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(807087); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_23311" onclick="setCommentVote('23311', 'ok', '6118', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_23311" onclick="setCommentVote('23311', 'no', '6118', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_807087" onclick="setCommentVote('807087', 'ok', '399376', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_807087" onclick="setCommentVote('807087', 'no', '399376', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_23311">6 / 6</li>
+        <li id="comment_num_vote_807087">8 / 6</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_23311_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_807087_note" class="ajax_bottom"></i>
 
-    <span class="date">1 февраля 2006 | 18:01</span>
+    <span class="date">19 марта 2010 | 20:40</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_23311">
-   <textarea id="spoiler_textarea_23311"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(23311)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(23311)" />
-   <a href="#" onclick="CloseSpoiler(23311); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_807087">
+   <textarea id="spoiler_textarea_807087"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(807087)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(807087)" />
+   <a href="#" onclick="CloseSpoiler(807087); return false;"></a>
 </div>
 
 
@@ -1238,19 +1245,21 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response bad" id="div_review_256258">
-    <img src="/images/users/bsm_16940-37.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_528965">
+    <img src="/images/users/bsm_381105-38.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/16940/">REMEDY</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/381105/">GalaGramma</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/16940/comments/">рецензии (3)</a></li>
-<li><a href="/level/79/user/16940/votes/">оценки</a></li>
-<li><a href="/level/79/user/16940/movies/">фильмы</a></li>
+                <li class="first"><a href="/level/79/user/381105/comments/">рецензии (37)</a></li>
+<li><a href="/level/79/user/381105/votes/">оценки</a></li>
+<li><a href="/level/79/user/381105/friends/">друзья</a></li>
+<li><a href="/level/79/user/381105/movies/">фильмы</a></li>
+<li><a href="/level/79/user/381105/subscribe/"></a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_256258"></p>
+        <p class="sub_title" id="ext_title_528965">Сиреневый туман над&nbsp;нами проплывает&#133;</p>
     </div>
 
     
@@ -1258,126 +1267,61 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_256258"><span class="_reachbanner_" onmouseup='getSelect(256258)'>Я не&nbsp;такой уже&nbsp;любитель ужасов&nbsp;&#151;&nbsp;по этому скажу просто от&nbsp;себя. Фильм не&nbsp;самый худший который мне&nbsp;доводилось видеть, но&nbsp;и на&nbsp;средний он&nbsp;не тянет. Ни&nbsp;одного оригинального приема&nbsp;&#151;&nbsp;все стандартно и&nbsp;все я&nbsp;где-то видел. Причем эта&nbsp;уповающая банальность распространяется на&nbsp;все. От&nbsp;сюжета до&nbsp;психологических портретов гг&nbsp;и стиля съемки. Все&nbsp;ужасно и&nbsp;в том&nbsp;числе актерская игра&nbsp;&#151;&nbsp;примитив, разве что&nbsp;мальчик более или&nbsp;менее. Долго писать не&nbsp;буду, этот фильм этого не&nbsp;заслужил.<br />
+      <p id="ext_text_528965"><span class="_reachbanner_" onmouseup='getSelect(528965)'>М-да. Дамы и&nbsp;господа, не&nbsp;вдохновляет! А&nbsp;ведь столько всего можно было выжать из&nbsp;этой идеи&nbsp;&#151;&nbsp;ужасного и&nbsp;романтичного&#133; Но, увы&nbsp;и ах, как&nbsp;говорится, идея потерпела крах.<br />
 <br />
-Остается сказать одно&nbsp;&#151;&nbsp;Голливуду пора на&nbsp;пенсию.</span></p>
+У кого вообще этот фильм язык повернется называть ужасами?.. Нет, позвольте, может, на&nbsp;фантастику еще&nbsp;тянет кое-как, но&nbsp;чтоб на&nbsp;ужасы&#133; Ну, обгоревшими скелетами только если детсадовских ребятишек пугать (хотя, к&nbsp;слову, у&nbsp;этих ребятишек в&nbsp;наше время нервы крепче и&nbsp;познания шире, чем&nbsp;хотелось бы&nbsp;их родителям).<br />
+<br />
+Игра актеров весьма средненькая, концовка предугадывается в&nbsp;первые минут десять. Да&nbsp;и вообще, весь фильм&nbsp;&#151;&nbsp;просто суповой набор из&nbsp;киноштампов. <br />
+<br />
+Пока смотрела, зевнула раз&nbsp;сто, а&nbsp;голова невольно поворачивалась куда-то в&nbsp;сторону. Звуков вполне хватало, чтобы следить за&nbsp;происходящим, а&nbsp;обои у&nbsp;меня красивее, чем&nbsp;весь &laquo;зловещий&raquo; и&nbsp;&laquo;туманный&raquo; антураж.<br />
+<br />
+Всё очень наивно-неграмотно и&nbsp;тривиально. <br />
+<br />
+Мэгги Грэйс в&nbsp;&laquo;Остаться в&nbsp;живых&raquo; и&nbsp;то лучше сыграла, хотя и&nbsp;там мне&nbsp;она не&nbsp;очень понравилась. Какая-то она&nbsp;не особо эмоциональная. В&nbsp;выражении ее&nbsp;лица на&nbsp;протяжении всего фильма читалось мало полезного. <br />
+<br />
+В общем и&nbsp;целом, даже не&nbsp;могу сказать, что&nbsp;она или&nbsp;Том Уэллинг являются главными персонажами. Ну&nbsp;не тянет их&nbsp;игра на&nbsp;первостепенную&#133; А&nbsp;фильм без&nbsp;главных героев&nbsp;&#151;&nbsp;это не&nbsp;фильм, потому всё и&nbsp;летит к&nbsp;чертям.<br />
+<br />
+Честно сказать, мне&nbsp;было жаль потраченного времени. Кому-то, может, и&nbsp;интересен будет сей&nbsp;опус. Но&nbsp;лучше пересмотрите &laquo;Пиратов Карибского моря&raquo;&nbsp;&#151;&nbsp;все три&nbsp;фильма! <br />
+<br />
+А для&nbsp;&laquo;Тумана&raquo;, с&nbsp;большой натяжкой&nbsp;&#151;&nbsp;<br />
+<br />
+4 из&nbsp;10<br />
+<br />
+P.S. У&nbsp;меня на&nbsp;даче часто бывает туман. Такой душный и&nbsp;сырой, скатывается с&nbsp;горы. <br />
+Стра-а-ашно?</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/16940/comment/256258/">прямая ссылка</a>
+        <a href="/level/79/user/381105/comment/528965/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(256258); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(528965); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_256258" onclick="setCommentVote('256258', 'ok', '16940', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_256258" onclick="setCommentVote('256258', 'no', '16940', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_528965" onclick="setCommentVote('528965', 'ok', '381105', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_528965" onclick="setCommentVote('528965', 'no', '381105', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_256258">9 / 10</li>
+        <li id="comment_num_vote_528965">7 / 5</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_256258_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_528965_note" class="ajax_bottom"></i>
 
-    <span class="date">24 августа 2008 | 05:56</span>
-
-</div>
-<div class="signer signer_edit" id="spoiler_txt_256258">
-   <textarea id="spoiler_textarea_256258"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(256258)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(256258)" />
-   <a href="#" onclick="CloseSpoiler(256258); return false;"></a>
-</div>
-
-
-
-
-
-
-
-</div><div style="position: relative; padding: 1px 0 40px 0">
-
-<div  class="response" id="div_review_683634">
-    <img src="/images/users/bsm_50158-43.jpg" width="46" alt="" title="" />
-    <div>
-        
-            <p class="profile_name"><s></s><a href="/level/79/user/50158/">Mabgat</a></p>
-            <ul class="actions">
-                <li class="first"><a href="/level/79/user/50158/comments/">рецензии (590)</a></li>
-<li><a href="/level/79/user/50158/votes/">оценки</a></li>
-<li><a href="/level/79/user/50158/friends/">друзья</a></li>
-<li><a href="/level/79/user/50158/movies/">фильмы</a></li>
-<li><a href="/level/79/user/50158/stars/">звёзды</a></li>
-<li><a href="/level/79/user/50158/subscribe/"></a></li>
-
-            </ul>
-        
-        <p class="sub_title" id="ext_title_683634">Пришел туман, постучал в&nbsp;дома.</p>
-    </div>
-
-    
-
-    
-
-   <table><tr><td>
-      <p id="ext_text_683634"><span class="_reachbanner_" onmouseup='getSelect(683634)'><i>С высоких гор&nbsp;спускается туман,<br />
-Когда все&nbsp;ближе с&nbsp;моря ураган.</i><br />
-<br />
-Невысокие лесистые горы, возвышающиеся над&nbsp;морем. С&nbsp;гор сползает тягучая белая мгла и&nbsp;падает в&nbsp;черное зеркало воды. Вам&nbsp;случалось оказываться в&nbsp;жутко ледяном мокром облаке, что&nbsp;мы называем туманом? Когда ты&nbsp;не видишь собственных пальцев, а&nbsp;твой голос кажется чужим, доносящимся, словно из-под земли. Если вам&nbsp;не знакомо это&nbsp;чувство, то&nbsp;знайте&nbsp;&#151;&nbsp;это очень страшно. Не&nbsp;приходилось заблудиться в&nbsp;тумане? Тогда вам&nbsp;и не&nbsp;понять этот фильм. Людям, никогда не&nbsp;испытывающим подобного страха, абсолютно не&nbsp;дано будет ощутить его&nbsp;во время просмотра, тем&nbsp;более что&nbsp;реализация весьма средняя.<br />
-<br />
-Авторы тупо взяли чужие мысли и&nbsp;идеи, и&nbsp;пересняли их.&nbsp;Им&nbsp;явно не&nbsp;довелось блуждать несколько часов в&nbsp;тумане, уже&nbsp;ни на&nbsp;что не&nbsp;надеясь. <br />
-<br />
-При наличии соответствующей атмосферы и&nbsp;симпатичных актеров, &laquo;Туман&raquo;, как&nbsp;не крути, остается весьма скудоумной и&nbsp;посредственной подделкой. Занимательной, быть может, но&nbsp;не страшной и&nbsp;не достаточно увлекательной, чтобы удержать зрителя у&nbsp;экранов соответствующее количество времени.<br />
-<br />
-Что же&nbsp;еще можно записать в&nbsp;плюс, кроме качественно созданной, но, к&nbsp;сожалению, абсолютно бездушной атмосферы? Я&nbsp;полагаю, некий легкий антураж старины. Вещи, выброшенные морем и&nbsp;найденные на&nbsp;берегу, старинный парусный фрегат, дневник более чем&nbsp;вековой давности, найденный в&nbsp;тайнике. Пожалуй, что&nbsp;это еще&nbsp;может кое-как привлечь внимание<br />
-<br />
-Еще плюс. Но&nbsp;лично для&nbsp;меня, не&nbsp;для всех. От&nbsp;фильма пахнет морем. Не&nbsp;знаю, смогли ли&nbsp;вы это&nbsp;почувствовать, а&nbsp;вот мне&nbsp;запах моря ударяет в&nbsp;нос сразу с&nbsp;первых кадров. Наверное, с&nbsp;плюсами все.<br />
-<br />
-А что&nbsp;до минусов&nbsp;&#151;&nbsp;он один. Фильм скучноватый с&nbsp;непонятным финалом, как&nbsp;впрочем, и&nbsp;большинство современных ужастиков. Многие фильмы страдают на&nbsp;данный момент именно этим.<br />
-<br />
- В&nbsp;итоге, смотреть картину или&nbsp;нет&nbsp;&#151;&nbsp;вам решать. А&nbsp;вот тем, кто&nbsp;действительно желает острых ощущений я&nbsp;могу посоветовать только одно&nbsp;&#151;&nbsp;добредите в&nbsp;плотнейшем тумане по&nbsp;лесу от&nbsp;Новороссийска до&nbsp;Неберджая&nbsp;&#151;&nbsp;заряд адреналина обеспечен.<br />
-<br />
-7 из&nbsp;10</span></p>
-   </td></tr></table>
-
-    
-
-    <p class="links">
-        <a href="/level/79/user/50158/comment/683634/">прямая ссылка</a>
-        
-    </p>
-    <ul class="useful">
-        <li>Полезная рецензия?
-            
-                <a class="mod" href="#" onclick="OpenSpoiler(683634); return false;"><s>пожаловаться на </s>спойлер?</a>
-            
-        </li>
-        
-            <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_683634" onclick="setCommentVote('683634', 'ok', '50158', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_683634" onclick="setCommentVote('683634', 'no', '50158', '84991'); return false;">Нет</a>
-            </li>
-        
-        <li id="comment_num_vote_683634">7 / 2</li>
-    </ul>
-    <strike></strike>
-    <i id="comment_num_vote_683634_note" class="ajax_bottom"></i>
-
-    <span class="date">17 ноября 2009 | 22:29</span>
+    <span class="date">24 июня 2009 | 00:38</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_683634">
-   <textarea id="spoiler_textarea_683634"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(683634)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(683634)" />
-   <a href="#" onclick="CloseSpoiler(683634); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_528965">
+   <textarea id="spoiler_textarea_528965"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(528965)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(528965)" />
+   <a href="#" onclick="CloseSpoiler(528965); return false;"></a>
 </div>
 
 
@@ -1454,18 +1398,18 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response bad" id="div_review_69973">
-    <img src="/images/users/bsm_5542-19.jpg" width="46" alt="" title="" />
+<div  class="response bad" id="div_review_25824">
+    
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/5542/">Martishka</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/1495/">Fastics</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/5542/comments/">рецензии (900)</a></li>
-<li><a href="/level/79/user/5542/votes/">оценки</a></li>
+                <li class="first"><a href="/level/79/user/1495/comments/">рецензии (5)</a></li>
+<li><a href="/level/79/user/1495/votes/">оценки</a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_69973"></p>
+        <p class="sub_title" id="ext_title_25824"></p>
     </div>
 
     
@@ -1473,44 +1417,40 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_69973"><span class="_reachbanner_" onmouseup='getSelect(69973)'>Остров Антонио. Крошечный уголок Земли. В&nbsp;центре маленького городка стоит памятник четырем морякам, погибшим много лет&nbsp;назад при&nbsp;непонятных обстоятельствах. Так&nbsp;же, совершенно необъяснимо, на&nbsp;город надвигается туман, в&nbsp;котором происходит что-то необъяснимое, но&nbsp;должно быть очень страшное. Мне&nbsp;запомнилась только одна сцена: женщина моет посуду в&nbsp;кухне, а&nbsp;из мойки (вместе с&nbsp;туманом, конечно) вылазят облезлые полуразложившиеся руки&#133; <br />
-<br />
-В общем, если вам&nbsp;нравится щекотать нервы и&nbsp;портить себе настроение кинофильмами средней паршивости, это&nbsp;самое оно. А&nbsp;вот зачем себе позволила играть в&nbsp;этом фильме Джимми Ли&nbsp;Кертис&nbsp;&#151;&nbsp;я понять не&nbsp;могу. <br />
-<br />
-2 из&nbsp;10</span></p>
+      <p id="ext_text_25824"><span class="_reachbanner_" onmouseup='getSelect(25824)'>Зачем сравнивать ремейк и&nbsp;оригинал? Каждый фильм надо оценивать так, как&nbsp;будто он&nbsp;в единственом числе! Этот фильм вполне не&nbsp;плох, интересный сюжет, хорошая операторская работа, сделан качественно и&nbsp;без пафоса, но&nbsp;вот актеры не&nbsp;много не&nbsp;подходят под&nbsp;стиль, первым выделяется Вэллинг. Не&nbsp;его роль. На&nbsp;мой взгляд 7,5 из&nbsp;10 вполне достаточно.</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/5542/comment/69973/">прямая ссылка</a>
+        <a href="/level/79/user/1495/comment/25824/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(69973); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(25824); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_69973" onclick="setCommentVote('69973', 'ok', '5542', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_69973" onclick="setCommentVote('69973', 'no', '5542', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_25824" onclick="setCommentVote('25824', 'ok', '1495', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_25824" onclick="setCommentVote('25824', 'no', '1495', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_69973">5 / 15</li>
+        <li id="comment_num_vote_25824">4 / 12</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_69973_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_25824_note" class="ajax_bottom"></i>
 
-    <span class="date">11 мая 2007 | 18:15</span>
+    <span class="date">8 марта 2006 | 16:07</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_69973">
-   <textarea id="spoiler_textarea_69973"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(69973)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(69973)" />
-   <a href="#" onclick="CloseSpoiler(69973); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_25824">
+   <textarea id="spoiler_textarea_25824"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(25824)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(25824)" />
+   <a href="#" onclick="CloseSpoiler(25824); return false;"></a>
 </div>
 
 
@@ -1521,21 +1461,20 @@ ids5[2] = 5901;
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response bad" id="div_review_528965">
-    <img src="/images/users/bsm_381105-38.jpg" width="46" alt="" title="" />
+<div  class="response" id="div_review_23810">
+    
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/381105/">GalaGramma</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/7888/">lexer</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/381105/comments/">рецензии (37)</a></li>
-<li><a href="/level/79/user/381105/votes/">оценки</a></li>
-<li><a href="/level/79/user/381105/friends/">друзья</a></li>
-<li><a href="/level/79/user/381105/movies/">фильмы</a></li>
-<li><a href="/level/79/user/381105/subscribe/"></a></li>
+                <li class="first"><a href="/level/79/user/7888/comments/">рецензии (8)</a></li>
+<li><a href="/level/79/user/7888/votes/">оценки</a></li>
+<li><a href="/level/79/user/7888/movies/">фильмы</a></li>
+<li><a href="/level/79/user/7888/subscribe/"></a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_528965">Сиреневый туман над&nbsp;нами проплывает&#133;</p>
+        <p class="sub_title" id="ext_title_23810"></p>
     </div>
 
     
@@ -1543,61 +1482,113 @@ ids5[2] = 5901;
     
 
    <table><tr><td>
-      <p id="ext_text_528965"><span class="_reachbanner_" onmouseup='getSelect(528965)'>М-да. Дамы и&nbsp;господа, не&nbsp;вдохновляет! А&nbsp;ведь столько всего можно было выжать из&nbsp;этой идеи&nbsp;&#151;&nbsp;ужасного и&nbsp;романтичного&#133; Но, увы&nbsp;и ах, как&nbsp;говорится, идея потерпела крах.<br />
+      <p id="ext_text_23810"><span class="_reachbanner_" onmouseup='getSelect(23810)'>Оригинальный фильм не&nbsp;смотрел, сам&nbsp;фильм тянет на&nbsp;средний триллер. Радует, на&nbsp;мой взгляд, хороший кастинг.<br />
 <br />
-У кого вообще этот фильм язык повернется называть ужасами?.. Нет, позвольте, может, на&nbsp;фантастику еще&nbsp;тянет кое-как, но&nbsp;чтоб на&nbsp;ужасы&#133; Ну, обгоревшими скелетами только если детсадовских ребятишек пугать (хотя, к&nbsp;слову, у&nbsp;этих ребятишек в&nbsp;наше время нервы крепче и&nbsp;познания шире, чем&nbsp;хотелось бы&nbsp;их родителям).<br />
-<br />
-Игра актеров весьма средненькая, концовка предугадывается в&nbsp;первые минут десять. Да&nbsp;и вообще, весь фильм&nbsp;&#151;&nbsp;просто суповой набор из&nbsp;киноштампов. <br />
-<br />
-Пока смотрела, зевнула раз&nbsp;сто, а&nbsp;голова невольно поворачивалась куда-то в&nbsp;сторону. Звуков вполне хватало, чтобы следить за&nbsp;происходящим, а&nbsp;обои у&nbsp;меня красивее, чем&nbsp;весь &laquo;зловещий&raquo; и&nbsp;&laquo;туманный&raquo; антураж.<br />
-<br />
-Всё очень наивно-неграмотно и&nbsp;тривиально. <br />
-<br />
-Мэгги Грэйс в&nbsp;&laquo;Остаться в&nbsp;живых&raquo; и&nbsp;то лучше сыграла, хотя и&nbsp;там мне&nbsp;она не&nbsp;очень понравилась. Какая-то она&nbsp;не особо эмоциональная. В&nbsp;выражении ее&nbsp;лица на&nbsp;протяжении всего фильма читалось мало полезного. <br />
-<br />
-В общем и&nbsp;целом, даже не&nbsp;могу сказать, что&nbsp;она или&nbsp;Том Уэллинг являются главными персонажами. Ну&nbsp;не тянет их&nbsp;игра на&nbsp;первостепенную&#133; А&nbsp;фильм без&nbsp;главных героев&nbsp;&#151;&nbsp;это не&nbsp;фильм, потому всё&nbsp;и летит к&nbsp;чертям.<br />
-<br />
-Честно сказать, мне&nbsp;было жаль потраченного времени. Кому-то, может, и&nbsp;интересен будет сей&nbsp;опус. Но&nbsp;лучше пересмотрите &laquo;Пиратов Карибского моря&raquo;&nbsp;&#151;&nbsp;все три&nbsp;фильма! <br />
-<br />
-А для&nbsp;&laquo;Тумана&raquo;, с&nbsp;большой натяжкой&nbsp;&#151;&nbsp;<br />
-<br />
-4 из&nbsp;10<br />
-<br />
-P.S. У&nbsp;меня на&nbsp;даче часто бывает туман. Такой душный и&nbsp;сырой, скатывается с&nbsp;горы. <br />
-Стра-а-ашно?</span></p>
+7 из&nbsp;10</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/381105/comment/528965/">прямая ссылка</a>
+        <a href="/level/79/user/7888/comment/23810/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(528965); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(23810); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_528965" onclick="setCommentVote('528965', 'ok', '381105', '84991'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_528965" onclick="setCommentVote('528965', 'no', '381105', '84991'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_23810" onclick="setCommentVote('23810', 'ok', '7888', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_23810" onclick="setCommentVote('23810', 'no', '7888', '84991'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_528965">7 / 5</li>
+        <li id="comment_num_vote_23810">5 / 17</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_528965_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_23810_note" class="ajax_bottom"></i>
 
-    <span class="date">24 июня 2009 | 00:38</span>
+    <span class="date">8 февраля 2006 | 21:19</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_528965">
-   <textarea id="spoiler_textarea_528965"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(528965)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(528965)" />
-   <a href="#" onclick="CloseSpoiler(528965); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_23810">
+   <textarea id="spoiler_textarea_23810"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(23810)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(23810)" />
+   <a href="#" onclick="CloseSpoiler(23810); return false;"></a>
+</div>
+
+
+
+
+
+
+
+</div><div style="position: relative; padding: 1px 0 40px 0">
+
+<div  class="response" id="div_review_145701">
+    <img src="/images/users/bsm_65503-24.jpg" width="46" alt="" title="" />
+    <div>
+        
+            <p class="profile_name"><s></s><a href="/level/79/user/65503/">Shenzi</a></p>
+            <ul class="actions">
+                <li class="first"><a href="/level/79/user/65503/comments/">рецензии (141)</a></li>
+<li><a href="/level/79/user/65503/votes/">оценки</a></li>
+<li><a href="/level/79/user/65503/friends/">друзья</a></li>
+<li><a href="/level/79/user/65503/movies/">фильмы</a></li>
+
+            </ul>
+        
+        <p class="sub_title" id="ext_title_145701"></p>
+    </div>
+
+    
+
+    
+
+   <table><tr><td>
+      <p id="ext_text_145701"><span class="_reachbanner_" onmouseup='getSelect(145701)'>Я не&nbsp;понимаю желания некоторых личностей делать римейки на&nbsp;не сильно удачные фильмы. &laquo;Туман&raquo; 1980 года был, конечно, не&nbsp;совсем кошмарно бездарным, но&nbsp;и качественным фильмом ужасов его&nbsp;назвать тоже было сложно. Такие фильмы следует возвращать к&nbsp;жизни только в&nbsp;том случае, если они&nbsp;содержать в&nbsp;себе некую сверхоригинальную идею. Но, во-первых, этого мы&nbsp;не наблюдаем в&nbsp;оригинале (уж сколько раз&nbsp;мы сталкивались с&nbsp;кровожадными туманами, извергающими из&nbsp;своих недр неких чудищ), а&nbsp;во-вторых, римейк угробил и&nbsp;то, что&nbsp;осталось от&nbsp;саспенса в&nbsp;&laquo;Тумане&raquo; 1980.<br />
+<br />
+В результате всех творческих переработок &laquo;Туман&raquo; 2005 года представляет собой типичный картонный ужастик, как&nbsp;и положено таким фильмам&nbsp;&#151;&nbsp;не страшный ни&nbsp;разу. Персонажи очень картинно пугаются, раскрывают древние тайны и&nbsp;умирают. Кто&nbsp;из них&nbsp;жилец на&nbsp;этом свете, а&nbsp;кто&nbsp;&#151;&nbsp;нет, можно понять при&nbsp;первом же&nbsp;наступлении опасности. Обычные приемы запугивания, как&nbsp;то: шорохи, скрипы, постукивания&nbsp;&#151;&nbsp;использованы так&nbsp;неумело, что&nbsp;к концу фильма просто раздражают.<br />
+<br />
+Сюжет тоже особой логичностью не&nbsp;отличается. Досмотрев до&nbsp;конца, я&nbsp;так и&nbsp;не поняла, что&nbsp;нужно-то было призракам из&nbsp;тумана. Выходит, что&nbsp;цели своей они&nbsp;так и&nbsp;не достигли, и&nbsp;зачем вообще вылезали из&nbsp;тумана&#133; Непонятно.<br />
+<br />
+И, наконец, его&nbsp;величество Туман. Мне&nbsp;в жизни довелось наблюдать туман, в&nbsp;том числе и&nbsp;плотный настолько, что&nbsp;вытянутую руку с&nbsp;трудом можно разглядеть. Но&nbsp;он ни&nbsp;разу не&nbsp;похож на&nbsp;тот густой молочно-кисельный дым, который играл роль тумана в&nbsp;этом фильме. Возможно, прежде чем&nbsp;приступать к&nbsp;съемкам, создателям фильма нужно было хотя бы&nbsp;выяснить, что&nbsp;это вообще за&nbsp;штука такая&#133; туман.</span></p>
+   </td></tr></table>
+
+    
+
+    <p class="links">
+        <a href="/level/79/user/65503/comment/145701/">прямая ссылка</a>
+        
+    </p>
+    <ul class="useful">
+        <li>Полезная рецензия?
+            
+                <a class="mod" href="#" onclick="OpenSpoiler(145701); return false;"><s>пожаловаться на </s>спойлер?</a>
+            
+        </li>
+        
+            <li class="answer">
+                  <a href="#" class="vote" id="vote_link_ok_145701" onclick="setCommentVote('145701', 'ok', '65503', '84991'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_145701" onclick="setCommentVote('145701', 'no', '65503', '84991'); return false;">Нет</a>
+            </li>
+        
+        <li id="comment_num_vote_145701">6 / 7</li>
+    </ul>
+    <strike></strike>
+    <i id="comment_num_vote_145701_note" class="ajax_bottom"></i>
+
+    <span class="date">8 января 2008 | 16:37</span>
+
+</div>
+<div class="signer signer_edit" id="spoiler_txt_145701">
+   <textarea id="spoiler_textarea_145701"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(145701)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(145701)" />
+   <a href="#" onclick="CloseSpoiler(145701); return false;"></a>
 </div>
 
 
@@ -1610,7 +1601,7 @@ P.S. У&nbsp;меня на&nbsp;даче часто бывает туман. Такой душный и&nbsp;сырой, ска
 
             
                 
-                    <p class="more_random random_bottom"><a href="/level/1/film/84991/ord/rnd/rnd/1280732575/#list">ещё случайные</a></p>
+                    <p class="more_random random_bottom"><a href="/level/1/film/84991/ord/rnd/rnd/1280733595/#list">ещё случайные</a></p>
                 
             
 
@@ -1784,29 +1775,29 @@ $(function(){
 
 <dl class="block block_top250">
    <dt>Лучшие фильмы &mdash; Top 250</dt>
-   <dd class="dl"><a href="/level/1/film/441/"><b>220.</b><i><s>Принцесса Мононоке</s>Mononoke-hime</i><u>8.076</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/5622/"><b>135.</b><i><s>Сонная Лощина</s>Sleepy Hollow</i><u>8.183</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/23712/"><b>221.</b><i><s>Стена</s>Pink Floyd The Wall</i><u>8.076</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/2127/"><b>136.</b><i><s>Малыш</s>Kid, The</i><u>8.182</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/335/"><b>222.</b><i><s>Помни</s>Memento</i><u>8.075</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/9617/"><b>137.</b><i><s>Крупная рыба</s>Big Fish</i><u>8.181</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/42571/"><b>223.</b><i><s>Иди и смотри</s></i><u>8.073</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/8221/"><b>138.</b><i><s>Мой сосед Тоторо</s>Tonari no Totoro</i><u>8.180</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/4384/"><b>224.</b><i><s>Великан</s>Mighty, The</i><u>8.070</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/354/"><b>139.</b><i><s>Апокалипсис сегодня</s>Apocalypse Now</i><u>8.179</u></a></dd>
 
    <dd class="more"><a href="/level/20/">лучшие фильмы</a></dd>
 </dl>
 <dl class="block block_top250">
    <dt>Ожидаемые фильмы</dt>
-   <dd class="dl"><a href="/level/1/film/457276/"><b>26.</b><i><s>Снова ты</s>You Again</i><u>73.99%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/501821/"><b>16.</b><i><s>Зараза</s>Contagion</i><u>80.60%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/462186/"><b>27.</b><i><s>Где-то</s>Somewhere</i><u>73.48%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/399959/"><b>17.</b><i><s>Трон: Наследие</s>TRON: Legacy</i><u>79.65%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/427198/"><b>28.</b><i><s>Социальная сеть</s>Social Network, The</i><u>73.38%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/455338/"><b>18.</b><i><s>Мальчишник в Вегасе&nbsp;2</s>Hangover 2, The</i><u>79.09%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/462466/"><b>29.</b><i><s>Копы в глубоком запасе</s>Other Guys, The</i><u>72.25%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462732/"><b>19.</b><i><s>Город воров</s>Town, The</i><u>78.51%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/463567/"><b>30.</b><i><s>Стоун</s>Stone</i><u>71.44%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/463738/"><b>20.</b><i><s>Восстание обезьян</s>Rise of the Apes</i><u>78.38%</u></a></dd>
 
    <dd class="more"><a href="/level/53/">ожидаемые фильмы</a></dd>
 </dl>

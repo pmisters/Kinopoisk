@@ -1,15 +1,15 @@
 HTTP/1.1 200 OK
 Server: nginx/0.7.62
-Date: Mon, 02 Aug 2010 07:03:28 GMT
+Date: Mon, 02 Aug 2010 07:20:26 GMT
 Content-Type: text/html; charset=windows-1251
 Connection: close
 X-Powered-By: PHP/5.2.10-2ubuntu6.4
-Set-Cookie: PHPSESSID=bcf2ec08d7558d7153dc6f9a171168b6; path=/; domain=kinopoisk.ru
+Set-Cookie: PHPSESSID=c72e00605bc6f5a975469cee1ec10111; path=/; domain=kinopoisk.ru
 Expires: 0
 Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
 Pragma: no-cache
-Last-Modified: Mon, 02 Aug 2010 07:02:53 GMT
-Set-Cookie: last_visit=2010-08-02+11%3A02%3A53; expires=Thu, 16-Sep-2010 07:02:53 GMT; path=/
+Last-Modified: Mon, 02 Aug 2010 07:19:52 GMT
+Set-Cookie: last_visit=2010-08-02+11%3A19%3A52; expires=Thu, 16-Sep-2010 07:19:52 GMT; path=/
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -19,7 +19,7 @@ Set-Cookie: last_visit=2010-08-02+11%3A02%3A53; expires=Thu, 16-Sep-2010 07:02:5
 <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
 <meta name="keywords" content="Космическая одиссея 2010 (2010) фильм кино обои фотографии сеансы афиша обзор комментарии рейтинг факты отзывы кадры  новости сайт  2010: Odyssey Two 2010: The Year We Make Contact 2010 2010 - Das Jahr, in dem wir Kontakt aufnehmen 2010 - L'annee du premier contact (L'odyssee continue) 2010 - L'anno del contatto 2010 - To etos tis pangosmias symfiliosis 2010 - den anden rumrejse 2010 annee du premier contact 2010, odisea dos 2010: Aret da vi far kontakt Ano do Contacto, O Avaruusseikkailu 2010 Svemirska odiseja 2010 O Ano do Contacto 2010: год вступления в контакт 2010 - L&#x27;ann&#xE9;e du premier contact (L&#x27;odyss&#xE9;e continue) 2010 - L&#x27;anno del contatto 2010 ann&#xE9;e du premier contact 2010: &#xC5;ret d&#xE5; vi f&#xE5;r kontakt 2010 - O Ano Em Que Faremos Contato 2010 - El a&#xF1;o que hicimos contacto" />
 
-    <meta name="description" content="Космическая одиссея 2010 (2010). Всё о фильме: фотографии, обои, комментарии пользователей, сеансы, новости, рейтинг фильма. Информация о создателях,  полный список актеров, общие сборы и бюджет фильма." />
+    <meta name="description" content="космическая одиссея 2010 (2010). Всё о фильме: фотографии, обои, комментарии пользователей, сеансы, новости, рейтинг фильма. Информация о создателях,  полный список актеров, общие сборы и бюджет фильма." />
 
 <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
 <link href="/news.rss" type="application/rss+xml" rel="alternate" title="RSS" />
@@ -234,8 +234,8 @@ var ar_bn1= Math.floor(Math.random()*5+1);
    <u class="user"></u>
    <a href='/'><img src="/images/logonew2.gif" alt="КиноПоиск.Ru &ndash; Все фильмы планеты" /></a>
    <a href='/'><span class="logo" title="КиноПоиск.Ru &ndash; Все фильмы планеты"></span></a>
-   <span class="about">всё о любом фильме:</span>
-   <span class="example">например: <a href="/level/1/film/432724/">Гадкий&nbsp;я</a></span>
+   <span class="about">всё о любом актёре:</span>
+   <span class="example">например: <a href="/level/4/people/9836/">Кэмерон Диаз</a></span>
 
    <!-- profile_top start -->
    
@@ -854,6 +854,76 @@ http://www.kinopoisk.ru/level/1/film/8880/</textarea>
 
             <div style="position: relative; padding: 1px 0 40px 0">
 
+<div  class="response good" id="div_review_275266">
+    <img src="/images/users/bsm_252254-50.jpg" width="46" alt="" title="" />
+    <div>
+        
+            <p class="profile_name"><s></s><a href="/level/79/user/252254/">Вадя Ротор</a></p>
+            <ul class="actions">
+                <li class="first"><a href="/level/79/user/252254/comments/">рецензии (104)</a></li>
+<li><a href="/level/79/user/252254/votes/">оценки</a></li>
+<li><a href="/level/79/user/252254/friends/">друзья</a></li>
+<li><a href="/level/79/user/252254/movies/">фильмы</a></li>
+<li><a href="/level/79/user/252254/stars/">звёзды</a></li>
+
+            </ul>
+        
+        <p class="sub_title" id="ext_title_275266">Бледное подобие</p>
+    </div>
+
+    
+
+    
+
+   <table><tr><td>
+      <p id="ext_text_275266"><span class="_reachbanner_" onmouseup='getSelect(275266)'>Вряд ли&nbsp;стоило снимать сиквел культового фильма &laquo;Космическая одиссея 2001&raquo;, потому что&nbsp;он был&nbsp;заранее обречён&#133; нет, не&nbsp;на провал, а&nbsp;просто стать намного хуже оригинала. Он&nbsp;хуже, потому что&nbsp;разительно контрастирует по&nbsp;темпу с&nbsp;сильно растянутой &laquo;Космической одиссеей 2001&raquo;, но&nbsp;если бы&nbsp;темп &laquo;Космической одиссеи 2010&raquo; сделали таким же, его&nbsp;было бы&nbsp;невыразимо скучно смотреть, потому что&nbsp;у зрителей не&nbsp;было бы&nbsp;того чувства новизны, как&nbsp;при просмотре &laquo;Космической одиссеи 2001&raquo;, которая и&nbsp;снята была по&nbsp;последнему слову техники, и&nbsp;продемонстрировала образ жизни людей будущего очень смело и&nbsp;ново для&nbsp;своего времени.<br />
+<br />
+Ещё чего априори невозможно было достичь авторам &laquo;Космической одиссеи 2010&raquo;, это&nbsp;чувства величия показываемого на&nbsp;экране, зрительского благоговения перед таинственным, непонятным монолитом, картинкой, которая пусть и&nbsp;долгое время оставалась статичной, но&nbsp;при этом держала в&nbsp;напряжённом интересе. Чувство величественности создают разве что&nbsp;последние несколько минут фильма&nbsp;&#151;&nbsp;концовка, действительно, была сильна&nbsp;&#151;&nbsp;чего, к&nbsp;сожалению, не&nbsp;скажешь о&nbsp;фильме в&nbsp;целом.<br />
+<br />
+В фильме нашлась небольшая роль для&nbsp;Савелия Крамарова, причём в&nbsp;титрах его&nbsp;поместили на&nbsp;довольно неплохое место, учтя, что&nbsp;он был&nbsp;советской звездой.</span></p>
+   </td></tr></table>
+
+    
+
+    <p class="links">
+        <a href="/level/79/user/252254/comment/275266/">прямая ссылка</a>
+        
+    </p>
+    <ul class="useful">
+        <li>Полезная рецензия?
+            
+                <a class="mod" href="#" onclick="OpenSpoiler(275266); return false;"><s>пожаловаться на </s>спойлер?</a>
+            
+        </li>
+        
+            <li class="answer">
+                  <a href="#" class="vote" id="vote_link_ok_275266" onclick="setCommentVote('275266', 'ok', '252254', '8880'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_275266" onclick="setCommentVote('275266', 'no', '252254', '8880'); return false;">Нет</a>
+            </li>
+        
+        <li id="comment_num_vote_275266">23 / 6</li>
+    </ul>
+    <strike></strike>
+    <i id="comment_num_vote_275266_note" class="ajax_bottom"></i>
+
+    <span class="date">18 сентября 2008 | 17:41</span>
+
+</div>
+<div class="signer signer_edit" id="spoiler_txt_275266">
+   <textarea id="spoiler_textarea_275266"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(275266)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(275266)" />
+   <a href="#" onclick="CloseSpoiler(275266); return false;"></a>
+</div>
+
+
+
+
+
+
+
+</div><div style="position: relative; padding: 1px 0 40px 0">
+
 <div  class="response good" id="div_review_875220">
     <img src="/images/users/bsm_154312-17.jpg" width="46" alt="" title="" />
     <div>
@@ -930,21 +1000,20 @@ http://www.kinopoisk.ru/level/1/film/8880/</textarea>
 
 </div><div style="position: relative; padding: 1px 0 40px 0">
 
-<div  class="response good" id="div_review_275266">
-    <img src="/images/users/bsm_252254-50.jpg" width="46" alt="" title="" />
+<div  class="response good" id="div_review_798019">
+    <img src="/images/users/bsm_615288-50.jpg" width="46" alt="" title="" />
     <div>
         
-            <p class="profile_name"><s></s><a href="/level/79/user/252254/">Вадя Ротор</a></p>
+            <p class="profile_name"><s></s><a href="/level/79/user/615288/">timepoka</a></p>
             <ul class="actions">
-                <li class="first"><a href="/level/79/user/252254/comments/">рецензии (104)</a></li>
-<li><a href="/level/79/user/252254/votes/">оценки</a></li>
-<li><a href="/level/79/user/252254/friends/">друзья</a></li>
-<li><a href="/level/79/user/252254/movies/">фильмы</a></li>
-<li><a href="/level/79/user/252254/stars/">звёзды</a></li>
+                <li class="first"><a href="/level/79/user/615288/comments/">рецензии (5)</a></li>
+<li><a href="/level/79/user/615288/votes/">оценки</a></li>
+<li><a href="/level/79/user/615288/movies/">фильмы</a></li>
+<li><a href="/level/79/user/615288/subscribe/"></a></li>
 
             </ul>
         
-        <p class="sub_title" id="ext_title_275266">Бледное подобие</p>
+        <p class="sub_title" id="ext_title_798019">Вся Картина&#133;</p>
     </div>
 
     
@@ -952,44 +1021,48 @@ http://www.kinopoisk.ru/level/1/film/8880/</textarea>
     
 
    <table><tr><td>
-      <p id="ext_text_275266"><span class="_reachbanner_" onmouseup='getSelect(275266)'>Вряд ли&nbsp;стоило снимать сиквел культового фильма &laquo;Космическая одиссея 2001&raquo;, потому что&nbsp;он был&nbsp;заранее обречён&#133; нет, не&nbsp;на провал, а&nbsp;просто стать намного хуже оригинала. Он&nbsp;хуже, потому что&nbsp;разительно контрастирует по&nbsp;темпу с&nbsp;сильно растянутой &laquo;Космической одиссеей 2001&raquo;, но&nbsp;если бы&nbsp;темп &laquo;Космической одиссеи 2010&raquo; сделали таким же, его&nbsp;было бы&nbsp;невыразимо скучно смотреть, потому что&nbsp;у зрителей не&nbsp;было бы&nbsp;того чувства новизны, как&nbsp;при просмотре &laquo;Космической одиссеи 2001&raquo;, которая и&nbsp;снята была по&nbsp;последнему слову техники, и&nbsp;продемонстрировала образ жизни людей будущего очень смело и&nbsp;ново для&nbsp;своего времени.<br />
+      <p id="ext_text_798019"><span class="_reachbanner_" onmouseup='getSelect(798019)'>&laquo;Космическая Одиссея 2001&raquo; этой первый шаг, после которого, наверное лучше посмотреть и&nbsp;эту картину, да&nbsp;бы осмысление замысла авторов стало яснее, перед вами предстанет полная картина&#133; <br />
 <br />
-Ещё чего априори невозможно было достичь авторам &laquo;Космической одиссеи 2010&raquo;, это&nbsp;чувства величия показываемого на&nbsp;экране, зрительского благоговения перед таинственным, непонятным монолитом, картинкой, которая пусть и&nbsp;долгое время оставалась статичной, но&nbsp;при этом держала в&nbsp;напряжённом интересе. Чувство величественности создают разве что&nbsp;последние несколько минут фильма&nbsp;&#151;&nbsp;концовка, действительно, была сильна&nbsp;&#151;&nbsp;чего, к&nbsp;сожалению, не&nbsp;скажешь о&nbsp;фильме в&nbsp;целом.<br />
+Эти обе&nbsp;части взаимодополняющие, и&nbsp;лучше посмотреть их&nbsp;одну за&nbsp;другой, или&nbsp;же через день, да&nbsp;бы поразмыслить и&nbsp;подумать что&nbsp;было сказано в&nbsp;первой части, и&nbsp;что будет досказано в&nbsp;следующей&#133; <br />
 <br />
-В фильме нашлась небольшая роль для&nbsp;Савелия Крамарова, причём в&nbsp;титрах его&nbsp;поместили на&nbsp;довольно неплохое место, учтя, что&nbsp;он был&nbsp;советской звездой.</span></p>
+Поверьте, если вам&nbsp;показалось непонятной или&nbsp;скучной первая часть, то&nbsp;не расстраивайтесь и&nbsp;не думайте что&nbsp;фильм снят не&nbsp;хорошо, просто там&nbsp;скрыт некий смысл, непонятный с&nbsp;первого взгляда. <br />
+<br />
+Надо видеть обе&nbsp;части, тогда всё&nbsp;становится куда более понятнее и&nbsp;интереснее, эти&nbsp;два фильма в&nbsp;целом собирают мозаику картины, которая великолепна и&nbsp;уникальная в&nbsp;своём роде&#133;<br />
+<br />
+10 из&nbsp;10 (как первый, так&nbsp;и второй фильм)</span></p>
    </td></tr></table>
 
     
 
     <p class="links">
-        <a href="/level/79/user/252254/comment/275266/">прямая ссылка</a>
+        <a href="/level/79/user/615288/comment/798019/">прямая ссылка</a>
         
     </p>
     <ul class="useful">
         <li>Полезная рецензия?
             
-                <a class="mod" href="#" onclick="OpenSpoiler(275266); return false;"><s>пожаловаться на </s>спойлер?</a>
+                <a class="mod" href="#" onclick="OpenSpoiler(798019); return false;"><s>пожаловаться на </s>спойлер?</a>
             
         </li>
         
             <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_275266" onclick="setCommentVote('275266', 'ok', '252254', '8880'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_275266" onclick="setCommentVote('275266', 'no', '252254', '8880'); return false;">Нет</a>
+                  <a href="#" class="vote" id="vote_link_ok_798019" onclick="setCommentVote('798019', 'ok', '615288', '8880'); return false;">Да</a>
+                / <a href="#" class="vote" id="vote_link_no_798019" onclick="setCommentVote('798019', 'no', '615288', '8880'); return false;">Нет</a>
             </li>
         
-        <li id="comment_num_vote_275266">23 / 6</li>
+        <li id="comment_num_vote_798019">2 / 3</li>
     </ul>
     <strike></strike>
-    <i id="comment_num_vote_275266_note" class="ajax_bottom"></i>
+    <i id="comment_num_vote_798019_note" class="ajax_bottom"></i>
 
-    <span class="date">18 сентября 2008 | 17:41</span>
+    <span class="date">10 марта 2010 | 04:32</span>
 
 </div>
-<div class="signer signer_edit" id="spoiler_txt_275266">
-   <textarea id="spoiler_textarea_275266"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(275266)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(275266)" />
-   <a href="#" onclick="CloseSpoiler(275266); return false;"></a>
+<div class="signer signer_edit" id="spoiler_txt_798019">
+   <textarea id="spoiler_textarea_798019"></textarea>
+   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(798019)" />
+   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(798019)" />
+   <a href="#" onclick="CloseSpoiler(798019); return false;"></a>
 </div>
 
 
@@ -1023,7 +1096,7 @@ http://www.kinopoisk.ru/level/1/film/8880/</textarea>
    <table><tr><td>
       <p id="ext_text_366368"><span class="_reachbanner_" onmouseup='getSelect(366368)'>Конечно, это&nbsp;не. .. Одиссея 2001 и, как&nbsp;мне кажется, Хаймс такой цели и&nbsp;не ставил. Думаю, продюсеры заранее решили, что&nbsp;это будет просто динамичный фантастический фильм, который обречён на&nbsp;успех ввиду состоявшегося бренда, созданного Кубриком. <br />
 <br />
-Да, фильм пустой и&nbsp;спецэффекты в&nbsp;нём&nbsp;&#151;&nbsp;сплошная наспех сделанная халтура, но&nbsp;что-то мне&nbsp;подсказывает, что&nbsp;именно таким и&nbsp;видел своё творение сам&nbsp;Артур Кларк, автор ещё двух одиссей&nbsp;&#151;&nbsp;2061 и&nbsp;3001 года. Кто&nbsp;читал его&nbsp;книги тот&nbsp;поймёт. Те&nbsp;явно написаны для&nbsp;школьников 10, 11-х классов и&nbsp;читаются на&nbsp;одном дыхании, как&nbsp;приключенческий боевик, в&nbsp;том числе и&nbsp;прославленная Одиссея 2001.<br />
+Да, фильм пустой и&nbsp;спецэффекты в&nbsp;нём&nbsp;&#151;&nbsp;сплошная наспех сделанная халтура, но&nbsp;что-то мне&nbsp;подсказывает, что&nbsp;именно таким и&nbsp;видел своё творение сам&nbsp;Артур Кларк, автор ещё&nbsp;двух одиссей&nbsp;&#151;&nbsp;2061 и&nbsp;3001 года. Кто&nbsp;читал его&nbsp;книги тот&nbsp;поймёт. Те&nbsp;явно написаны для&nbsp;школьников 10, 11-х классов и&nbsp;читаются на&nbsp;одном дыхании, как&nbsp;приключенческий боевик, в&nbsp;том числе и&nbsp;прославленная Одиссея 2001.<br />
 <br />
  Так&nbsp;что ругать особо этот фильм я&nbsp;не могу. Я&nbsp;думаю никто и&nbsp;не претендовал переплюнуть Кубрика и&nbsp;за эту&nbsp;честность я&nbsp;говорю &laquo;Спасибо и&nbsp;на том!&raquo;<br />
 <br />
@@ -1061,79 +1134,6 @@ http://www.kinopoisk.ru/level/1/film/8880/</textarea>
    <input class="save" type="button" value="отправить" onclick="VoteSpoiler(366368)" />
    <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(366368)" />
    <a href="#" onclick="CloseSpoiler(366368); return false;"></a>
-</div>
-
-
-
-
-
-
-
-</div><div style="position: relative; padding: 1px 0 40px 0">
-
-<div  class="response good" id="div_review_798019">
-    <img src="/images/users/bsm_615288-50.jpg" width="46" alt="" title="" />
-    <div>
-        
-            <p class="profile_name"><s></s><a href="/level/79/user/615288/">timepoka</a></p>
-            <ul class="actions">
-                <li class="first"><a href="/level/79/user/615288/comments/">рецензии (5)</a></li>
-<li><a href="/level/79/user/615288/votes/">оценки</a></li>
-<li><a href="/level/79/user/615288/movies/">фильмы</a></li>
-<li><a href="/level/79/user/615288/subscribe/"></a></li>
-
-            </ul>
-        
-        <p class="sub_title" id="ext_title_798019">Вся Картина&#133;</p>
-    </div>
-
-    
-
-    
-
-   <table><tr><td>
-      <p id="ext_text_798019"><span class="_reachbanner_" onmouseup='getSelect(798019)'>&laquo;Космическая Одиссея 2001&raquo; этой первый шаг, после которого, наверное лучше посмотреть и&nbsp;эту картину, да&nbsp;бы осмысление замысла авторов стало яснее, перед вами предстанет полная картина&#133; <br />
-<br />
-Эти обе&nbsp;части взаимодополняющие, и&nbsp;лучше посмотреть их&nbsp;одну за&nbsp;другой, или&nbsp;же через день, да&nbsp;бы поразмыслить и&nbsp;подумать что&nbsp;было сказано в&nbsp;первой части, и&nbsp;что будет досказано в&nbsp;следующей&#133; <br />
-<br />
-Поверьте, если вам&nbsp;показалось непонятной или&nbsp;скучной первая часть, то&nbsp;не расстраивайтесь и&nbsp;не думайте что&nbsp;фильм снят не&nbsp;хорошо, просто там&nbsp;скрыт некий смысл, непонятный с&nbsp;первого взгляда. <br />
-<br />
-Надо видеть обе&nbsp;части, тогда всё становится куда более понятнее и&nbsp;интереснее, эти&nbsp;два фильма в&nbsp;целом собирают мозаику картины, которая великолепна и&nbsp;уникальная в&nbsp;своём роде&#133;<br />
-<br />
-10 из&nbsp;10 (как первый, так&nbsp;и второй фильм)</span></p>
-   </td></tr></table>
-
-    
-
-    <p class="links">
-        <a href="/level/79/user/615288/comment/798019/">прямая ссылка</a>
-        
-    </p>
-    <ul class="useful">
-        <li>Полезная рецензия?
-            
-                <a class="mod" href="#" onclick="OpenSpoiler(798019); return false;"><s>пожаловаться на </s>спойлер?</a>
-            
-        </li>
-        
-            <li class="answer">
-                  <a href="#" class="vote" id="vote_link_ok_798019" onclick="setCommentVote('798019', 'ok', '615288', '8880'); return false;">Да</a>
-                / <a href="#" class="vote" id="vote_link_no_798019" onclick="setCommentVote('798019', 'no', '615288', '8880'); return false;">Нет</a>
-            </li>
-        
-        <li id="comment_num_vote_798019">2 / 3</li>
-    </ul>
-    <strike></strike>
-    <i id="comment_num_vote_798019_note" class="ajax_bottom"></i>
-
-    <span class="date">10 марта 2010 | 04:32</span>
-
-</div>
-<div class="signer signer_edit" id="spoiler_txt_798019">
-   <textarea id="spoiler_textarea_798019"></textarea>
-   <input class="save" type="button" value="отправить" onclick="VoteSpoiler(798019)" />
-   <input class="close" type="button" value="закрыть" onclick="CloseSpoiler(798019)" />
-   <a href="#" onclick="CloseSpoiler(798019); return false;"></a>
 </div>
 
 
@@ -1330,29 +1330,29 @@ $(function(){
 
 <dl class="block block_top250">
    <dt>Лучшие фильмы &mdash; Top 250</dt>
-   <dd class="dl"><a href="/level/1/film/79204/"><b>150.</b><i><s>Белый плен</s>Eight Below</i><u>8.165</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/81555/"><b>225.</b><i><s>Загадочная история Бенджамина Баттона</s>Curious Case of Benjamin Button, The</i><u>8.069</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/8178/"><b>151.</b><i><s>Совершенный мир</s>A Perfect World</i><u>8.165</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/2333/"><b>226.</b><i><s>Скала</s>Rock, The</i><u>8.069</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/16117/"><b>152.</b><i><s>Лис и пес</s>Fox and the Hound, The</i><u>8.162</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/61627/"><b>227.</b><i><s>Дорогой Фрэнки</s>Dear Frankie</i><u>8.069</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/8147/"><b>153.</b><i><s>Русалочка</s>Little Mermaid, The</i><u>8.161</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/337/"><b>228.</b><i><s>Окно во двор</s>Rear Window</i><u>8.068</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/81297/"><b>154.</b><i><s>Малышка на миллион</s>Million Dollar Baby</i><u>8.160</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/610/"><b>229.</b><i><s>Билли Эллиот</s>Billy Elliot</i><u>8.066</u></a></dd>
 
    <dd class="more"><a href="/level/20/">лучшие фильмы</a></dd>
 </dl>
 <dl class="block block_top250">
    <dt>Ожидаемые фильмы</dt>
-   <dd class="dl"><a href="/level/1/film/195615/"><b>56.</b><i><s>Механик</s>Mechanic, The</i><u>63.38%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/470179/"><b>6.</b><i><s>Красная шапочка</s>Red Riding Hood</i><u>83.66%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/464282/"><b>57.</b><i><s>Впритык</s>Due Date</i><u>63.09%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462606/"><b>7.</b><i><s>Области тьмы</s>Dark Fields, The</i><u>83.50%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/279580/"><b>58.</b><i><s>Боец</s>Fighter, The</i><u>62.01%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/432550/"><b>8.</b><i><s>Неудержимые</s>Expendables, The</i><u>82.52%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/281439/"><b>59.</b><i><s>Хроники Нарнии: Покоритель Зари</s>Chronicles of Narnia: The Voyage of the Dawn Treader, The</i><u>61.91%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/450765/"><b>9.</b><i><s>Меняющие реальность</s>Adjustment Bureau, The</i><u>82.50%</u></a></dd>
 
-   <dd class="dl"><a href="/level/1/film/433210/"><b>60.</b><i><s>Чат</s>Chatroom</i><u>61.44%</u></a></dd>
+   <dd class="dl"><a href="/level/1/film/462154/"><b>10.</b><i><s>Потустороннее</s>Hereafter</i><u>81.97%</u></a></dd>
 
    <dd class="more"><a href="/level/53/">ожидаемые фильмы</a></dd>
 </dl>

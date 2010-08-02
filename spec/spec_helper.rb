@@ -18,7 +18,9 @@ KINOPOISK_SAMPLES = {
   'http://www.kinopoisk.ru/level/1/film/273302/' => '273302',
   'http://www.kinopoisk.ru/level/1/film/84991/' => '84991',
   'http://www.kinopoisk.ru/level/1/film/8880/' => '8880',
-  'http://www.kinopoisk.ru/index.php?first=no&kp_query=%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%20(2010)' => 'search_tuman_2010'
+  'http://www.kinopoisk.ru/index.php?first=no&kp_query=%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%20(2010)' => 'search_tuman_2010',
+  'http://www.kinopoisk.ru/level/17/film/273302/adv_type/cover/' => 'cover_list_273302',
+  'http://www.kinopoisk.ru/picture/752233/' => 'cover_273302'
 }
 
 unless ENV['LIVE_TEST']

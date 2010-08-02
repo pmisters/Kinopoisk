@@ -1,0 +1,331 @@
+HTTP/1.1 200 OK
+Server: nginx/0.7.62
+Date: Mon, 02 Aug 2010 07:20:33 GMT
+Content-Type: text/html; charset=windows-1251
+Connection: close
+X-Powered-By: PHP/5.2.6-2ubuntu4.2
+Set-Cookie: PHPSESSID=428f515b9d5436710ff1e555bc805cb6; path=/; domain=kinopoisk.ru
+Expires: 0
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Last-Modified: Mon, 02 Aug 2010 07:19:58 GMT
+Set-Cookie: last_visit=2010-08-02+11%3A19%3A58; expires=Thu, 16-Sep-2010 07:19:58 GMT; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Постеры:  Мгла (Mist, The)</title>
+    <meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+    <meta name="description" content="Постеры: мгла (MIST, THE). Лучшие постеры из фильма." />
+<meta name="keywords" content="постеры постер Мгла (Mist, The) обои фото рабочий стол десктоп wallpaper desktop" />
+
+    <link href="/images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <link href="/js/graph.css?v=20100723-1601" type="text/css" rel="stylesheet" media="all" />
+
+    <script src="/js/swfobject.js" type="text/javascript"></script>
+    
+   
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  	_gaq.push(['_addOrganic', 'images.yandex.ru','q',true]);
+		_gaq.push(['_addOrganic', 'blogsearch.google.ru','q',true]);
+		_gaq.push(['_addOrganic', 'blogs.yandex.ru','text',true]);
+		_gaq.push(['_addOrganic', 'go.mail.ru','q']);
+		_gaq.push(['_addOrganic', 'nova.rambler.ru','query']);
+		_gaq.push(['_addOrganic', 'nigma.ru','s']);
+		_gaq.push(['_addOrganic', 'webalta.ru','q']);
+		_gaq.push(['_addOrganic', 'aport.ru','r']);
+		_gaq.push(['_addOrganic', 'poisk.ru','text']);
+		_gaq.push(['_addOrganic', 'km.ru','sq']);
+		_gaq.push(['_addOrganic', 'liveinternet.ru','ask']);
+		_gaq.push(['_addOrganic', 'quintura.ru','request']);
+		_gaq.push(['_addOrganic', 'search.qip.ru','query']);
+		_gaq.push(['_addOrganic', 'gde.ru','keywords']);
+		_gaq.push(['_addOrganic', 'gogo.ru','q']);
+		_gaq.push(['_addOrganic', 'ru.yahoo.com','p']);
+		_gaq.push(['_addOrganic', 'akavita.by','z']);
+		_gaq.push(['_addOrganic', 'tut.by','query']);
+		_gaq.push(['_addOrganic', 'all.by','query']);
+		_gaq.push(['_addOrganic', 'meta.ua','q']);
+		_gaq.push(['_addOrganic', 'bigmir.net','q']);
+		_gaq.push(['_addOrganic', 'i.ua','q']);
+		_gaq.push(['_addOrganic', 'online.ua','q']);
+		_gaq.push(['_addOrganic', 'a.ua','s']);
+		_gaq.push(['_addOrganic', 'ukr.net','search_query']);
+		_gaq.push(['_addOrganic', 'search.com.ua','q']);
+		_gaq.push(['_addOrganic', 'search.ua','query']);
+		_gaq.push(['_addOrganic', 'search.ukr.net','search_query']);
+		_gaq.push(['_setAccount', 'UA-1078348-1']);
+		_gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+
+
+
+
+    <script src="http://yandex.st/jquery/1.3.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="http://yandex.st/jquery-ui/1.7.2/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/profile_v1.0.7.js?v=20100402" type="text/javascript"></script>
+    <link href="/js/ui/css/base/ui.all.css?v=20100402" type="text/css" rel="stylesheet" media="all" />
+
+    <script type="text/javascript" src="/js/yahoo-dom-event.js?v=373"></script>
+    <script type="text/javascript" src="/js/connection-min.js?v=373"></script>
+    <script type="text/javascript" src="/js/vbulletin_global.js?v=373"></script>
+    <script type="text/javascript" src="/js/vbulletin_menu.js?v=373"></script>
+    <script type="text/javascript" src="/js/ajax_namesugg.js"></script>
+    <script type="text/javascript" src="/js/news_buttons.js?v=20100426-1815"></script>
+    <script type="text/javascript">
+    function isGuest() {return true;}
+    email_from = '';
+    login_from = '';
+    level_from = 'pic';
+
+    function findDimensions()
+    {
+        var width = 0, height = 0;
+        if (window.innerWidth) {
+            width = window.innerWidth;
+            height = window.innerHeight;
+        } else if(document.body && document.body.clientWidth) {
+            width = document.body.clientWidth;
+            height = document.body.clientHeight;
+        }
+        if (document.documentElement && document.documentElement.clientWidth) {
+            width = document.documentElement.clientWidth;
+            height = document.documentElement.clientHeight;
+        }
+        var ret = new Array();
+        ret['width'] = width;
+        ret['height'] = height;
+        return ret;
+    }
+
+    function autoFit(obj)
+    {
+        if (!obj.offsetHeight) {
+            setTimeout(function(){autoFit(obj)},100);
+            return;
+        }
+        var monitor=findDimensions();
+        // вычисляем по высоте
+        var newHeight_H=monitor['height']-300;
+        newHeight_H=newHeight_H>200?newHeight_H:200;
+        var newWidth_H=(newHeight_H/1400)*960;
+
+        // вычисляем по ширине
+        var newWidth_W=monitor['width']-20;
+        newWidth_W=newWidth_W>300?newWidth_W:300;
+        var newHeight_W=(newWidth_W/960)*1400;
+        // масштабируем по высоте
+        if(newHeight_H<=newHeight_W) {
+            var newWidth=newWidth_H;
+            var newHeight=newHeight_H;
+        // масштабируем по Ширине
+        } else {
+            var newWidth=newWidth_W;
+            var newHeight=newHeight_W;
+        }
+
+        if (obj.offsetHeight<=newHeight) {
+            document.getElementById('autoFitButton').innerHTML="";newHeight=obj.offsetHeight;
+        }
+        
+            
+                if (obj.src.indexOf("--o--")<0) {
+                    if (obj.offsetHeight>newHeight) {
+                        obj.style.height=newHeight+"px";
+                        obj.style.width=newWidth+"px";
+                        document.getElementById('main_table').style.height=newHeight+"px";
+                    }
+                }
+            
+        
+
+        document.getElementById('main_table').style.height=newHeight?newHeight+'px':'1400px';
+        obj.style.position="relative";
+        obj.style.marginLeft=0;
+    }
+
+//document.onkeyup = NavigateThrough;
+$(function(){
+		$("*").bind("keydown",NavigateThrough);
+	});
+
+function NavigateThrough (event)
+{
+	if(!event) return;
+    link = null;
+	if(typeof(event.keyCode)!="undefined")
+		var b=event.keyCode;
+	if(typeof(event.which)!="undefined")
+		var b=event.which;
+		
+		
+	
+	if(b){
+    switch (b) {
+        case 0x25:
+            link = document.getElementById ('PrevLink');
+            break;
+
+        case 0x27:
+            link = document.getElementById ('NextLink');
+            break;
+    }
+	}
+
+    if (link && link.href) {
+        document.location = link.href;
+    }
+}
+</script>
+
+</head>
+
+<body id="top">
+<!-- counters -->
+   <!--begin of Top100-->
+   <a href="http://top100.rambler.ru/top100/"><img src="http://counter.rambler.ru/top100.cnt?519852" alt="Rambler\'s Top100" width=1 height=1 border=0></a>
+   <!--end of Top100-->
+   <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<img src='http://counter.yadro.ru/hit?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' width=1 height=1 alt=''>")//--></script><!--/LiveInternet-->
+
+<!-- tns-counter.ru -->
+<script language="JavaScript">
+	var img = new Image();
+	img.src = 'http://www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/';
+</script>
+<noscript>
+	<img src="http://www.tns-counter.ru/V13a****kinopoisk_ru/ru/CP1251/tmsec=kinopoisk_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+
+<!-- /counters -->
+    
+
+<table><tr><td>
+
+<a href="/"><img class="logo" src="/images/logonew2.gif" width="210" height="55" alt="На главную страницу" title="На главную страницу" /></a>
+<!-- <br><br> -->
+
+<table>
+<tr>
+   <td height=10 width=70% style="border-bottom:1px solid #999"><img src="/images/spacer.gif" width=1 height=1></td>
+   <td height=10><img src="/images/corner05.gif" width=13 height=14></td>
+   <td height=10 width=30% style="border-top:1px solid #999"><img src="/images/spacer.gif" width=1 height=1></td>
+</tr>
+</table>
+
+<table class="thermo"><tr>
+   <td class="home"><a href="/level/17/">Постеры: Главная</a></td>
+   <td class="slash">/</td>
+   <td><a href="/level/17/film/273302/adv_type/cover/">Обложки: Мгла</a></td>
+   <td class="slash">/</td>
+   <td>Просмотр постеров</td>
+</tr></table>
+
+<div class="thermo"><s></s><u></u><a href="/level/1/film/273302/" class=all>Информация о фильме</a> &raquo;<a class="send" href="#" onclick="openMailFriend(false); return false">Послать эту ссылку другу</a></div>
+
+<table style="width: auto; height: 25px; margin: 10px 0 10px 20px">
+<tr>
+      <td><div class="go_block">&laquo; назад<i>|</i><a href="/level/17/film/273302/adv_type/cover/">все обложки</a><i>|</i><a href="/picture/752232/">вперед &raquo;</a><link rel="next" href="/picture/752232/" id="NextLink" /></div></td>
+   <td width="30">&nbsp;</td>
+   <td width="270">
+<table cellpadding=5 cellspacing=0 height=25 bgcolor="#f2f2f2" border=0>
+<form>
+	<tr>
+		<td align=center width=70><span style="color:#777">cлайдшоу:</span></td>
+		<td style="width: 27px; padding-left: 43px"><input class="slide_input" type="text" name="slide" value="5" /><span style="color: #777">сек.</span></td>
+		<td><img src="/images/show-start.gif" hspace=5 vspace=2 width=89 height=18 onclick="document.location='/picture/752232/slide/'+document.getElementsByName('slide').item(0).value+'/';">
+		</td>
+	</tr>
+</form>
+</table>
+</td>
+<td width="30">&nbsp;</td>
+
+   <td id="autoFitButton"><a class="enlarge_2" href="autofit/no/">увеличить фото</a><b class="enlarge_margin"></b></td>
+   <td><!--a href="" target="_blank"><img src="http://www.kinopoisk.ru/images/mobile.gif" alt="Загрузить в мобильный телефон" /></a--></td>
+</tr>
+</table>
+<table style="width: auto; height: auto; margin-left: 20px" id="main_table">
+<tr>
+	<td valign="top">
+		<a href="/picture/752232/">
+			
+				<img style="border: 1px #777 solid; position: absolute; margin-left: -5000px" src="http://st3.kinopoisk.ru/im/poster/7/5/2/kinopoisk.ru-Mist_2C-The-752233.jpg" width="960" height="1400" alt="Мгла (Mist, The)" onload="autoFit(this);" />
+			
+		</a>
+		
+	</td>
+</tr>
+
+</table>
+
+<table style="width: auto; height: 25px; margin: 10px 0 10px 20px">
+<tr>
+   <td style="background: #f2f2f2">   <td><div class="go_block">&laquo; назад<i>|</i><a href="/level/17/film/273302/adv_type/cover/">все обложки</a><i>|</i><a href="/picture/752232/">вперед &raquo;</a><link rel="next" href="/picture/752232/" id="NextLink" /></div></td>
+   <td width="30">&nbsp;</td></td>
+   
+   <td width="50">&nbsp;</td>
+   
+</tr>
+</table>
+
+<div id="pages">
+<b>1</b>
+<a href="/picture/752232/">2</a>
+<a href="/picture/702010/">3</a>
+<s></s>
+</div>
+
+<table style="margin-bottom: 20px">
+<tr><td colspan=3 style="font-size:13px;padding-left:25px" height=20><br>Кроме этого, доступны <a href="/level/12/film/273302/" class=all>обои</a>, <a href="/level/13/film/273302/" class=all>фотографии</a> из этого фильма.</td></tr>
+
+</table>
+
+<div class="thermo"><s></s><u></u><a href="/level/1/film/273302/" class=all>Информация о фильме</a> &raquo;<a class="send" href="#" onclick="openMailFriend(false); return false">Послать эту ссылку другу</a></div>
+
+<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=925296"'+
+' target=_top><img src="http://top.list.ru/counter'+
+'?id=925296;t=51;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=1 width=1/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a
+target=_top href="http://top.mail.ru/jump?from=925296"><img
+src="http://top.list.ru/counter?js=na;id=925296;t=51"
+border=0 height=1 width=1
+alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+<div id="bottom">
+   <cite>&copy; 2003&ndash;2010 <a href="/">КиноПоиск.Ru</a></cite>
+   <ul>
+      <li><a href="/level/23/">Книга жалоб и предложений</a></li>
+      <li><a href="/level/76/doc/usage/">Условия использования сайта</a></li>
+   </ul>
+</div>
+
+</td></tr></table>
+
+</body>
+</html>

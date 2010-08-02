@@ -54,8 +54,12 @@ describe 'Kinopoisk::Movie' do
     movie.plot.should == "Действие происходит спустя девять лет после событий предыдущей картины. Космический корабль «Алексей Леонов» с советско-американским экипажем на борту отправляется на Юпитер, чтобы разгадать тайну оставленного на орбите корабля-первопроходца «Дискавери».\n\nДля этого командиру и членам звездного экипажа предстоит вновь активировать выведенный из строя компьютерный мозг HAL-9000, который явился одной из причин провала первой экспедиции."
   end
   
+  it 'should find the thumbnail of the poster' do
+    @movie.thumbnail.should == 'http://www.kinopoisk.ru/images/film/273302.jpg'
+  end
+  
   it 'should find the poster' do
-    @movie.poster.should == 'http://www.kinopoisk.ru/images/film/273302.jpg'
+    @movie.poster.should == 'http://st3.kinopoisk.ru/im/poster/7/5/2/kinopoisk.ru-Mist_2C-The-752233.jpg'
   end
   
   it 'should find the rating' do
