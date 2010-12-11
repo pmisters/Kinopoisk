@@ -1,7 +1,8 @@
 module Kinopoisk
   class Search
     attr_accessor :query
-    
+ HEADERS = {'Referer' => 'http://www.kinopoisk.ru/',
+            'User-Agent' => 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.8) Gecko/20100723 openSUSE ROCKS! Firefox/3.6.8'} 
     def initialize(query)
       @query = query
     end
@@ -17,7 +18,7 @@ module Kinopoisk
     end
 
     def parse_movies
-      links = document.search("//a[@class='all']")
+      links = document.search("//div[@class='element most_wanted']").search("p[@class='name']").search("a")
       links.reject! {|item| item.attributes['href'] !~ /\/film\// }
       links = links.map do |item|
         id = item['href'][/\d{3,}/]
@@ -28,9 +29,9 @@ module Kinopoisk
     
     def self.query(query)
       begin
-        url = URI.parse "http://www.kinopoisk.ru/index.php?first=no&kp_query=#{ URI.escape(query) }"
+        url = URI.parse "http://s.kinopoisk.ru/index.php?first=no&kp_query=#{ URI.escape(query) }"
         request = Net::HTTP.new url.host, url.port
-        response = request.get "#{url.path}?#{url.query}"
+        response = request.get "#{url.path}?#{url.query}", HEADERS
         response.body.to_utf8
         
       rescue Net::HTTPError
