@@ -1,3 +1,4 @@
+# encoding: utf-8
 module Kinopoisk
   class Movie
     attr_accessor :id, :url, :title
